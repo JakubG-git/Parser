@@ -233,7 +233,7 @@ public class Parser {
      * Saves parsed data to XML file
      * @return - Invoice object
      */
-    public Invoice saveToXML(){
+    public Pair<Invoice, JPK> saveToXML(){
 
         ArrayList<Company> companies;
         ArrayList<InvoiceRow> invoiceRows;
@@ -249,6 +249,9 @@ public class Parser {
         companies = pair.getKey();
         invoiceRows = pair.getValue();
         invoiceSummary.setNumberOfInvoices(invoiceNum.size());
-        return new Invoice(companies, invoiceSummary, invoiceRows, invoiceSummary2);
+        wrapJpk.addFakturaCtrl(invoiceSummary);
+        wrapJpk.addFakturaWierszCtrl(invoiceSummary2);
+        wrapJpk.addFakturaRows(invoiceRows);
+        return new Pair<>(new Invoice(companies, invoiceSummary, invoiceRows, invoiceSummary2), jpk);
     }
 }

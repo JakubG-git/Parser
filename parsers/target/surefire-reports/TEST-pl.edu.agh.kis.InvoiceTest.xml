@@ -60,8 +60,8 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="sun.cpu.isalist" value="amd64"/>
   </properties>
-  <testcase classname="pl.edu.agh.kis.InvoiceTest" name="pl.edu.agh.kis.InvoiceTest.testInvoice" time="0.003"/>
   <testcase classname="pl.edu.agh.kis.InvoiceTest" name="pl.edu.agh.kis.InvoiceTest.testInvoiceCompanies" time="0"/>
-  <testcase classname="pl.edu.agh.kis.InvoiceTest" name="pl.edu.agh.kis.InvoiceTest.testInvoiceByStages" time="0"/>
+  <testcase classname="pl.edu.agh.kis.InvoiceTest" name="pl.edu.agh.kis.InvoiceTest.testInvoiceByStages" time="0.003"/>
   <testcase classname="pl.edu.agh.kis.InvoiceTest" name="pl.edu.agh.kis.InvoiceTest.testInvoiceInvoiceRows" time="0"/>
+  <testcase classname="pl.edu.agh.kis.InvoiceTest" name="pl.edu.agh.kis.InvoiceTest.testInvoice" time="0"/>
 </testsuite>

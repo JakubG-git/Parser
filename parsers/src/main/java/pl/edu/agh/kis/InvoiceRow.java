@@ -2,6 +2,7 @@ package pl.edu.agh.kis;
 
 import jakarta.xml.bind.annotation.XmlElement;
 import jakarta.xml.bind.annotation.XmlRootElement;
+import lombok.Getter;
 
 import java.math.BigDecimal;
 import java.math.RoundingMode;
@@ -9,6 +10,7 @@ import java.math.RoundingMode;
  * Class for invoice row.
  * @author Jakub Głowacki
  */
+@Getter
 @XmlRootElement
 public class InvoiceRow {
     @XmlElement
@@ -16,7 +18,7 @@ public class InvoiceRow {
     @XmlElement
     String invoiceDescription;
     @XmlElement
-    String amountOfGoods;
+    BigDecimal amountOfGoods;
     @XmlElement
     BigDecimal pricePerGood;
     @XmlElement
@@ -58,7 +60,7 @@ public class InvoiceRow {
                 invoiceDescription = value;
                 break;
             case 7:
-                amountOfGoods = value;
+                amountOfGoods = convertStringToBigDecimal(value);;
                 break;
             case 8:
                 pricePerGood = convertStringToBigDecimal(value);
@@ -74,6 +76,9 @@ public class InvoiceRow {
                 break;
         }
 
+    }
+    public String getTaxRate(){
+        return taxRate + "";
     }
 
 }

@@ -8,8 +8,10 @@ import javax.xml.datatype.DatatypeFactory;
 import javax.xml.datatype.XMLGregorianCalendar;
 import java.math.BigDecimal;
 import java.math.BigInteger;
+import java.util.ArrayList;
 import java.util.Date;
 import java.util.GregorianCalendar;
+import java.util.List;
 
 public class WrapJpk {
     protected JPK jpk;
@@ -42,7 +44,6 @@ public class WrapJpk {
             logger.error(e.getMessage());
         }
         initSubject();
-
     }
     private void initHeader() throws DatatypeConfigurationException {
         JPK.Naglowek header = this.jpk.getNaglowek();
@@ -56,6 +57,7 @@ public class WrapJpk {
         c.setTime(new Date());
         XMLGregorianCalendar date = DatatypeFactory.newInstance().newXMLGregorianCalendar(c);
         header.setDataWytworzeniaJPK(date);
+        header.setKodUrzedu("2137");
         this.jpk.setNaglowek(header);
     }
     private void initSubject() {
@@ -76,5 +78,42 @@ public class WrapJpk {
         adress.setNrLokalu("1");
         subject.setAdresPodmiotu(adress);
         this.jpk.setPodmiot1(subject);
+    }
+
+    public void addFakturaCtrl(InvoiceSummary summary){
+        JPK.FakturaCtrl ctrl = this.jpk.getFakturaCtrl();
+        ctrl.setLiczbaFaktur(BigInteger.valueOf(summary.getNumberOfInvoices()));
+        ctrl.setWartoscFaktur(summary.getTotalValue());
+        this.jpk.setFakturaCtrl(ctrl);
+    }
+
+    public void addFakturaRows(List<InvoiceRow> invoiceRows){
+
+        ArrayList<JPK.FakturaWiersz> rows = new ArrayList<>();
+        for(InvoiceRow row : invoiceRows) {
+            JPK.FakturaWiersz fkRow = new JPK.FakturaWiersz();
+            fkRow.setP2B(row.getInvoiceNumber());
+            fkRow.setP7(row.getInvoiceDescription());
+            fkRow.setP8A("szt");
+            fkRow.setP8B(row.getAmountOfGoods());
+            fkRow.setP9A(row.getPricePerGood());
+            fkRow.setP9B(row.getPricePerGoodBrutto());
+            fkRow.setP11(row.getNetValue());
+            fkRow.setP12(row.getTaxRate());
+            rows.add(fkRow);
+        }
+        this.jpk.getFakturaWiersz().addAll(rows);
+    }
+
+    public void addFakturaWierszCtrl(InvoiceSummary summary){
+        JPK.FakturaWierszCtrl ctrl = this.jpk.getFakturaWierszCtrl();
+        ctrl.setLiczbaWierszyFaktur(BigInteger.valueOf(summary.getNumberOfInvoices()));
+        ctrl.setWartoscWierszyFaktur(summary.getTotalValue());
+        this.jpk.setFakturaWierszCtrl(ctrl);
+    }
+
+
+    private void addFaktura(JPK.Faktura faktura){
+        this.jpk.getFaktura().add(faktura);
     }
 }

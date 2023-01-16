@@ -47,4 +47,28 @@ public class InvoiceSummary {
     public void setNumberOfInvoices(int numberOfInvoices){
          this.numberOfInvoices = numberOfInvoices;
     }
+
+    /**
+     * Setter for totalValue.
+     * @param totalValue - total value of all invoices
+     */
+    public void setTotalValue(BigDecimal totalValue) {
+        this.totalValue = totalValue;
+    }
+
+    /**
+     * Getter for numberOfInvoices.
+     * @return number of invoices
+     */
+    public int getNumberOfInvoices() {
+        return numberOfInvoices;
+    }
+
+    /**
+     * Getter for totalValue.
+     * @return total value of all invoices
+     */
+    public BigDecimal getTotalValue() {
+        return totalValue;
+    }
 }

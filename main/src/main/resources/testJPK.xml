@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<JPK xmlns="http://jpk.mf.gov.pl/wzor/2019/09/27/09271/" xmlns:ns2="http://crd.gov.pl/xml/schematy/dziedzinowe/mf/2018/08/24/eD/DefinicjeTypy/">
+    <Naglowek>
+        <KodFormularza kodSystemowy="JPK_FA (3)" wersjaSchemy="1-0">JPK_FA</KodFormularza>
+        <WariantFormularza>3</WariantFormularza>
+        <CelZlozenia>1</CelZlozenia>
+        <DataWytworzeniaJPK>2023-01-16T20:39:45.511+01:00</DataWytworzeniaJPK>
+    </Naglowek>
+    <Podmiot1>
+        <IdentyfikatorPodmiotu>
+            <ns2:NIP>21374202137</ns2:NIP>
+            <ns2:PelnaNazwa>Radio Maryja</ns2:PelnaNazwa>
+        </IdentyfikatorPodmiotu>
+        <AdresPodmiotu>
+            <ns2:KodKraju>PL</ns2:KodKraju>
+            <ns2:Wojewodztwo>Kujawsko-Pomorskie</ns2:Wojewodztwo>
+            <ns2:Powiat>m. Toruń</ns2:Powiat>
+            <ns2:Gmina>Toruń</ns2:Gmina>
+            <ns2:Ulica>ul. Żwirki i Wigury 80</ns2:Ulica>
+            <ns2:NrDomu>80</ns2:NrDomu>
+            <ns2:NrLokalu>1</ns2:NrLokalu>
+            <ns2:Miejscowosc>Toruń</ns2:Miejscowosc>
+            <ns2:KodPocztowy>87-100</ns2:KodPocztowy>
+        </AdresPodmiotu>
+    </Podmiot1>
+    <FakturaCtrl>
+        <LiczbaFaktur>0</LiczbaFaktur>
+        <WartoscFaktur>0</WartoscFaktur>
+    </FakturaCtrl>
+    <FakturaWierszCtrl>
+        <LiczbaWierszyFaktur>0</LiczbaWierszyFaktur>
+        <WartoscWierszyFaktur>0</WartoscWierszyFaktur>
+    </FakturaWierszCtrl>
+</JPK>
