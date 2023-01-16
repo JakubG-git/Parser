@@ -4,6 +4,7 @@ import org.apache.commons.csv.CSVRecord;
 import org.apache.commons.math3.util.Pair;
 import org.apache.poi.ss.usermodel.*;
 import org.apache.poi.xssf.usermodel.XSSFWorkbook;
+import pl.edu.agh.kis.generated.JPK;
 
 import java.io.*;
 import java.nio.charset.StandardCharsets;
@@ -16,6 +17,9 @@ import java.util.HashSet;
  * @author Jakub Głowacki
  */
 public class Parser {
+    protected JPK jpk;
+
+    protected WrapJpk wrapJpk = new WrapJpk();
     protected Reader in;
     protected Iterable<CSVRecord> records;
     protected CSVFormat csvFormat;
@@ -139,7 +143,7 @@ public class Parser {
     }
 
     /**
-     * Gett data from singe cell
+     * Get data from singe cell
      * @param cell - cell to get data from
      * @return - data from cell(String)
      */
@@ -223,11 +227,14 @@ public class Parser {
         return new Pair<>(companies, invoiceRows);
     }
 
+
+
     /**
      * Saves parsed data to XML file
      * @return - Invoice object
      */
     public Invoice saveToXML(){
+
         ArrayList<Company> companies;
         ArrayList<InvoiceRow> invoiceRows;
         InvoiceSummary invoiceSummary = new InvoiceSummary();

@@ -1,4 +1,5 @@
 pl\edu\agh\kis\generated\TOsobaFizyczna2$AdresZamieszkania.class
+pl\edu\agh\kis\Parser.class
 pl\edu\agh\kis\generated\CurrCodeType.class
 pl\edu\agh\kis\generated\TNaglowek$KodFormularza.class
 pl\edu\agh\kis\generated\TOsobaNiefizycznaPelna1.class
@@ -11,6 +12,7 @@ pl\edu\agh\kis\generated\TOsobaNiefizyczna1.class
 pl\edu\agh\kis\generated\TPodmiotDowolny1$AdresZamieszkaniaSiedziby.class
 pl\edu\agh\kis\generated\TPodmiotDowolnyPelny$AdresZamieszkaniaSiedziby.class
 pl\edu\agh\kis\generated\JPK$Podmiot1.class
+pl\edu\agh\kis\Parser$1.class
 pl\edu\agh\kis\generated\TOsobaFizyczna5$AdresZamieszkania.class
 pl\edu\agh\kis\generated\TPodmiotDowolnyBezAdresu3.class
 pl\edu\agh\kis\generated\TPodmiotDowolny.class
@@ -27,10 +29,12 @@ pl\edu\agh\kis\generated\EULanguageCodeType.class
 pl\edu\agh\kis\generated\package-info.class
 pl\edu\agh\kis\generated\MSCurrCodeExPLNType.class
 pl\edu\agh\kis\generated\TIdentyfikatorOsobyNiefizycznej.class
+pl\edu\agh\kis\WrapJpk.class
 pl\edu\agh\kis\generated\CountryCodeExMSType.class
 pl\edu\agh\kis\generated\JPK$Zamowienie$ZamowienieWiersz.class
 pl\edu\agh\kis\generated\TPodmiotDowolnyPelny1$AdresZamieszkaniaSiedziby.class
 pl\edu\agh\kis\generated\TPodmiotDowolnyPelny.class
+pl\edu\agh\kis\Invoice.class
 pl\edu\agh\kis\generated\TAdresPolski1.class
 pl\edu\agh\kis\generated\TOsobaNiefizycznaPelna.class
 pl\edu\agh\kis\generated\TOsobaFizyczna2.class
@@ -38,8 +42,10 @@ pl\edu\agh\kis\generated\JPK$Faktura.class
 pl\edu\agh\kis\generated\TOsobaFizycznaPelna$AdresZamieszkania.class
 pl\edu\agh\kis\generated\TPodmiotDowolnyBezAdresu2.class
 pl\edu\agh\kis\generated\TOsobaNiefizyczna2$AdresSiedziby.class
+pl\edu\agh\kis\InvoiceRow.class
 pl\edu\agh\kis\generated\TIdentyfikatorOsobyFizycznejPelny.class
 pl\edu\agh\kis\generated\TOsobaFizycznaPelna1.class
+pl\edu\agh\kis\Invoice$InvoiceRows.class
 pl\edu\agh\kis\generated\TKodKraju.class
 pl\edu\agh\kis\generated\TOsobaNiefizycznaPelna1$AdresSiedziby.class
 pl\edu\agh\kis\generated\TIdentyfikatorOsobyFizycznejZagranicznej.class
@@ -63,12 +69,15 @@ pl\edu\agh\kis\generated\JPK$FakturaWierszCtrl.class
 pl\edu\agh\kis\generated\JPK$Zamowienie.class
 pl\edu\agh\kis\generated\TOsobaFizyczna3.class
 pl\edu\agh\kis\generated\TOsobaNiefizycznaPelna$AdresSiedziby.class
+pl\edu\agh\kis\InvoiceSummary.class
+pl\edu\agh\kis\Company.class
 pl\edu\agh\kis\generated\TPodmiotDowolny2.class
 pl\edu\agh\kis\generated\JPK$FakturaCtrl.class
 pl\edu\agh\kis\generated\TIdentyfikatorOsobyNiefizycznej1.class
 pl\edu\agh\kis\generated\TOsobaNiefizyczna2.class
 pl\edu\agh\kis\generated\TOsobaFizyczna4$AdresZamieszkania.class
 pl\edu\agh\kis\generated\JPK$ZamowienieCtrl.class
+pl\edu\agh\kis\Invoice$Companies.class
 pl\edu\agh\kis\generated\TOsobaNiefizyczna.class
 pl\edu\agh\kis\generated\TIdentyfikatorOsobyFizycznej.class
 pl\edu\agh\kis\generated\TIdentyfikatorOsobyFizycznej1.class
