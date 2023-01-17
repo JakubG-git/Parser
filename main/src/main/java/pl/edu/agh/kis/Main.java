@@ -15,8 +15,8 @@ public class Main {
      */
     public static void main(String[] args) throws IOException, JAXBException {
         Logging logger = new Logging(Main.class.getName());
-        String path = "C:\\Users\\Jakub\\IdeaProjects\\Parser\\main\\src\\main\\resources\\test.csv";
-        String path2 = "C:\\Users\\Jakub\\IdeaProjects\\Parser\\main\\src\\main\\resources\\test.xml";
+        String path = "..\\test.csv";
+        String path2 = "..\\test.xml";
         if (args.length == 2) {
             path = args[0];
             path2 = args[1];
