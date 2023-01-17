@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<JPK xmlns="http://jpk.mf.gov.pl/wzor/2019/09/27/09271/" xmlns:ns2="http://crd.gov.pl/xml/schematy/dziedzinowe/mf/2018/08/24/eD/DefinicjeTypy/">
+    <Naglowek>
+        <KodFormularza kodSystemowy="JPK_FA (3)" wersjaSchemy="1-0">JPK_FA</KodFormularza>
+        <WariantFormularza>3</WariantFormularza>
+        <CelZlozenia>1</CelZlozenia>
+        <DataWytworzeniaJPK>2023-01-17T14:39:48.934+01:00</DataWytworzeniaJPK>
+        <KodUrzedu>2137</KodUrzedu>
+    </Naglowek>
+    <Podmiot1>
+        <IdentyfikatorPodmiotu>
+            <ns2:NIP>21374202137</ns2:NIP>
+            <ns2:PelnaNazwa>Radio Maryja</ns2:PelnaNazwa>
+        </IdentyfikatorPodmiotu>
+        <AdresPodmiotu>
+            <ns2:KodKraju>PL</ns2:KodKraju>
+            <ns2:Wojewodztwo>Kujawsko-Pomorskie</ns2:Wojewodztwo>
+            <ns2:Powiat>m. Toruń</ns2:Powiat>
+            <ns2:Gmina>Toruń</ns2:Gmina>
+            <ns2:Ulica>ul. Żwirki i Wigury 80</ns2:Ulica>
+            <ns2:NrDomu>80</ns2:NrDomu>
+            <ns2:NrLokalu>1</ns2:NrLokalu>
+            <ns2:Miejscowosc>Toruń</ns2:Miejscowosc>
+            <ns2:KodPocztowy>87-100</ns2:KodPocztowy>
+        </AdresPodmiotu>
+    </Podmiot1>
+    <Faktura>
+        <KodWaluty>PLN</KodWaluty>
+        <P_1>2020-10-09</P_1>
+        <P_2A>1/2023</P_2A>
+        <P_3A>Firma 1 SP. Z O.O.</P_3A>
+        <P_3B>Firma 1 SP. Z O.O.-ADDRESS</P_3B>
+        <P_3C>Radio Maryja</P_3C>
+        <P_3D>UL. FELIKSA RADWAŃSKIEGO 15/1, 30-065 KRAKÓW</P_3D>
+        <P_4A>PL</P_4A>
+        <P_4B>21374202137</P_4B>
+        <P_5B>634-27-26-447</P_5B>
+        <P_6>2020-10-09</P_6>
+        <P_13_1>1000.00</P_13_1>
+        <P_14_1>230.00</P_14_1>
+        <P_15>1230.00</P_15>
+        <P_16>false</P_16>
+        <P_17>false</P_17>
+        <P_18>false</P_18>
+        <P_18A>false</P_18A>
+        <P_19>false</P_19>
+        <P_20>false</P_20>
+        <P_21>false</P_21>
+        <P_22>false</P_22>
+        <P_23>false</P_23>
+        <P_106E_2>false</P_106E_2>
+        <P_106E_3>false</P_106E_3>
+    </Faktura>
+    <Faktura>
+        <KodWaluty>PLN</KodWaluty>
+        <P_1>2020-10-14</P_1>
+        <P_2A>2/2023</P_2A>
+        <P_3A>Firma 2 Sp. z o.o</P_3A>
+        <P_3B>Firma 2 Sp. z o.o-ADDRESS</P_3B>
+        <P_3C>Radio Maryja</P_3C>
+        <P_3D>AL. A. Mickiewicza 141, 31-127 Kraków</P_3D>
+        <P_4A>PL</P_4A>
+        <P_4B>21374202137</P_4B>
+        <P_5B>113-29-95-753 </P_5B>
+        <P_6>2020-10-14</P_6>
+        <P_13_1>1000.00</P_13_1>
+        <P_14_1>230.00</P_14_1>
+        <P_15>2460.00</P_15>
+        <P_16>false</P_16>
+        <P_17>false</P_17>
+        <P_18>false</P_18>
+        <P_18A>false</P_18A>
+        <P_19>false</P_19>
+        <P_20>false</P_20>
+        <P_21>false</P_21>
+        <P_22>false</P_22>
+        <P_23>false</P_23>
+        <P_106E_2>false</P_106E_2>
+        <P_106E_3>false</P_106E_3>
+    </Faktura>
+    <Faktura>
+        <KodWaluty>PLN</KodWaluty>
+        <P_1>2020-10-14</P_1>
+        <P_2A>2/2023</P_2A>
+        <P_3A>Firma 2 Sp. z o.o</P_3A>
+        <P_3B>Firma 2 Sp. z o.o-ADDRESS</P_3B>
+        <P_3C>Radio Maryja</P_3C>
+        <P_3D>AL. A. Mickiewicza 141, 31-127 Kraków</P_3D>
+        <P_4A>PL</P_4A>
+        <P_4B>21374202137</P_4B>
+        <P_5B>113-29-95-753 </P_5B>
+        <P_6>2020-10-14</P_6>
+        <P_13_1>1000.00</P_13_1>
+        <P_14_1>230.00</P_14_1>
+        <P_15>2460.00</P_15>
+        <P_16>false</P_16>
+        <P_17>false</P_17>
+        <P_18>false</P_18>
+        <P_18A>false</P_18A>
+        <P_19>false</P_19>
+        <P_20>false</P_20>
+        <P_21>false</P_21>
+        <P_22>false</P_22>
+        <P_23>false</P_23>
+        <P_106E_2>false</P_106E_2>
+        <P_106E_3>false</P_106E_3>
+    </Faktura>
+    <FakturaCtrl>
+        <LiczbaFaktur>2</LiczbaFaktur>
+        <WartoscFaktur>3690.00</WartoscFaktur>
+    </FakturaCtrl>
+    <FakturaWiersz>
+        <P_2B>1/2023</P_2B>
+        <P_7>Faktura 1,, pozycja 1</P_7>
+        <P_8A>szt</P_8A>
+        <P_8B>1</P_8B>
+        <P_9A>1000.00</P_9A>
+        <P_9B>1230.00</P_9B>
+        <P_11>1000.00</P_11>
+        <P_12>23</P_12>
+    </FakturaWiersz>
+    <FakturaWiersz>
+        <P_2B>2/2023</P_2B>
+        <P_7>Faktura 2, pozycja 1</P_7>
+        <P_8A>szt</P_8A>
+        <P_8B>1</P_8B>
+        <P_9A>1000.00</P_9A>
+        <P_9B>1230.00</P_9B>
+        <P_11>1000.00</P_11>
+        <P_12>23</P_12>
+    </FakturaWiersz>
+    <FakturaWiersz>
+        <P_2B>2/2023</P_2B>
+        <P_7>Faktura 2, pozycja 2</P_7>
+        <P_8A>szt</P_8A>
+        <P_8B>1</P_8B>
+        <P_9A>1000.00</P_9A>
+        <P_9B>1230.00</P_9B>
+        <P_11>1000.00</P_11>
+        <P_12>23</P_12>
+    </FakturaWiersz>
+    <FakturaWierszCtrl>
+        <LiczbaWierszyFaktur>3</LiczbaWierszyFaktur>
+        <WartoscWierszyFaktur>3000.00</WartoscWierszyFaktur>
+    </FakturaWierszCtrl>
+</JPK>
