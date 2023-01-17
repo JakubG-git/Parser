@@ -62,8 +62,8 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="sun.cpu.isalist" value="amd64"/>
   </properties>
-  <testcase classname="pl.edu.agh.kis.InvoiceSummaryTest" name="pl.edu.agh.kis.InvoiceSummaryTest.testSetNumberOfInvoices" time="0"/>
   <testcase classname="pl.edu.agh.kis.InvoiceSummaryTest" name="pl.edu.agh.kis.InvoiceSummaryTest.testInvoiceSummary" time="0"/>
   <testcase classname="pl.edu.agh.kis.InvoiceSummaryTest" name="pl.edu.agh.kis.InvoiceSummaryTest.testAppendData2" time="0"/>
+  <testcase classname="pl.edu.agh.kis.InvoiceSummaryTest" name="pl.edu.agh.kis.InvoiceSummaryTest.testSetNumberOfInvoices" time="0"/>
   <testcase classname="pl.edu.agh.kis.InvoiceSummaryTest" name="pl.edu.agh.kis.InvoiceSummaryTest.testAppendData" time="0"/>
 </testsuite>

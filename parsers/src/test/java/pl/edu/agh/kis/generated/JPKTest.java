@@ -69,6 +69,52 @@ public class JPKTest {
         EULanguageCodeType.fromValue("pl");
         MSCurrCodeExPLNType.fromValue("BGN");
     }
+    @Test
+    public void testObjectFactory(){
+        ObjectFactory objectFactory = new ObjectFactory();
+        assertNotEquals(null, objectFactory);
+        assertNotEquals(null, objectFactory.createJPK());
+        assertNotEquals(null, objectFactory.createJPKNaglowek());
+        assertNotEquals(null, objectFactory.createJPKFaktura());
+        assertNotEquals(null, objectFactory.createJPKFakturaWiersz());
+        assertNotEquals(null, objectFactory.createJPKZamowienie());
+        assertNotEquals(null, objectFactory.createJPKFakturaCtrl());
+        assertNotEquals(null, objectFactory.createJPKFakturaWierszCtrl());
+        assertNotEquals(null, objectFactory.createJPKZamowienieCtrl());
+        assertNotEquals(null, objectFactory.createJPKPodmiot1());
+        assertNotEquals(null, objectFactory.createJPKZamowienieZamowienieWiersz());
+        assertNotEquals(null, objectFactory.createTAdres());
+        assertNotEquals(null, objectFactory.createTAdresPolski());
+        assertNotEquals(null, objectFactory.createTAdresZagraniczny());
+        assertNotEquals(null, objectFactory.createTAdres1());
+        assertNotEquals(null, objectFactory.createTAdresPolski1());
+        assertNotEquals(null, objectFactory.createTIdentyfikatorOsobyFizycznej());
+        assertNotEquals(null, objectFactory.createTIdentyfikatorOsobyNiefizycznej());
+        assertNotEquals(null, objectFactory.createTIdentyfikatorOsobyNiefizycznej1());
+        assertNotEquals(null, objectFactory.createTIdentyfikatorOsobyFizycznejZagranicznej());
+
+    }
+    @Test
+    public void testOb(){
+        ObjectFactory objectFactory = new ObjectFactory();
+        assertNotEquals(null, objectFactory.createTIdentyfikatorOsobyNiefizycznejZagranicznej());
+        assertNotEquals(null, objectFactory.createTIdentyfikatorOsobyFizycznej1());
+        assertNotEquals(null, objectFactory.createTIdentyfikatorOsobyFizycznej2());
+        assertNotEquals(null, objectFactory.createTIdentyfikatorOsobyFizycznejPelny());
+        assertNotEquals(null, objectFactory.createTOsobaFizyczna());
+        assertNotEquals(null, objectFactory.createTOsobaFizyczna2());
+        assertNotEquals(null, objectFactory.createTOsobaFizyczna3());
+        assertNotEquals(null, objectFactory.createTOsobaFizyczna3());
+        assertNotEquals(null, objectFactory.createTOsobaFizyczna4());
+        assertNotEquals(null, objectFactory.createTOsobaFizyczna5());
+        assertNotEquals(null, objectFactory.createTOsobaFizyczna1AdresZamieszkania());
+        assertNotEquals(null, objectFactory.createTOsobaFizyczna2AdresZamieszkania());
+        assertNotEquals(null, objectFactory.createTOsobaFizyczna3AdresZamieszkania());
+        assertNotEquals(null, objectFactory.createTOsobaFizyczna4AdresZamieszkania());
+        assertNotEquals(null, objectFactory.createTOsobaFizyczna5AdresZamieszkania());
+        assertNotEquals(null, objectFactory.createTOsobaNiefizyczna());
+        assertNotEquals(null, objectFactory.createTOsobaNiefizyczna1());
+    }
 
     @Test
     public void testTPodmiotDowolny() {

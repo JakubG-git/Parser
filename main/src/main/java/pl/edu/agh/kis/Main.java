@@ -25,9 +25,8 @@ public class Main {
         parser.resetParser("C:\\Users\\Jakub\\IdeaProjects\\Parser\\main\\src\\main\\resources\\test.xlsx", '\t', false);
         Pair<Invoice, JPK> pair2 = parser.saveToXML();
         Invoice invoice2 = pair2.getKey();
-
         JPK jpk = pair.getValue();
-
+        JPK jpk2 = pair2.getValue();
         JAXBContext context = JAXBContext.newInstance(Invoice.class);
         JAXBContext context2 = JAXBContext.newInstance(JPK.class);
         Marshaller marshaller = context.createMarshaller();
@@ -37,6 +36,7 @@ public class Main {
         marshaller.setProperty(Marshaller.JAXB_ENCODING, "UTF-8");
         marshaller2.setProperty(Marshaller.JAXB_ENCODING, "UTF-8");
         marshaller2.marshal(jpk, new File("C:\\Users\\Jakub\\IdeaProjects\\Parser\\main\\target\\testJPK.xml"));
+        marshaller2.marshal(jpk2, new File("C:\\Users\\Jakub\\IdeaProjects\\Parser\\main\\target\\testJPK2.xml"));
         marshaller.marshal(invoice, new File("C:\\Users\\Jakub\\IdeaProjects\\Parser\\main\\target\\test.xml"));
         marshaller.marshal(invoice2, new File("C:\\Users\\Jakub\\IdeaProjects\\Parser\\main\\target\\test2.xml"));
     }

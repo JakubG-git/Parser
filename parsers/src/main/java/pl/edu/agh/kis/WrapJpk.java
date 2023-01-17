@@ -10,18 +10,32 @@ import java.math.BigDecimal;
 import java.math.BigInteger;
 import java.util.*;
 
+/**
+ * Wrapper class for JPK
+ * @author Jakub Głowacki
+ */
 public class WrapJpk {
     protected JPK jpk;
     Logging logger = new Logging(getClass().getName());
 
+    /**
+     * Getter for JPK
+     * @return JPK
+     */
     public JPK getJpk() {
         return jpk;
     }
 
+    /**
+     * Constructor for WrapJpk
+     */
     public WrapJpk(){
         initJPK();
     }
 
+    /**
+     * Initializer for JPK
+     */
     private void initJPK(){
         this.jpk = new JPK();
         jpk.setNaglowek(new JPK.Naglowek());
@@ -42,6 +56,11 @@ public class WrapJpk {
         }
         initSubject();
     }
+
+    /**
+     * Initializer for header
+     * @throws DatatypeConfigurationException if date is invalid
+     */
     private void initHeader() throws DatatypeConfigurationException {
         JPK.Naglowek header = this.jpk.getNaglowek();
         header.setKodFormularza(new TNaglowek.KodFormularza());
@@ -57,6 +76,10 @@ public class WrapJpk {
         header.setKodUrzedu("2137");
         this.jpk.setNaglowek(header);
     }
+
+    /**
+     * Initializer for subject
+     */
     private void initSubject() {
         JPK.Podmiot1 subject = this.jpk.getPodmiot1();
         TIdentyfikatorOsobyNiefizycznej1 id = new TIdentyfikatorOsobyNiefizycznej1();
@@ -76,10 +99,22 @@ public class WrapJpk {
         subject.setAdresPodmiotu(adress);
         this.jpk.setPodmiot1(subject);
     }
+
+    /**
+     * Helper method for converting string to XMLGregorianCalendar
+     * @param str string to convert
+     * @return XMLGregorianCalendar
+     * @throws DatatypeConfigurationException if there is a problem with conversion
+     */
     private XMLGregorianCalendar toXMLGregorian(String str) throws DatatypeConfigurationException {
         return DatatypeFactory.newInstance().newXMLGregorianCalendar(str);
     }
 
+    /**
+     * Helper method for converting string to BigDecimal
+     * @param str string to convert
+     * @return BigDecimal
+     */
     private BigDecimal toBigDecimal(String str) {
         str = str.replaceAll("[^0-9.,]", "")
                 .replace(",", ".")
@@ -87,6 +122,10 @@ public class WrapJpk {
         return new BigDecimal(str);
     }
 
+    /**
+     * Method for adding invoiceCtrl to JPK
+     * @param summary invoiceCtrl to add
+     */
     public void addFakturaCtrl(InvoiceSummary summary){
         JPK.FakturaCtrl ctrl = this.jpk.getFakturaCtrl();
         ctrl.setLiczbaFaktur(BigInteger.valueOf(summary.getNumberOfInvoices()));
@@ -94,6 +133,10 @@ public class WrapJpk {
         this.jpk.setFakturaCtrl(ctrl);
     }
 
+    /**
+     * Method for adding invoiceRows to JPK
+     * @param invoiceRows invoiceRows to add
+     */
     public void addFakturaRows(List<InvoiceRow> invoiceRows){
 
         ArrayList<JPK.FakturaWiersz> rows = new ArrayList<>();
@@ -112,6 +155,10 @@ public class WrapJpk {
         this.jpk.getFakturaWiersz().addAll(rows);
     }
 
+    /**
+     * Method for adding invoiceRowCtrl to JPK
+     * @param summary invoiceRowCtrl to add
+     */
     public void addFakturaWierszCtrl(InvoiceSummary summary){
         JPK.FakturaWierszCtrl ctrl = this.jpk.getFakturaWierszCtrl();
         ctrl.setLiczbaWierszyFaktur(BigInteger.valueOf(summary.getNumberOfInvoices()));
@@ -119,6 +166,10 @@ public class WrapJpk {
         this.jpk.setFakturaWierszCtrl(ctrl);
     }
 
+    /**
+     * Method for adding invoice to JPK
+     * @param companies list of companies(invoices)
+     */
     public void addFaktura(List<Company> companies){
         ArrayList<JPK.Faktura> invoices = new ArrayList<>();
         for(Company company : companies){

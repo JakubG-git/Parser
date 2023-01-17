@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="30" failures="0" name="pl.edu.agh.kis.generated.JPKTest" time="0.104" errors="0" skipped="0">
+<testsuite tests="31" failures="0" name="pl.edu.agh.kis.generated.JPKTest" time="0.08" errors="0" skipped="0">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="idea.version" value="2022.2.3"/>
@@ -62,34 +62,35 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="sun.cpu.isalist" value="amd64"/>
   </properties>
-  <testcase classname="pl.edu.agh.kis.generated.JPKTest" name="pl.edu.agh.kis.generated.JPKTest.testTIdentyfikatorOsobyNiefizycznejZagranicznej" time="0"/>
-  <testcase classname="pl.edu.agh.kis.generated.JPKTest" name="pl.edu.agh.kis.generated.JPKTest.testTIdentyfikatorOsobyFizycznejPelny" time="0.022"/>
-  <testcase classname="pl.edu.agh.kis.generated.JPKTest" name="pl.edu.agh.kis.generated.JPKTest.testTIdentyfikatorOsobyNiefizycznej" time="0.002"/>
-  <testcase classname="pl.edu.agh.kis.generated.JPKTest" name="pl.edu.agh.kis.generated.JPKTest.testTIdentyfikatorOsobyNiefizycznej1" time="0.001"/>
+  <testcase classname="pl.edu.agh.kis.generated.JPKTest" name="pl.edu.agh.kis.generated.JPKTest.testTIdentyfikatorOsobyNiefizycznej1" time="0"/>
+  <testcase classname="pl.edu.agh.kis.generated.JPKTest" name="pl.edu.agh.kis.generated.JPKTest.testTIdentyfikatorOsobyFizycznejPelny" time="0.017"/>
   <testcase classname="pl.edu.agh.kis.generated.JPKTest" name="pl.edu.agh.kis.generated.JPKTest.testTIdentyfikatorOsobyNiefizycznejPelny" time="0.001"/>
-  <testcase classname="pl.edu.agh.kis.generated.JPKTest" name="pl.edu.agh.kis.generated.JPKTest.testTPodmiotDowolnyBezAdresu2" time="0.003"/>
-  <testcase classname="pl.edu.agh.kis.generated.JPKTest" name="pl.edu.agh.kis.generated.JPKTest.testTPodmiotDowolny2" time="0.004"/>
-  <testcase classname="pl.edu.agh.kis.generated.JPKTest" name="pl.edu.agh.kis.generated.JPKTest.testTPodmiotDowolny" time="0.005"/>
-  <testcase classname="pl.edu.agh.kis.generated.JPKTest" name="pl.edu.agh.kis.generated.JPKTest.testTPodmiotDowolnyBezAdresu3" time="0"/>
-  <testcase classname="pl.edu.agh.kis.generated.JPKTest" name="pl.edu.agh.kis.generated.JPKTest.testTPodmiotDowolnyPelny" time="0.002"/>
-  <testcase classname="pl.edu.agh.kis.generated.JPKTest" name="pl.edu.agh.kis.generated.JPKTest.testTPodmiotDowolnyPelny1" time="0.001"/>
-  <testcase classname="pl.edu.agh.kis.generated.JPKTest" name="pl.edu.agh.kis.generated.JPKTest.testTPodmiotDowolny1" time="0.002"/>
-  <testcase classname="pl.edu.agh.kis.generated.JPKTest" name="pl.edu.agh.kis.generated.JPKTest.testTAdresZagraniczny" time="0.007"/>
-  <testcase classname="pl.edu.agh.kis.generated.JPKTest" name="pl.edu.agh.kis.generated.JPKTest.testTPodmiotDowolnyBezAdresu" time="0"/>
-  <testcase classname="pl.edu.agh.kis.generated.JPKTest" name="pl.edu.agh.kis.generated.JPKTest.testTOsobaFizyczna5" time="0.003"/>
-  <testcase classname="pl.edu.agh.kis.generated.JPKTest" name="pl.edu.agh.kis.generated.JPKTest.testTIdentyfikatorOsobyFizycznej2" time="0"/>
-  <testcase classname="pl.edu.agh.kis.generated.JPKTest" name="pl.edu.agh.kis.generated.JPKTest.testTIdentyfikatorOsobyFizycznej1" time="0.003"/>
-  <testcase classname="pl.edu.agh.kis.generated.JPKTest" name="pl.edu.agh.kis.generated.JPKTest.testTOsobaFizycznaPelna1" time="0.003"/>
-  <testcase classname="pl.edu.agh.kis.generated.JPKTest" name="pl.edu.agh.kis.generated.JPKTest.testTOsobaFizyczna4" time="0.003"/>
-  <testcase classname="pl.edu.agh.kis.generated.JPKTest" name="pl.edu.agh.kis.generated.JPKTest.testTIdentyfikatorOsobyFizycznej" time="0.001"/>
-  <testcase classname="pl.edu.agh.kis.generated.JPKTest" name="pl.edu.agh.kis.generated.JPKTest.testTOsobaFizyczna2" time="0.003"/>
-  <testcase classname="pl.edu.agh.kis.generated.JPKTest" name="pl.edu.agh.kis.generated.JPKTest.testTOsobaFizyczna1" time="0.002"/>
-  <testcase classname="pl.edu.agh.kis.generated.JPKTest" name="pl.edu.agh.kis.generated.JPKTest.testTOsobaFizycznaPelna" time="0.002"/>
-  <testcase classname="pl.edu.agh.kis.generated.JPKTest" name="pl.edu.agh.kis.generated.JPKTest.testTOsobaFizyczna3" time="0.004"/>
+  <testcase classname="pl.edu.agh.kis.generated.JPKTest" name="pl.edu.agh.kis.generated.JPKTest.testTIdentyfikatorOsobyNiefizycznej" time="0.001"/>
+  <testcase classname="pl.edu.agh.kis.generated.JPKTest" name="pl.edu.agh.kis.generated.JPKTest.testTIdentyfikatorOsobyNiefizycznejZagranicznej" time="0.001"/>
   <testcase classname="pl.edu.agh.kis.generated.JPKTest" name="pl.edu.agh.kis.generated.JPKTest.testNaglowek" time="0.003"/>
-  <testcase classname="pl.edu.agh.kis.generated.JPKTest" name="pl.edu.agh.kis.generated.JPKTest.testFaktura" time="0.015"/>
-  <testcase classname="pl.edu.agh.kis.generated.JPKTest" name="pl.edu.agh.kis.generated.JPKTest.testJPK" time="0.007"/>
-  <testcase classname="pl.edu.agh.kis.generated.JPKTest" name="pl.edu.agh.kis.generated.JPKTest.testTAdresPolski" time="0.001"/>
-  <testcase classname="pl.edu.agh.kis.generated.JPKTest" name="pl.edu.agh.kis.generated.JPKTest.testTOsobaFizyczna" time="0.004"/>
+  <testcase classname="pl.edu.agh.kis.generated.JPKTest" name="pl.edu.agh.kis.generated.JPKTest.testJPK" time="0.009"/>
+  <testcase classname="pl.edu.agh.kis.generated.JPKTest" name="pl.edu.agh.kis.generated.JPKTest.testObjectFactory" time="0.019"/>
+  <testcase classname="pl.edu.agh.kis.generated.JPKTest" name="pl.edu.agh.kis.generated.JPKTest.testTAdresPolski" time="0.006"/>
+  <testcase classname="pl.edu.agh.kis.generated.JPKTest" name="pl.edu.agh.kis.generated.JPKTest.testFaktura" time="0.009"/>
   <testcase classname="pl.edu.agh.kis.generated.JPKTest" name="pl.edu.agh.kis.generated.JPKTest.testTAdres" time="0"/>
+  <testcase classname="pl.edu.agh.kis.generated.JPKTest" name="pl.edu.agh.kis.generated.JPKTest.testTOsobaFizyczna" time="0.001"/>
+  <testcase classname="pl.edu.agh.kis.generated.JPKTest" name="pl.edu.agh.kis.generated.JPKTest.testTOsobaFizyczna5" time="0"/>
+  <testcase classname="pl.edu.agh.kis.generated.JPKTest" name="pl.edu.agh.kis.generated.JPKTest.testTOsobaFizycznaPelna1" time="0.002"/>
+  <testcase classname="pl.edu.agh.kis.generated.JPKTest" name="pl.edu.agh.kis.generated.JPKTest.testTIdentyfikatorOsobyFizycznej1" time="0"/>
+  <testcase classname="pl.edu.agh.kis.generated.JPKTest" name="pl.edu.agh.kis.generated.JPKTest.testTPodmiotDowolny" time="0.002"/>
+  <testcase classname="pl.edu.agh.kis.generated.JPKTest" name="pl.edu.agh.kis.generated.JPKTest.testTIdentyfikatorOsobyFizycznej2" time="0"/>
+  <testcase classname="pl.edu.agh.kis.generated.JPKTest" name="pl.edu.agh.kis.generated.JPKTest.testTPodmiotDowolnyPelny" time="0.001"/>
+  <testcase classname="pl.edu.agh.kis.generated.JPKTest" name="pl.edu.agh.kis.generated.JPKTest.testTPodmiotDowolnyPelny1" time="0.001"/>
+  <testcase classname="pl.edu.agh.kis.generated.JPKTest" name="pl.edu.agh.kis.generated.JPKTest.testTOsobaFizyczna4" time="0"/>
+  <testcase classname="pl.edu.agh.kis.generated.JPKTest" name="pl.edu.agh.kis.generated.JPKTest.testTPodmiotDowolny1" time="0.002"/>
+  <testcase classname="pl.edu.agh.kis.generated.JPKTest" name="pl.edu.agh.kis.generated.JPKTest.testTIdentyfikatorOsobyFizycznej" time="0.001"/>
+  <testcase classname="pl.edu.agh.kis.generated.JPKTest" name="pl.edu.agh.kis.generated.JPKTest.testTPodmiotDowolnyBezAdresu2" time="0"/>
+  <testcase classname="pl.edu.agh.kis.generated.JPKTest" name="pl.edu.agh.kis.generated.JPKTest.testTPodmiotDowolnyBezAdresu3" time="0.001"/>
+  <testcase classname="pl.edu.agh.kis.generated.JPKTest" name="pl.edu.agh.kis.generated.JPKTest.testTOsobaFizyczna2" time="0"/>
+  <testcase classname="pl.edu.agh.kis.generated.JPKTest" name="pl.edu.agh.kis.generated.JPKTest.testTOsobaFizycznaPelna" time="0.002"/>
+  <testcase classname="pl.edu.agh.kis.generated.JPKTest" name="pl.edu.agh.kis.generated.JPKTest.testTAdresZagraniczny" time="0"/>
+  <testcase classname="pl.edu.agh.kis.generated.JPKTest" name="pl.edu.agh.kis.generated.JPKTest.testTPodmiotDowolnyBezAdresu" time="0"/>
+  <testcase classname="pl.edu.agh.kis.generated.JPKTest" name="pl.edu.agh.kis.generated.JPKTest.testTOsobaFizyczna1" time="0.001"/>
+  <testcase classname="pl.edu.agh.kis.generated.JPKTest" name="pl.edu.agh.kis.generated.JPKTest.testTPodmiotDowolny2" time="0"/>
+  <testcase classname="pl.edu.agh.kis.generated.JPKTest" name="pl.edu.agh.kis.generated.JPKTest.testTOsobaFizyczna3" time="0"/>
 </testsuite>

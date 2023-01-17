@@ -167,6 +167,13 @@ public class Parser {
         }
     }
 
+    /**
+     * Helper function for saving data from CSV file
+     * @param invoiceNum - different invoice companies
+     * @param invoiceSummary - invoice summary
+     * @param invoiceSummary2 - invoice summary
+     * @return - Pair of ArrayList<Company> and ArrayList<InvoiceRow>
+     */
     private Pair<ArrayList<Company>, ArrayList<InvoiceRow>> parseCSV(HashSet<String> invoiceNum,
                                                                      InvoiceSummary invoiceSummary,
                                                                      InvoiceSummary invoiceSummary2){
@@ -197,6 +204,13 @@ public class Parser {
         return new Pair<>(companies, invoiceRows);
     }
 
+    /**
+     * Helper function for saving data from XLSX file
+     * @param invoiceNum - different invoice companies
+     * @param invoiceSummary - invoice summary
+     * @param invoiceSummary2 - invoice summary
+     * @return - Pair of ArrayList<Company> and ArrayList<InvoiceRow>
+     */
     private Pair<ArrayList<Company>, ArrayList<InvoiceRow>> parseXLSX(HashSet<String> invoiceNum,
                                                                      InvoiceSummary invoiceSummary,
                                                                      InvoiceSummary invoiceSummary2){
@@ -226,12 +240,9 @@ public class Parser {
         }
         return new Pair<>(companies, invoiceRows);
     }
-
-
-
     /**
      * Saves parsed data to XML file
-     * @return - Invoice object
+     * @return - Pair of Invoice object and JPK object
      */
     public Pair<Invoice, JPK> saveToXML(){
 
