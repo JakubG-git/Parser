@@ -92,7 +92,6 @@ public class JPKTest {
         assertNotEquals(null, objectFactory.createTIdentyfikatorOsobyNiefizycznej());
         assertNotEquals(null, objectFactory.createTIdentyfikatorOsobyNiefizycznej1());
         assertNotEquals(null, objectFactory.createTIdentyfikatorOsobyFizycznejZagranicznej());
-
     }
     @Test
     public void testOb(){
@@ -159,6 +158,13 @@ public class JPKTest {
         assertNotEquals(null, tPodmiotDowolnyBezAdresu.getOsobaFizyczna());
 
     }
+    @Test
+    public void testTPodmiotDowolnyBezAdresu1() {
+        TPodmiotDowolnyBezAdresu1 tPodmiotDowolnyBezAdresu1 = new TPodmiotDowolnyBezAdresu1();
+        assertNotEquals(null, tPodmiotDowolnyBezAdresu1);
+        tPodmiotDowolnyBezAdresu1.setOsobaFizyczna(new TIdentyfikatorOsobyFizycznej1());
+        assertNotEquals(null, tPodmiotDowolnyBezAdresu1.getOsobaFizyczna());
+    }
     //1,2,3
     @Test
     public void testTPodmiotDowolnyBezAdresu2() {
@@ -183,6 +189,10 @@ public class JPKTest {
         assertNotEquals(null, tPodmiotDowolnyPelny);
         tPodmiotDowolnyPelny.setOsobaFizyczna(new TIdentyfikatorOsobyFizycznejPelny());
         assertNotEquals(null, tPodmiotDowolnyPelny.getOsobaFizyczna());
+        tPodmiotDowolnyPelny.setAdresZamieszkaniaSiedziby(new TPodmiotDowolnyPelny.AdresZamieszkaniaSiedziby());
+        assertNotEquals(null, tPodmiotDowolnyPelny.getAdresZamieszkaniaSiedziby());
+        tPodmiotDowolnyPelny.setOsobaNiefizyczna(new TIdentyfikatorOsobyNiefizycznejPelny());
+        assertNotEquals(null, tPodmiotDowolnyPelny.getOsobaNiefizyczna());
     }
     @Test
     public void testTPodmiotDowolnyPelny1(){
@@ -190,6 +200,10 @@ public class JPKTest {
         assertNotEquals(null, tPodmiotDowolnyPelny1);
         tPodmiotDowolnyPelny1.setOsobaFizyczna(new TIdentyfikatorOsobyFizycznejPelny());
         assertNotEquals(null, tPodmiotDowolnyPelny1.getOsobaFizyczna());
+        tPodmiotDowolnyPelny1.setAdresZamieszkaniaSiedziby(new TPodmiotDowolnyPelny1.AdresZamieszkaniaSiedziby());
+        assertNotEquals(null, tPodmiotDowolnyPelny1.getAdresZamieszkaniaSiedziby());
+        tPodmiotDowolnyPelny1.setOsobaNiefizyczna(new TIdentyfikatorOsobyNiefizycznejPelny());
+        assertNotEquals(null, tPodmiotDowolnyPelny1.getOsobaNiefizyczna());
     }
 
     @Test
@@ -200,7 +214,12 @@ public class JPKTest {
         assertNotEquals(null, tAdres.getAdresPol());
         tAdres.setAdresZagr(new TAdresZagraniczny());
         assertNotEquals(null, tAdres.getAdresZagr());
-
+        TAdres1 tAdres1 = new TAdres1();
+        assertNotEquals(null, tAdres1);
+        tAdres1.setAdresPol(new TAdresPolski1());
+        assertNotEquals(null, tAdres1.getAdresPol());
+        tAdres1.setAdresZagr(new TAdresZagraniczny());
+        assertNotEquals(null, tAdres1.getAdresZagr());
     }
     @Test
     public void testTAdresPolski() {
@@ -365,6 +384,22 @@ public class JPKTest {
         assertNotEquals(null, tIdentyfikatorOsobyFizycznejPelny.getImieOjca());
     }
     @Test
+    public void testTIdentyfikatorOsobyFizycznejZagranicznej() throws DatatypeConfigurationException {
+        TIdentyfikatorOsobyFizycznejZagranicznej tIdentyfikatorOsobyFizycznejZagranicznej = new TIdentyfikatorOsobyFizycznejZagranicznej();
+        assertNotEquals(null, tIdentyfikatorOsobyFizycznejZagranicznej);
+        tIdentyfikatorOsobyFizycznejZagranicznej.setImiePierwsze("ImiePierwsze");
+        assertNotEquals(null, tIdentyfikatorOsobyFizycznejZagranicznej.getImiePierwsze());
+        tIdentyfikatorOsobyFizycznejZagranicznej.setNazwisko("Nazwisko");
+        assertNotEquals(null, tIdentyfikatorOsobyFizycznejZagranicznej.getNazwisko());
+        tIdentyfikatorOsobyFizycznejZagranicznej.setNIP("1234567890");
+        assertNotEquals(null, tIdentyfikatorOsobyFizycznejZagranicznej.getNIP());
+        tIdentyfikatorOsobyFizycznejZagranicznej.setDataUrodzenia(
+                DatatypeFactory
+                        .newInstance()
+                        .newXMLGregorianCalendar("2022-10-12"));
+        assertNotEquals(null, tIdentyfikatorOsobyFizycznejZagranicznej.getDataUrodzenia());
+    }
+    @Test
     public void testTOsobaFizyczna(){
         TOsobaFizyczna tOsobaFizyczna = new TOsobaFizyczna();
         assertNotEquals(null, tOsobaFizyczna);
@@ -437,6 +472,52 @@ public class JPKTest {
         tOsobaFizycznaPelna1.setAdresZamieszkania(new TOsobaFizycznaPelna1.AdresZamieszkania());
         assertNotEquals(null, tOsobaFizycznaPelna1.getAdresZamieszkania());
     }
+    @Test
+    public void testTOsobaNiefizyczna(){
+        TOsobaNiefizyczna tOsobaNiefizyczna = new TOsobaNiefizyczna();
+        assertNotEquals(null, tOsobaNiefizyczna);
+        tOsobaNiefizyczna.setOsobaNiefizyczna(new TIdentyfikatorOsobyNiefizycznej());
+        assertNotEquals(null, tOsobaNiefizyczna.getOsobaNiefizyczna());
+        tOsobaNiefizyczna.setAdresSiedziby(new TOsobaNiefizyczna.AdresSiedziby());
+        assertNotEquals(null, tOsobaNiefizyczna.getAdresSiedziby());
+    }
+    @Test
+    public void testTOsobaNiefizyczna1(){
+        TOsobaNiefizyczna1 tOsobaNiefizyczna1 = new TOsobaNiefizyczna1();
+        assertNotEquals(null, tOsobaNiefizyczna1);
+        tOsobaNiefizyczna1.setOsobaNiefizyczna(new TIdentyfikatorOsobyNiefizycznej());
+        assertNotEquals(null, tOsobaNiefizyczna1.getOsobaNiefizyczna());
+        tOsobaNiefizyczna1.setAdresSiedziby(new TOsobaNiefizyczna1.AdresSiedziby());
+        assertNotEquals(null, tOsobaNiefizyczna1.getAdresSiedziby());
+    }
+    @Test
+    public void testTOsobaNiefizyczna2(){
+        TOsobaNiefizyczna2 tOsobaNiefizyczna2 = new TOsobaNiefizyczna2();
+        assertNotEquals(null, tOsobaNiefizyczna2);
+        tOsobaNiefizyczna2.setOsobaNiefizyczna(new TIdentyfikatorOsobyNiefizycznej1());
+        assertNotEquals(null, tOsobaNiefizyczna2.getOsobaNiefizyczna());
+        tOsobaNiefizyczna2.setAdresSiedziby(new TOsobaNiefizyczna2.AdresSiedziby());
+        assertNotEquals(null, tOsobaNiefizyczna2.getAdresSiedziby());
+    }
+    @Test
+    public void testTOsobaNiefizycznaPelna(){
+        TOsobaNiefizycznaPelna tOsobaNiefizycznaPelna = new TOsobaNiefizycznaPelna();
+        assertNotEquals(null, tOsobaNiefizycznaPelna);
+        tOsobaNiefizycznaPelna.setOsobaNiefizyczna(new TIdentyfikatorOsobyNiefizycznejPelny());
+        assertNotEquals(null, tOsobaNiefizycznaPelna.getOsobaNiefizyczna());
+        tOsobaNiefizycznaPelna.setAdresSiedziby(new TOsobaNiefizycznaPelna.AdresSiedziby());
+        assertNotEquals(null, tOsobaNiefizycznaPelna.getAdresSiedziby());
+    }
+    @Test
+    public void testTOsobaNiefizycznaPelna1(){
+        TOsobaNiefizycznaPelna1 tOsobaNiefizycznaPelna1 = new TOsobaNiefizycznaPelna1();
+        assertNotEquals(null, tOsobaNiefizycznaPelna1);
+        tOsobaNiefizycznaPelna1.setOsobaNiefizyczna(new TIdentyfikatorOsobyNiefizycznejPelny());
+        assertNotEquals(null, tOsobaNiefizycznaPelna1.getOsobaNiefizyczna());
+        tOsobaNiefizycznaPelna1.setAdresSiedziby(new TOsobaNiefizycznaPelna1.AdresSiedziby());
+        assertNotEquals(null, tOsobaNiefizycznaPelna1.getAdresSiedziby());
+    }
+
 
 
 }
