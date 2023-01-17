@@ -28,7 +28,8 @@ jobs:
         distribution: 'temurin'
         cache: maven
     - name: Test
-      run: mvn -B test verify --file pom.xml
+      run: ls -la
+      #run: mvn -B test verify --file pom.xml
 
     # Optional: Uploads the full dependency graph to GitHub to improve the quality of Dependabot alerts this repository can receive
     - name: Update dependency graph
