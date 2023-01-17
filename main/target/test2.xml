@@ -6918,7 +6918,6 @@
     </companies>
     <invoiceSummary>
         <numberOfInvoices>45</numberOfInvoices>
-        <totalValue>1763566.69</totalValue>
     </invoiceSummary>
     <invoiceRows>
         <invoiceRow>
@@ -7257,7 +7256,7 @@
         <invoiceRow>
             <invoiceNumber>1-12/11/2020</invoiceNumber>
             <invoiceDescription>Faktura korygująca, korekta dotyczy fv nr 2-09/11/2020 przyczyna korkty błędna kwota w pozycji nr 2 – Różnica do zwrotu - Innovative - prace projektowe oraz programistyczne związane z rozwojem, zgodnie z załącznikiem</invoiceDescription>
-            <amountOfGoods>-0.8125</amountOfGoods>
+            <amountOfGoods>0.8125</amountOfGoods>
             <pricePerGood>1250.00</pricePerGood>
             <pricePerGoodBrutto>1537.50</pricePerGoodBrutto>
             <netValue>1015.62</netValue>
@@ -7898,6 +7897,5 @@
     </invoiceRows>
     <invoiceRowSummary>
         <numberOfInvoices>108</numberOfInvoices>
-        <totalValue>1433794.03</totalValue>
     </invoiceRowSummary>
 </invoice>

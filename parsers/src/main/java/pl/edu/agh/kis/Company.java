@@ -34,4 +34,7 @@ public class Company{
     public void appendData(String key, String value){
         invoiceDetails.put(key, value);
     }
+    public HashMap<String, String> getInvoiceDetails(){
+        return invoiceDetails;
+    }
 }

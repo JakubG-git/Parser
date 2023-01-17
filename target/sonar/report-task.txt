@@ -1,6 +1,0 @@
-projectKey=Parser
-serverUrl=http://localhost:9000
-serverVersion=9.7.1.62043
-dashboardUrl=http://localhost:9000/dashboard?id=Parser
-ceTaskId=AYW7271Bn45VjlqIy9f2
-ceTaskUrl=http://localhost:9000/api/ce/task?id=AYW7271Bn45VjlqIy9f2

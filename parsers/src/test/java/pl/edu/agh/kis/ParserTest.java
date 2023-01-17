@@ -1,6 +1,8 @@
 package pl.edu.agh.kis;
 
+import org.apache.commons.math3.util.Pair;
 import org.junit.jupiter.api.Test;
+import pl.edu.agh.kis.generated.JPK;
 
 import java.io.IOException;
 
@@ -12,20 +14,21 @@ public class ParserTest {
     public void testParserByStages() throws IOException {
         Parser parser = new Parser("C:\\Users\\Jakub\\IdeaProjects\\Parser\\main\\src\\main\\resources\\test.csv", '\t', true);
         assertNotEquals(null, parser);
-        Invoice invoice = parser.saveToXML();
+        Pair<Invoice, JPK> pair = parser.saveToXML();
+        Invoice invoice = pair.getKey();
         assertNotEquals(null, invoice);
         parser.resetParser("C:\\Users\\Jakub\\IdeaProjects\\Parser\\main\\src\\main\\resources\\test.xlsx", '\t', false);
-        Invoice invoice2 = parser.saveToXML();
+        Invoice invoice2 = parser.saveToXML().getKey();
         assertNotEquals(null, invoice2);
     }
     @Test
     public void testParserByStages2() throws IOException {
         Parser parser = new Parser("C:\\Users\\Jakub\\IdeaProjects\\Parser\\main\\src\\main\\resources\\test.xlsx", '\t', false);
         assertNotEquals(null, parser);
-        Invoice invoice = parser.saveToXML();
+        Invoice invoice = parser.saveToXML().getKey();
         assertNotEquals(null, invoice);
         parser.resetParser("C:\\Users\\Jakub\\IdeaProjects\\Parser\\main\\src\\main\\resources\\test.csv", '\t', true);
-        Invoice invoice2 = parser.saveToXML();
+        Invoice invoice2 = parser.saveToXML().getKey();
         assertNotEquals(null, invoice2);
     }
 }

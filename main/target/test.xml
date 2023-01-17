@@ -6918,7 +6918,6 @@
     </companies>
     <invoiceSummary>
         <numberOfInvoices>45</numberOfInvoices>
-        <totalValue>1763566.69</totalValue>
     </invoiceSummary>
     <invoiceRows>
         <invoiceRow>
@@ -6951,7 +6950,7 @@
         <invoiceRow>
             <invoiceNumber>3-14/10/2020</invoiceNumber>
             <invoiceDescription>1. Prace rozwojowe - #68074 : Lista endpointów</invoiceDescription>
-            <amountOfGoods>4,75</amountOfGoods>
+            <amountOfGoods>4.75</amountOfGoods>
             <pricePerGood>1000.00</pricePerGood>
             <pricePerGoodBrutto>1230.00</pricePerGoodBrutto>
             <netValue>4750.00</netValue>
@@ -6978,7 +6977,7 @@
         <invoiceRow>
             <invoiceNumber>3-14/10/2020</invoiceNumber>
             <invoiceDescription>4. Prace rozwojowe - #67810 : Wysyłka maila do handlowca po wykonaniu zadania weryfikacji dowodu rejestracyjnego</invoiceDescription>
-            <amountOfGoods>0,75</amountOfGoods>
+            <amountOfGoods>0.75</amountOfGoods>
             <pricePerGood>1000.00</pricePerGood>
             <pricePerGoodBrutto>1230.00</pricePerGoodBrutto>
             <netValue>750.00</netValue>
@@ -6996,7 +6995,7 @@
         <invoiceRow>
             <invoiceNumber>3-14/10/2020</invoiceNumber>
             <invoiceDescription>6. Prace rozwojowe - #68331 : Dołącz do nas - projekt graficzny</invoiceDescription>
-            <amountOfGoods>1,5</amountOfGoods>
+            <amountOfGoods>1.5</amountOfGoods>
             <pricePerGood>1000.00</pricePerGood>
             <pricePerGoodBrutto>1230.00</pricePerGoodBrutto>
             <netValue>1500.00</netValue>
@@ -7005,7 +7004,7 @@
         <invoiceRow>
             <invoiceNumber>3-14/10/2020</invoiceNumber>
             <invoiceDescription>7. Prace rozwojowe - #68685 : Zmiany w procesie logistycznym (zagadnienia 1-3)</invoiceDescription>
-            <amountOfGoods>2,25</amountOfGoods>
+            <amountOfGoods>2.25</amountOfGoods>
             <pricePerGood>1000.00</pricePerGood>
             <pricePerGoodBrutto>1230.00</pricePerGoodBrutto>
             <netValue>2250.00</netValue>
@@ -7212,7 +7211,7 @@
         <invoiceRow>
             <invoiceNumber>1-09/11/2020</invoiceNumber>
             <invoiceDescription>Firma3 - prace projektowe oraz programistyczne związane z rozwojem, zgodne z załącznikiem</invoiceDescription>
-            <amountOfGoods>83,6375</amountOfGoods>
+            <amountOfGoods>83.6375</amountOfGoods>
             <pricePerGood>1250.00</pricePerGood>
             <pricePerGoodBrutto>1537.50</pricePerGoodBrutto>
             <netValue>99546.88</netValue>
@@ -7239,7 +7238,7 @@
         <invoiceRow>
             <invoiceNumber>2-09/11/2020</invoiceNumber>
             <invoiceDescription>Innovative - prace projektowe oraz programistyczne związane z rozwojem, zgodnie z załącznikiem</invoiceDescription>
-            <amountOfGoods>12,18750</amountOfGoods>
+            <amountOfGoods>12.18750</amountOfGoods>
             <pricePerGood>1250.00</pricePerGood>
             <pricePerGoodBrutto>1537.50</pricePerGoodBrutto>
             <netValue>15234.38</netValue>
@@ -7248,7 +7247,7 @@
         <invoiceRow>
             <invoiceNumber>2-09/11/2020</invoiceNumber>
             <invoiceDescription>Innovative - prace projektowe oraz programistyczne związane z utrzymaniem i poprawą błędów oraz bieżącymi działaniami,  zgodnie z załącznikiem</invoiceDescription>
-            <amountOfGoods>6,50000</amountOfGoods>
+            <amountOfGoods>6.50000</amountOfGoods>
             <pricePerGood>1250.00</pricePerGood>
             <pricePerGoodBrutto>1537.50</pricePerGoodBrutto>
             <netValue>8125.00</netValue>
@@ -7257,7 +7256,7 @@
         <invoiceRow>
             <invoiceNumber>1-12/11/2020</invoiceNumber>
             <invoiceDescription>Faktura korygująca, korekta dotyczy fv nr 2-09/11/2020 przyczyna korkty błędna kwota w pozycji nr 2 – Różnica do zwrotu - Innovative - prace projektowe oraz programistyczne związane z rozwojem, zgodnie z załącznikiem</invoiceDescription>
-            <amountOfGoods>-0,81250</amountOfGoods>
+            <amountOfGoods>0.81250</amountOfGoods>
             <pricePerGood>1250.00</pricePerGood>
             <pricePerGoodBrutto>1537.50</pricePerGoodBrutto>
             <netValue>1015.62</netValue>
@@ -7266,7 +7265,7 @@
         <invoiceRow>
             <invoiceNumber>1-10/11/2020</invoiceNumber>
             <invoiceDescription>Firma8 - prace projektowe oraz programistyczne, zgodnie z załącznikiem</invoiceDescription>
-            <amountOfGoods>26,47500</amountOfGoods>
+            <amountOfGoods>26.47500</amountOfGoods>
             <pricePerGood>1250.00</pricePerGood>
             <pricePerGoodBrutto>1537.50</pricePerGoodBrutto>
             <netValue>33093.75</netValue>
@@ -7293,7 +7292,7 @@
         <invoiceRow>
             <invoiceNumber>1-13/11/2020</invoiceNumber>
             <invoiceDescription>Abonament – aktywne karty SIM zgodnie z załącznikiem </invoiceDescription>
-            <amountOfGoods>472,9337</amountOfGoods>
+            <amountOfGoods>472.9337</amountOfGoods>
             <pricePerGood>7.50</pricePerGood>
             <pricePerGoodBrutto>9.22</pricePerGoodBrutto>
             <netValue>3547.00</netValue>
@@ -7311,7 +7310,7 @@
         <invoiceRow>
             <invoiceNumber>1-25/11/2020</invoiceNumber>
             <invoiceDescription>Prace związane z utrzymaniem aplikacji Aplikacja sprzedażowa w październiku 2020, zgodnie z załącznikiem</invoiceDescription>
-            <amountOfGoods>8,95125</amountOfGoods>
+            <amountOfGoods>8.95125</amountOfGoods>
             <pricePerGood>1000.00</pricePerGood>
             <pricePerGoodBrutto>1230.00</pricePerGoodBrutto>
             <netValue>8951.25</netValue>
@@ -7320,7 +7319,7 @@
         <invoiceRow>
             <invoiceNumber>1-25/11/2020</invoiceNumber>
             <invoiceDescription>Prace związane z utrzymaniem aplikacji Sellcar w październiku 2020, zgodnie z załącznikiem</invoiceDescription>
-            <amountOfGoods>3,41750</amountOfGoods>
+            <amountOfGoods>3.41750</amountOfGoods>
             <pricePerGood>1000.00</pricePerGood>
             <pricePerGoodBrutto>1230.00</pricePerGoodBrutto>
             <netValue>3417.50</netValue>
@@ -7329,7 +7328,7 @@
         <invoiceRow>
             <invoiceNumber>1-25/11/2020</invoiceNumber>
             <invoiceDescription>Prace związane z utrzymaniem systemu Aplikacja GPS w październiku 2020, zgodnie z załącznikiem</invoiceDescription>
-            <amountOfGoods>14,56250</amountOfGoods>
+            <amountOfGoods>14.56250</amountOfGoods>
             <pricePerGood>1000.00</pricePerGood>
             <pricePerGoodBrutto>1230.00</pricePerGoodBrutto>
             <netValue>14562.50</netValue>
@@ -7338,7 +7337,7 @@
         <invoiceRow>
             <invoiceNumber>1-25/11/2020</invoiceNumber>
             <invoiceDescription>Prace związane z utrzymaniem systemu Aplikacja ubezpieczeniowa w październiku 2020, zgodnie z załącznikiem</invoiceDescription>
-            <amountOfGoods>1,81250</amountOfGoods>
+            <amountOfGoods>1.81250</amountOfGoods>
             <pricePerGood>1000.00</pricePerGood>
             <pricePerGoodBrutto>1230.00</pricePerGoodBrutto>
             <netValue>1812.50</netValue>
@@ -7347,7 +7346,7 @@
         <invoiceRow>
             <invoiceNumber>1-25/11/2020</invoiceNumber>
             <invoiceDescription>Prace związane z utrzymaniem systemu Aplikacja windykacyjna w październiku 2020, zgodnie z załącznikiem</invoiceDescription>
-            <amountOfGoods>0,56250</amountOfGoods>
+            <amountOfGoods>0.56250</amountOfGoods>
             <pricePerGood>1000.00</pricePerGood>
             <pricePerGoodBrutto>1230.00</pricePerGoodBrutto>
             <netValue>562.50</netValue>
@@ -7356,7 +7355,7 @@
         <invoiceRow>
             <invoiceNumber>1-25/11/2020</invoiceNumber>
             <invoiceDescription>Prace związane z utrzymaniem systemu Ces w październiku 2020, zgodnie z załącznikiem</invoiceDescription>
-            <amountOfGoods>1,21875</amountOfGoods>
+            <amountOfGoods>1.21875</amountOfGoods>
             <pricePerGood>1000.00</pricePerGood>
             <pricePerGoodBrutto>1230.00</pricePerGoodBrutto>
             <netValue>1218.75</netValue>
@@ -7365,7 +7364,7 @@
         <invoiceRow>
             <invoiceNumber>1-25/11/2020</invoiceNumber>
             <invoiceDescription>Prace związane z utrzymaniem usługi eFaktura w październiku 2020, zgodnie z załącznikiem</invoiceDescription>
-            <amountOfGoods>0,20625</amountOfGoods>
+            <amountOfGoods>0.20625</amountOfGoods>
             <pricePerGood>1000.00</pricePerGood>
             <pricePerGoodBrutto>1230.00</pricePerGoodBrutto>
             <netValue>206.25</netValue>
@@ -7374,7 +7373,7 @@
         <invoiceRow>
             <invoiceNumber>1-25/11/2020</invoiceNumber>
             <invoiceDescription>Prace związane z utrzymaniem – wyceny w październiku 2020, zgodnie z załącznikiem</invoiceDescription>
-            <amountOfGoods>3,29875</amountOfGoods>
+            <amountOfGoods>3.29875</amountOfGoods>
             <pricePerGood>1000.00</pricePerGood>
             <pricePerGoodBrutto>1230.00</pricePerGoodBrutto>
             <netValue>3298.75</netValue>
@@ -7383,7 +7382,7 @@
         <invoiceRow>
             <invoiceNumber>2-25/11/2020</invoiceNumber>
             <invoiceDescription>Prace związane z utrzymaniem infrastruktury w październiku 2020, zgodnie z załącznikiem</invoiceDescription>
-            <amountOfGoods>12,77500</amountOfGoods>
+            <amountOfGoods>12.77500</amountOfGoods>
             <pricePerGood>1000.00</pricePerGood>
             <pricePerGoodBrutto>1230.00</pricePerGoodBrutto>
             <netValue>12775.00</netValue>
@@ -7392,7 +7391,7 @@
         <invoiceRow>
             <invoiceNumber>3-25/11/2020</invoiceNumber>
             <invoiceDescription>Prace rozwojowe - #68697 : Filtry</invoiceDescription>
-            <amountOfGoods>18,25</amountOfGoods>
+            <amountOfGoods>18.25</amountOfGoods>
             <pricePerGood>1000.00</pricePerGood>
             <pricePerGoodBrutto>1230.00</pricePerGoodBrutto>
             <netValue>18250.00</netValue>
@@ -7401,7 +7400,7 @@
         <invoiceRow>
             <invoiceNumber>3-25/11/2020</invoiceNumber>
             <invoiceDescription>Prace rozwojowe - #69084 :Nowe pop-upy i frame w górnej belce Selltoll</invoiceDescription>
-            <amountOfGoods>2,5</amountOfGoods>
+            <amountOfGoods>2.5</amountOfGoods>
             <pricePerGood>1000.00</pricePerGood>
             <pricePerGoodBrutto>1230.00</pricePerGoodBrutto>
             <netValue>2500.00</netValue>
@@ -7430,7 +7429,7 @@
         <invoiceRow>
             <invoiceNumber>3-25/11/2020</invoiceNumber>
             <invoiceDescription>Prace rozwojowe - #50956 : Grupowanie pojazdów - rozliczenie część 2</invoiceDescription>
-            <amountOfGoods>29,2125</amountOfGoods>
+            <amountOfGoods>29.2125</amountOfGoods>
             <pricePerGood>1000.00</pricePerGood>
             <pricePerGoodBrutto>1230.00</pricePerGoodBrutto>
             <netValue>29212.50</netValue>
@@ -7439,7 +7438,7 @@
         <invoiceRow>
             <invoiceNumber>3-25/11/2020</invoiceNumber>
             <invoiceDescription>Prace rozwojowe - #60386 : Obsługa pojazdów importowanych – rozliczenie część 2</invoiceDescription>
-            <amountOfGoods>30,87125</amountOfGoods>
+            <amountOfGoods>30.87125</amountOfGoods>
             <pricePerGood>1000.00</pricePerGood>
             <pricePerGoodBrutto>1230.00</pricePerGoodBrutto>
             <netValue>30871.25</netValue>
@@ -7457,7 +7456,7 @@
         <invoiceRow>
             <invoiceNumber>2-07/12/2020</invoiceNumber>
             <invoiceDescription>Firma8 - prace projektowe oraz programistyczne, zgodnie z załącznikiem</invoiceDescription>
-            <amountOfGoods>12,46875</amountOfGoods>
+            <amountOfGoods>12.46875</amountOfGoods>
             <pricePerGood>1250.00</pricePerGood>
             <pricePerGoodBrutto>1537.50</pricePerGoodBrutto>
             <netValue>15585.94</netValue>
@@ -7466,7 +7465,7 @@
         <invoiceRow>
             <invoiceNumber>3-07/12/2020</invoiceNumber>
             <invoiceDescription>Abonament – aktywne karty SIM zgodnie z załącznikiem </invoiceDescription>
-            <amountOfGoods>536,86620</amountOfGoods>
+            <amountOfGoods>536.86620</amountOfGoods>
             <pricePerGood>7.50</pricePerGood>
             <pricePerGoodBrutto>9.22</pricePerGoodBrutto>
             <netValue>4026.50</netValue>
@@ -7502,7 +7501,7 @@
         <invoiceRow>
             <invoiceNumber>1-09/12/2020</invoiceNumber>
             <invoiceDescription>Firma3 - prace projektowe oraz programistyczne związane z rozwojem, zgodne z załącznikiem</invoiceDescription>
-            <amountOfGoods>78,8000</amountOfGoods>
+            <amountOfGoods>78.8000</amountOfGoods>
             <pricePerGood>1250.00</pricePerGood>
             <pricePerGoodBrutto>1537.50</pricePerGoodBrutto>
             <netValue>93500.00</netValue>
@@ -7529,7 +7528,7 @@
         <invoiceRow>
             <invoiceNumber>2-09/12/2020</invoiceNumber>
             <invoiceDescription>Innovative - prace projektowe oraz programistyczne związane z rozwojem, zgodnie z załącznikiem</invoiceDescription>
-            <amountOfGoods>4,71875</amountOfGoods>
+            <amountOfGoods>4.71875</amountOfGoods>
             <pricePerGood>1250.00</pricePerGood>
             <pricePerGoodBrutto>1537.50</pricePerGoodBrutto>
             <netValue>5898.44</netValue>
@@ -7538,7 +7537,7 @@
         <invoiceRow>
             <invoiceNumber>2-09/12/2020</invoiceNumber>
             <invoiceDescription>Innovative - prace projektowe oraz programistyczne związane z utrzymaniem i poprawą błędów oraz bieżącymi działaniami,  zgodnie z załącznikiem</invoiceDescription>
-            <amountOfGoods>0,93750</amountOfGoods>
+            <amountOfGoods>0.93750</amountOfGoods>
             <pricePerGood>1250.00</pricePerGood>
             <pricePerGoodBrutto>1537.50</pricePerGoodBrutto>
             <netValue>1171.88</netValue>
@@ -7565,7 +7564,7 @@
         <invoiceRow>
             <invoiceNumber>1-14/12/2020</invoiceNumber>
             <invoiceDescription>Prace związane z utrzymaniem aplikacji Aplikacja sprzedażowa w listopadzie 2020, zgodnie z załącznikiem</invoiceDescription>
-            <amountOfGoods>3,97500</amountOfGoods>
+            <amountOfGoods>3.97500</amountOfGoods>
             <pricePerGood>1000.00</pricePerGood>
             <pricePerGoodBrutto>1230.00</pricePerGoodBrutto>
             <netValue>3975.00</netValue>
@@ -7574,7 +7573,7 @@
         <invoiceRow>
             <invoiceNumber>1-14/12/2020</invoiceNumber>
             <invoiceDescription>Prace związane z utrzymaniem aplikacji Sellcar w listopadzie 2020, zgodnie z załącznikiem</invoiceDescription>
-            <amountOfGoods>16,06625</amountOfGoods>
+            <amountOfGoods>16.06625</amountOfGoods>
             <pricePerGood>1000.00</pricePerGood>
             <pricePerGoodBrutto>1230.00</pricePerGoodBrutto>
             <netValue>16066.25</netValue>
@@ -7583,7 +7582,7 @@
         <invoiceRow>
             <invoiceNumber>1-14/12/2020</invoiceNumber>
             <invoiceDescription>Prace związane z utrzymaniem systemu Aplikacja GPS w listopadzie 2020, zgodnie z załącznikiem</invoiceDescription>
-            <amountOfGoods>5,69375</amountOfGoods>
+            <amountOfGoods>5.69375</amountOfGoods>
             <pricePerGood>1000.00</pricePerGood>
             <pricePerGoodBrutto>1230.00</pricePerGoodBrutto>
             <netValue>5693.75</netValue>
@@ -7592,7 +7591,7 @@
         <invoiceRow>
             <invoiceNumber>1-14/12/2020</invoiceNumber>
             <invoiceDescription>Prace związane z utrzymaniem systemu Aplikacja ubezpieczeniowa w listopadzie 2020, zgodnie z załącznikiem</invoiceDescription>
-            <amountOfGoods>0,50000</amountOfGoods>
+            <amountOfGoods>0.50000</amountOfGoods>
             <pricePerGood>1000.00</pricePerGood>
             <pricePerGoodBrutto>1230.00</pricePerGoodBrutto>
             <netValue>500.00</netValue>
@@ -7601,7 +7600,7 @@
         <invoiceRow>
             <invoiceNumber>1-14/12/2020</invoiceNumber>
             <invoiceDescription>Prace związane z utrzymaniem systemu Aplikacja windykacyjna w listopadzie 2020, zgodnie z załącznikiem</invoiceDescription>
-            <amountOfGoods>0,43750</amountOfGoods>
+            <amountOfGoods>0.43750</amountOfGoods>
             <pricePerGood>1000.00</pricePerGood>
             <pricePerGoodBrutto>1230.00</pricePerGoodBrutto>
             <netValue>437.50</netValue>
@@ -7610,7 +7609,7 @@
         <invoiceRow>
             <invoiceNumber>1-14/12/2020</invoiceNumber>
             <invoiceDescription>Prace związane z utrzymaniem systemu Ces w listopadzie 2020, zgodnie z załącznikiem</invoiceDescription>
-            <amountOfGoods>0,53125</amountOfGoods>
+            <amountOfGoods>0.53125</amountOfGoods>
             <pricePerGood>1000.00</pricePerGood>
             <pricePerGoodBrutto>1230.00</pricePerGoodBrutto>
             <netValue>531.25</netValue>
@@ -7619,7 +7618,7 @@
         <invoiceRow>
             <invoiceNumber>1-14/12/2020</invoiceNumber>
             <invoiceDescription>Prace związane z utrzymaniem usługi eFaktura w listopadzie 2020, zgodnie z załącznikiem</invoiceDescription>
-            <amountOfGoods>0,03125</amountOfGoods>
+            <amountOfGoods>0.03125</amountOfGoods>
             <pricePerGood>1000.00</pricePerGood>
             <pricePerGoodBrutto>1230.00</pricePerGoodBrutto>
             <netValue>31.25</netValue>
@@ -7628,7 +7627,7 @@
         <invoiceRow>
             <invoiceNumber>1-14/12/2020</invoiceNumber>
             <invoiceDescription>Prace związane z utrzymaniem systemu Seyo (Portal Klienta) w listopadzie 2020, zgodnie z załącznikiem</invoiceDescription>
-            <amountOfGoods>0,12500</amountOfGoods>
+            <amountOfGoods>0.12500</amountOfGoods>
             <pricePerGood>1000.00</pricePerGood>
             <pricePerGoodBrutto>1230.00</pricePerGoodBrutto>
             <netValue>125.00</netValue>
@@ -7637,7 +7636,7 @@
         <invoiceRow>
             <invoiceNumber>1-14/12/2020</invoiceNumber>
             <invoiceDescription>Prace związane z utrzymaniem – wyceny w listopadzie 2020, zgodnie z załącznikiem</invoiceDescription>
-            <amountOfGoods>1,56000</amountOfGoods>
+            <amountOfGoods>1.56000</amountOfGoods>
             <pricePerGood>1000.00</pricePerGood>
             <pricePerGoodBrutto>1230.00</pricePerGoodBrutto>
             <netValue>1560.00</netValue>
@@ -7646,7 +7645,7 @@
         <invoiceRow>
             <invoiceNumber>2-14/12/2020</invoiceNumber>
             <invoiceDescription>Prace związane z utrzymaniem infrastruktury w listopadzie 2020, zgodnie z załącznikiem</invoiceDescription>
-            <amountOfGoods>13,54375</amountOfGoods>
+            <amountOfGoods>13.54375</amountOfGoods>
             <pricePerGood>1000.00</pricePerGood>
             <pricePerGoodBrutto>1230.00</pricePerGoodBrutto>
             <netValue>13543.75</netValue>
@@ -7673,7 +7672,7 @@
         <invoiceRow>
             <invoiceNumber>3-14/12/2020</invoiceNumber>
             <invoiceDescription>Prace rozwojowe - #70991: Finansowanie obce</invoiceDescription>
-            <amountOfGoods>4,75</amountOfGoods>
+            <amountOfGoods>4.75</amountOfGoods>
             <pricePerGood>1000.00</pricePerGood>
             <pricePerGoodBrutto>1230.00</pricePerGoodBrutto>
             <netValue>4750.00</netValue>
@@ -7682,7 +7681,7 @@
         <invoiceRow>
             <invoiceNumber>3-14/12/2020</invoiceNumber>
             <invoiceDescription>Prace rozwojowe - #69512: Raport danych klienta na podstawie danych z BIK</invoiceDescription>
-            <amountOfGoods>3,46875</amountOfGoods>
+            <amountOfGoods>3.46875</amountOfGoods>
             <pricePerGood>1000.00</pricePerGood>
             <pricePerGoodBrutto>1230.00</pricePerGoodBrutto>
             <netValue>3468.75</netValue>
@@ -7700,7 +7699,7 @@
         <invoiceRow>
             <invoiceNumber>3-14/12/2020</invoiceNumber>
             <invoiceDescription>Prace rozwojowe - #71459: SME</invoiceDescription>
-            <amountOfGoods>1,875</amountOfGoods>
+            <amountOfGoods>1.875</amountOfGoods>
             <pricePerGood>1000.00</pricePerGood>
             <pricePerGoodBrutto>1230.00</pricePerGoodBrutto>
             <netValue>1875.00</netValue>
@@ -7709,7 +7708,7 @@
         <invoiceRow>
             <invoiceNumber>4-14/12/2020</invoiceNumber>
             <invoiceDescription>System „Tankuj korzyści” zgodnie ze ZLECENIEM NR 5 z dnia 15.01.2020 – rozliczenie rozszerzeń, zgodnie z załącznikiem</invoiceDescription>
-            <amountOfGoods>41,60</amountOfGoods>
+            <amountOfGoods>41.60</amountOfGoods>
             <pricePerGood>1400.00</pricePerGood>
             <pricePerGoodBrutto>1722.00</pricePerGoodBrutto>
             <netValue>58240.00</netValue>
@@ -7718,7 +7717,7 @@
         <invoiceRow>
             <invoiceNumber>1-04/01/2021</invoiceNumber>
             <invoiceDescription>Innovative - prace projektowe oraz programistyczne związane z rozwojem, zgodnie z załącznikiem</invoiceDescription>
-            <amountOfGoods>14,65625</amountOfGoods>
+            <amountOfGoods>14.65625</amountOfGoods>
             <pricePerGood>1250.00</pricePerGood>
             <pricePerGoodBrutto>1537.50</pricePerGoodBrutto>
             <netValue>18320.31</netValue>
@@ -7727,7 +7726,7 @@
         <invoiceRow>
             <invoiceNumber>1-04/01/2021</invoiceNumber>
             <invoiceDescription>Innovative - prace projektowe oraz programistyczne związane z utrzymaniem i poprawą błędów oraz bieżącymi działaniami,  zgodnie z załącznikiem</invoiceDescription>
-            <amountOfGoods>0,87500</amountOfGoods>
+            <amountOfGoods>0.87500</amountOfGoods>
             <pricePerGood>1250.00</pricePerGood>
             <pricePerGoodBrutto>1537.50</pricePerGoodBrutto>
             <netValue>1093.75</netValue>
@@ -7745,7 +7744,7 @@
         <invoiceRow>
             <invoiceNumber>3-04/01/2021</invoiceNumber>
             <invoiceDescription>Firma3 - prace projektowe oraz programistyczne związane z rozwojem, zgodne z załącznikiem</invoiceDescription>
-            <amountOfGoods>95,26250</amountOfGoods>
+            <amountOfGoods>95.26250</amountOfGoods>
             <pricePerGood>1250.00</pricePerGood>
             <pricePerGoodBrutto>1537.50</pricePerGoodBrutto>
             <netValue>114078.13</netValue>
@@ -7772,7 +7771,7 @@
         <invoiceRow>
             <invoiceNumber>4-04/01/2021</invoiceNumber>
             <invoiceDescription>Firma8 - prace projektowe oraz programistyczne, zgodnie z załącznikiem</invoiceDescription>
-            <amountOfGoods>21,01875</amountOfGoods>
+            <amountOfGoods>21.01875</amountOfGoods>
             <pricePerGood>1250.00</pricePerGood>
             <pricePerGoodBrutto>1537.50</pricePerGoodBrutto>
             <netValue>26273.44</netValue>
@@ -7790,7 +7789,7 @@
         <invoiceRow>
             <invoiceNumber>1-12/01/2021</invoiceNumber>
             <invoiceDescription>Abonament – aktywne karty SIM zgodnie z załącznikiem </invoiceDescription>
-            <amountOfGoods>596,0335</amountOfGoods>
+            <amountOfGoods>596.0335</amountOfGoods>
             <pricePerGood>7.50</pricePerGood>
             <pricePerGoodBrutto>9.22</pricePerGoodBrutto>
             <netValue>4470.25</netValue>
@@ -7808,7 +7807,7 @@
         <invoiceRow>
             <invoiceNumber>1-19/01/2021</invoiceNumber>
             <invoiceDescription>Prace związane z utrzymaniem aplikacji Aplikacja sprzedażowa w grudniu 2020, zgodnie z załącznikiem</invoiceDescription>
-            <amountOfGoods>8,68750</amountOfGoods>
+            <amountOfGoods>8.68750</amountOfGoods>
             <pricePerGood>1000.00</pricePerGood>
             <pricePerGoodBrutto>1230.00</pricePerGoodBrutto>
             <netValue>8687.50</netValue>
@@ -7817,7 +7816,7 @@
         <invoiceRow>
             <invoiceNumber>1-19/01/2021</invoiceNumber>
             <invoiceDescription>Prace związane z utrzymaniem aplikacji Sellcar w grudniu 2020, zgodnie z załącznikiem</invoiceDescription>
-            <amountOfGoods>10,27750</amountOfGoods>
+            <amountOfGoods>10.27750</amountOfGoods>
             <pricePerGood>1000.00</pricePerGood>
             <pricePerGoodBrutto>1230.00</pricePerGoodBrutto>
             <netValue>10277.50</netValue>
@@ -7826,7 +7825,7 @@
         <invoiceRow>
             <invoiceNumber>1-19/01/2021</invoiceNumber>
             <invoiceDescription>Prace związane z utrzymaniem systemu Aplikacja GPS w grudniu 2020, zgodnie z załącznikiem</invoiceDescription>
-            <amountOfGoods>4,50000</amountOfGoods>
+            <amountOfGoods>4.50000</amountOfGoods>
             <pricePerGood>1000.00</pricePerGood>
             <pricePerGoodBrutto>1230.00</pricePerGoodBrutto>
             <netValue>4500.00</netValue>
@@ -7835,7 +7834,7 @@
         <invoiceRow>
             <invoiceNumber>1-19/01/2021</invoiceNumber>
             <invoiceDescription>Prace związane z utrzymaniem systemu Aplikacja ubezpieczeniowa w grudniu 2020, zgodnie z załącznikiem</invoiceDescription>
-            <amountOfGoods>0,68750</amountOfGoods>
+            <amountOfGoods>0.68750</amountOfGoods>
             <pricePerGood>1000.00</pricePerGood>
             <pricePerGoodBrutto>1230.00</pricePerGoodBrutto>
             <netValue>687.50</netValue>
@@ -7844,7 +7843,7 @@
         <invoiceRow>
             <invoiceNumber>1-19/01/2021</invoiceNumber>
             <invoiceDescription>Prace związane z utrzymaniem systemu Aplikacja windykacyjna w grudniu 2020, zgodnie z załącznikiem</invoiceDescription>
-            <amountOfGoods>2,31250</amountOfGoods>
+            <amountOfGoods>2.31250</amountOfGoods>
             <pricePerGood>1000.00</pricePerGood>
             <pricePerGoodBrutto>1230.00</pricePerGoodBrutto>
             <netValue>2312.50</netValue>
@@ -7853,7 +7852,7 @@
         <invoiceRow>
             <invoiceNumber>1-19/01/2021</invoiceNumber>
             <invoiceDescription>Prace związane z utrzymaniem systemu Ces w grudniu 2020, zgodnie z załącznikiem</invoiceDescription>
-            <amountOfGoods>0,31250</amountOfGoods>
+            <amountOfGoods>0.31250</amountOfGoods>
             <pricePerGood>1000.00</pricePerGood>
             <pricePerGoodBrutto>1230.00</pricePerGoodBrutto>
             <netValue>312.50</netValue>
@@ -7862,7 +7861,7 @@
         <invoiceRow>
             <invoiceNumber>1-19/01/2021</invoiceNumber>
             <invoiceDescription>Prace związane z utrzymaniem usługi eFaktura w grudniu 2020, zgodnie z załącznikiem</invoiceDescription>
-            <amountOfGoods>0,12500</amountOfGoods>
+            <amountOfGoods>0.12500</amountOfGoods>
             <pricePerGood>1000.00</pricePerGood>
             <pricePerGoodBrutto>1230.00</pricePerGoodBrutto>
             <netValue>125.00</netValue>
@@ -7871,7 +7870,7 @@
         <invoiceRow>
             <invoiceNumber>1-19/01/2021</invoiceNumber>
             <invoiceDescription>Prace związane z utrzymaniem systemu Seyo (Portal Klienta) w grudniu 2020, zgodnie z załącznikiem</invoiceDescription>
-            <amountOfGoods>0,18750</amountOfGoods>
+            <amountOfGoods>0.18750</amountOfGoods>
             <pricePerGood>1000.00</pricePerGood>
             <pricePerGoodBrutto>1230.00</pricePerGoodBrutto>
             <netValue>187.50</netValue>
@@ -7880,7 +7879,7 @@
         <invoiceRow>
             <invoiceNumber>1-19/01/2021</invoiceNumber>
             <invoiceDescription>Prace związane z utrzymaniem – wyceny w grudniu 2020, zgodnie z załącznikiem</invoiceDescription>
-            <amountOfGoods>3,74375</amountOfGoods>
+            <amountOfGoods>3.74375</amountOfGoods>
             <pricePerGood>1000.00</pricePerGood>
             <pricePerGoodBrutto>1230.00</pricePerGoodBrutto>
             <netValue>3743.75</netValue>
@@ -7889,7 +7888,7 @@
         <invoiceRow>
             <invoiceNumber>2-19/01/2021</invoiceNumber>
             <invoiceDescription>Prace związane z utrzymaniem infrastruktury w grudniu 2020, zgodnie z załącznikiem</invoiceDescription>
-            <amountOfGoods>13,43125</amountOfGoods>
+            <amountOfGoods>13.43125</amountOfGoods>
             <pricePerGood>1000.00</pricePerGood>
             <pricePerGoodBrutto>1230.00</pricePerGoodBrutto>
             <netValue>13431.25</netValue>
@@ -7898,6 +7897,5 @@
     </invoiceRows>
     <invoiceRowSummary>
         <numberOfInvoices>108</numberOfInvoices>
-        <totalValue>1433794.03</totalValue>
     </invoiceRowSummary>
 </invoice>

@@ -1,0 +1,2 @@
+Š
+javaS1319mThe return type of this method should be an interface such as "Map" rather than the implementation "HashMap". 2%% @

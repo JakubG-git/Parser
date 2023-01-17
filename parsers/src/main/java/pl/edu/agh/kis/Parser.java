@@ -252,6 +252,8 @@ public class Parser {
         wrapJpk.addFakturaCtrl(invoiceSummary);
         wrapJpk.addFakturaWierszCtrl(invoiceSummary2);
         wrapJpk.addFakturaRows(invoiceRows);
+        wrapJpk.addFaktura(companies);
+        jpk = wrapJpk.getJpk();
         return new Pair<>(new Invoice(companies, invoiceSummary, invoiceRows, invoiceSummary2), jpk);
     }
 }

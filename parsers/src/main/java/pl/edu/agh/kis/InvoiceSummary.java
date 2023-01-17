@@ -11,9 +11,8 @@ import java.math.BigDecimal;
 @XmlRootElement
 public class InvoiceSummary {
 
-    @XmlElement
     private int numberOfInvoices = 0;
-    @XmlElement
+
     private BigDecimal totalValue = BigDecimal.ZERO;
     /**
      * Constructor for InvoiceSummary class.
@@ -49,19 +48,11 @@ public class InvoiceSummary {
     }
 
     /**
-     * Setter for totalValue.
-     * @param totalValue - total value of all invoices
-     */
-    public void setTotalValue(BigDecimal totalValue) {
-        this.totalValue = totalValue;
-    }
-
-    /**
      * Getter for numberOfInvoices.
      * @return number of invoices
      */
     public int getNumberOfInvoices() {
-        return numberOfInvoices;
+        return this.numberOfInvoices;
     }
 
     /**

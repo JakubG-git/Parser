@@ -8,10 +8,7 @@ import javax.xml.datatype.DatatypeFactory;
 import javax.xml.datatype.XMLGregorianCalendar;
 import java.math.BigDecimal;
 import java.math.BigInteger;
-import java.util.ArrayList;
-import java.util.Date;
-import java.util.GregorianCalendar;
-import java.util.List;
+import java.util.*;
 
 public class WrapJpk {
     protected JPK jpk;
@@ -79,6 +76,16 @@ public class WrapJpk {
         subject.setAdresPodmiotu(adress);
         this.jpk.setPodmiot1(subject);
     }
+    private XMLGregorianCalendar toXMLGregorian(String str) throws DatatypeConfigurationException {
+        return DatatypeFactory.newInstance().newXMLGregorianCalendar(str);
+    }
+
+    private BigDecimal toBigDecimal(String str) {
+        str = str.replaceAll("[^0-9.,]", "")
+                .replace(",", ".")
+                .replace(" ", "");
+        return new BigDecimal(str);
+    }
 
     public void addFakturaCtrl(InvoiceSummary summary){
         JPK.FakturaCtrl ctrl = this.jpk.getFakturaCtrl();
@@ -112,8 +119,34 @@ public class WrapJpk {
         this.jpk.setFakturaWierszCtrl(ctrl);
     }
 
+    public void addFaktura(List<Company> companies){
+        ArrayList<JPK.Faktura> invoices = new ArrayList<>();
+        for(Company company : companies){
+            JPK.Faktura invoice = new JPK.Faktura();
+            HashMap<String, String> map = company.getInvoiceDetails();
+            invoice.setKodWaluty(CurrCodeType.PLN);
+            invoice.setP2A(map.get("Nr faktury"));
+            invoice.setP3A(map.get("Nazwa odbiorcy"));
+            invoice.setP3B(map.get("Nazwa odbiorcy") + "-ADDRESS");
+            invoice.setP3C(this.jpk.getPodmiot1().getIdentyfikatorPodmiotu().getPelnaNazwa());
+            invoice.setP3D(map.get("Adres odbiorcy"));
+            invoice.setP4A(MSCountryCodeType.PL);
+            invoice.setP4B(this.jpk.getPodmiot1().getIdentyfikatorPodmiotu().getNIP());
+            invoice.setP5B(map.get("NIP odbiorcy"));
+            invoice.setP131(toBigDecimal(map.get("Cena jednostkowa")));
+            invoice.setP141(toBigDecimal(map.get("Kwota Podatku")));
+            invoice.setP15(toBigDecimal((map.get("Cena brutto faktury łącznie"))));
 
-    private void addFaktura(JPK.Faktura faktura){
-        this.jpk.getFaktura().add(faktura);
+            try {
+                invoice.setP1(toXMLGregorian(map.get("Data wystawienia")));
+                invoice.setP6(toXMLGregorian(map.get("Data sprzedaży")));
+            } catch (DatatypeConfigurationException e) {
+                logger.error("Error while parsing date" + e.getMessage());
+            }
+            invoices.add(invoice);
+        }
+        this.jpk.getFaktura().addAll(invoices);
     }
+
+
 }
