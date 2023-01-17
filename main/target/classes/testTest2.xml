@@ -4,7 +4,7 @@
         <KodFormularza kodSystemowy="JPK_FA (3)" wersjaSchemy="1-0">JPK_FA</KodFormularza>
         <WariantFormularza>3</WariantFormularza>
         <CelZlozenia>1</CelZlozenia>
-        <DataWytworzeniaJPK>2023-01-17T13:27:35.790+01:00</DataWytworzeniaJPK>
+        <DataWytworzeniaJPK>2023-01-17T13:27:36.295+01:00</DataWytworzeniaJPK>
         <KodUrzedu>2137</KodUrzedu>
     </Naglowek>
     <Podmiot1>
@@ -2948,7 +2948,7 @@
         <P_2B>3-09/10/2020</P_2B>
         <P_7>Czynsz z tytułu najmu powierzchni w budynku przy ul. Radwańskiego 15 w Krakowie za Październik 2020</P_7>
         <P_8A>szt</P_8A>
-        <P_8B>1</P_8B>
+        <P_8B>1.0</P_8B>
         <P_9A>3000.00</P_9A>
         <P_9B>3690.00</P_9B>
         <P_11>3000.00</P_11>
@@ -2958,7 +2958,7 @@
         <P_2B>4-09/10/2020</P_2B>
         <P_7>Czynsz z tytułu najmu powierzchni w budynku przy ul. Radwańskiego 15 w Krakowie za Październik 2020</P_7>
         <P_8A>szt</P_8A>
-        <P_8B>1</P_8B>
+        <P_8B>1.0</P_8B>
         <P_9A>7000.00</P_9A>
         <P_9B>8610.00</P_9B>
         <P_11>7000.00</P_11>
@@ -2968,7 +2968,7 @@
         <P_2B>1-13/10/2020</P_2B>
         <P_7>Najem pomieszczeń biurowych, Radwańskiego 15, 1 piętro, 2 miesiące.</P_7>
         <P_8A>szt</P_8A>
-        <P_8B>1</P_8B>
+        <P_8B>1.0</P_8B>
         <P_9A>3774.00</P_9A>
         <P_9B>4642.02</P_9B>
         <P_11>3774.00</P_11>
@@ -2988,7 +2988,7 @@
         <P_2B>3-14/10/2020</P_2B>
         <P_7>2. Prace rozwojowe - #67995 : Zlecenie UX - sprint 2</P_7>
         <P_8A>szt</P_8A>
-        <P_8B>55</P_8B>
+        <P_8B>55.0</P_8B>
         <P_9A>1000.00</P_9A>
         <P_9B>1230.00</P_9B>
         <P_11>55000.00</P_11>
@@ -2998,7 +2998,7 @@
         <P_2B>3-14/10/2020</P_2B>
         <P_7>3. Prace rozwojowe - #67996 : Wyszukiwarka z podpowiedziami i Dodatkowa informacja</P_7>
         <P_8A>szt</P_8A>
-        <P_8B>10</P_8B>
+        <P_8B>10.0</P_8B>
         <P_9A>1000.00</P_9A>
         <P_9B>1230.00</P_9B>
         <P_11>10000.00</P_11>
@@ -3018,7 +3018,7 @@
         <P_2B>3-14/10/2020</P_2B>
         <P_7>5. Prace rozwojowe - #68291 : Modyfikacja parametru obsługi marży</P_7>
         <P_8A>szt</P_8A>
-        <P_8B>2</P_8B>
+        <P_8B>2.0</P_8B>
         <P_9A>1000.00</P_9A>
         <P_9B>1230.00</P_9B>
         <P_11>2000.00</P_11>
@@ -3048,7 +3048,7 @@
         <P_2B>1-15/10/2020</P_2B>
         <P_7>Zakup serwerów oraz komputerów – jednostek centralnych (klienckich), zgodnie z umową nr  1/UD/2020 </P_7>
         <P_8A>szt</P_8A>
-        <P_8B>1</P_8B>
+        <P_8B>1.0</P_8B>
         <P_9A>33739.84</P_9A>
         <P_9B>41500.00</P_9B>
         <P_11>33739.84</P_11>
@@ -3058,7 +3058,7 @@
         <P_2B>1-15/10/2020</P_2B>
         <P_7>Zakup drukarki do elektronicznych legitymacji, zgodnie z umową nr  1/UD/2020 </P_7>
         <P_8A>szt</P_8A>
-        <P_8B>1</P_8B>
+        <P_8B>1.0</P_8B>
         <P_9A>21951.22</P_9A>
         <P_9B>27000.00</P_9B>
         <P_11>21951.22</P_11>
@@ -3068,7 +3068,7 @@
         <P_2B>1-15/10/2020</P_2B>
         <P_7>Wdrożenie poszczególnych modułów wraz zakupem oprogramowania, zgodnie z umową nr  1/UD/2020 </P_7>
         <P_8A>szt</P_8A>
-        <P_8B>1</P_8B>
+        <P_8B>1.0</P_8B>
         <P_9A>22764.23</P_9A>
         <P_9B>28000.00</P_9B>
         <P_11>22764.23</P_11>
@@ -3078,7 +3078,7 @@
         <P_2B>1-15/10/2020</P_2B>
         <P_7>Migracja danych do nowego systemu, zgodnie z umową nr  1/UD/2020 </P_7>
         <P_8A>szt</P_8A>
-        <P_8B>1</P_8B>
+        <P_8B>1.0</P_8B>
         <P_9A>26829.27</P_9A>
         <P_9B>33000.00</P_9B>
         <P_11>26829.27</P_11>
@@ -3088,7 +3088,7 @@
         <P_2B>1-15/10/2020</P_2B>
         <P_7>Wdrożenie systemu – oprogramowanie do obsługi systemów, zgodnie z umową nr  1/UD/2020 </P_7>
         <P_8A>szt</P_8A>
-        <P_8B>1</P_8B>
+        <P_8B>1.0</P_8B>
         <P_9A>17886.18</P_9A>
         <P_9B>22000.00</P_9B>
         <P_11>17886.18</P_11>
@@ -3098,7 +3098,7 @@
         <P_2B>1-15/10/2020</P_2B>
         <P_7>Szkolenia dla kadry i pracowników wdrażanych komponentów Systemu USOS, zgodnie z umową nr  1/UD/2020 </P_7>
         <P_8A>szt</P_8A>
-        <P_8B>1</P_8B>
+        <P_8B>1.0</P_8B>
         <P_9A>23577.24</P_9A>
         <P_9B>29000.01</P_9B>
         <P_11>23577.24</P_11>
@@ -3108,7 +3108,7 @@
         <P_2B>1-15/10/2020</P_2B>
         <P_7>Obsługa administracyjna, zgodnie z umową nr  1/UD/2020 </P_7>
         <P_8A>szt</P_8A>
-        <P_8B>1</P_8B>
+        <P_8B>1.0</P_8B>
         <P_9A>14634.15</P_9A>
         <P_9B>18000.00</P_9B>
         <P_11>14634.15</P_11>
@@ -3118,7 +3118,7 @@
         <P_2B>2-15/10/2020</P_2B>
         <P_7>Wdrożenie systemu kształcenia na odległość - unowocześnienie platformy e-learningowej, zgodnie z umową nr 4/UD/2020</P_7>
         <P_8A>szt</P_8A>
-        <P_8B>1</P_8B>
+        <P_8B>1.0</P_8B>
         <P_9A>31707.32</P_9A>
         <P_9B>39000.00</P_9B>
         <P_11>31707.32</P_11>
@@ -3128,7 +3128,7 @@
         <P_2B>2-15/10/2020</P_2B>
         <P_7>Wdrożenie systemu kształcenia na odległość – e-learning - szkolenia dla pracowników, zgodnie z umową nr 4/UD/2020</P_7>
         <P_8A>szt</P_8A>
-        <P_8B>1</P_8B>
+        <P_8B>1.0</P_8B>
         <P_9A>10000.00</P_9A>
         <P_9B>12300.00</P_9B>
         <P_11>10000.00</P_11>
@@ -3138,7 +3138,7 @@
         <P_2B>2-15/10/2020</P_2B>
         <P_7>Wdrożenie systemu kształcenia na odległość - e-learning – serwer wirtualny, zgodnie z umową nr 4/UD/2020</P_7>
         <P_8A>szt</P_8A>
-        <P_8B>1</P_8B>
+        <P_8B>1.0</P_8B>
         <P_9A>2032.52</P_9A>
         <P_9B>2500.00</P_9B>
         <P_11>2032.52</P_11>
@@ -3148,7 +3148,7 @@
         <P_2B>2-15/10/2020</P_2B>
         <P_7>Wdrożenie systemu kształcenia na odległość - e-learning  - implementacja kursów na platformę, zgodnie z umową nr 4/UD/2020</P_7>
         <P_8A>szt</P_8A>
-        <P_8B>1</P_8B>
+        <P_8B>1.0</P_8B>
         <P_9A>5000.00</P_9A>
         <P_9B>6150.00</P_9B>
         <P_11>5000.00</P_11>
@@ -3158,7 +3158,7 @@
         <P_2B>3-15/10/2020</P_2B>
         <P_7>Komputer wraz z systemem operacyjnym, zgodnie z umową nr 1/PK/2020</P_7>
         <P_8A>szt</P_8A>
-        <P_8B>24</P_8B>
+        <P_8B>24.0</P_8B>
         <P_9A>6351.63</P_9A>
         <P_9B>7812.50</P_9B>
         <P_11>152439.02</P_11>
@@ -3168,7 +3168,7 @@
         <P_2B>3-15/10/2020</P_2B>
         <P_7>Oprogramowanie sprzedażowe, zgodnie z umową nr 1/PK/2020</P_7>
         <P_8A>szt</P_8A>
-        <P_8B>24</P_8B>
+        <P_8B>24.0</P_8B>
         <P_9A>406.50</P_9A>
         <P_9B>500.00</P_9B>
         <P_11>9756.10</P_11>
@@ -3178,7 +3178,7 @@
         <P_2B>3-15/10/2020</P_2B>
         <P_7>Oprogramowanie finansowo – księgowe, zgodnie z umową nr 1/PK/2020</P_7>
         <P_8A>szt</P_8A>
-        <P_8B>24</P_8B>
+        <P_8B>24.0</P_8B>
         <P_9A>406.50</P_9A>
         <P_9B>500.00</P_9B>
         <P_11>9756.10</P_11>
@@ -3188,7 +3188,7 @@
         <P_2B>3-15/10/2020</P_2B>
         <P_7>Router, zgodnie z umową nr 1/PK/2020</P_7>
         <P_8A>szt</P_8A>
-        <P_8B>2</P_8B>
+        <P_8B>2.0</P_8B>
         <P_9A>406.51</P_9A>
         <P_9B>500.01</P_9B>
         <P_11>813.01</P_11>
@@ -3198,7 +3198,7 @@
         <P_2B>3-15/10/2020</P_2B>
         <P_7>Switch, zgodnie z umową nr 1/PK/2020</P_7>
         <P_8A>szt</P_8A>
-        <P_8B>2</P_8B>
+        <P_8B>2.0</P_8B>
         <P_9A>528.46</P_9A>
         <P_9B>650.01</P_9B>
         <P_11>1056.91</P_11>
@@ -3208,7 +3208,7 @@
         <P_2B>3-15/10/2020</P_2B>
         <P_7>Okablowanie (2m), zgodnie z umową nr 1/PK/2020</P_7>
         <P_8A>szt</P_8A>
-        <P_8B>28</P_8B>
+        <P_8B>28.0</P_8B>
         <P_9A>2.90</P_9A>
         <P_9B>3.57</P_9B>
         <P_11>81.30</P_11>
@@ -3218,7 +3218,7 @@
         <P_2B>3-15/10/2020</P_2B>
         <P_7>Okablowanie (1,5m), zgodnie z umową nr 1/PK/2020</P_7>
         <P_8A>szt</P_8A>
-        <P_8B>24</P_8B>
+        <P_8B>24.0</P_8B>
         <P_9A>3.39</P_9A>
         <P_9B>4.17</P_9B>
         <P_11>81.30</P_11>
@@ -3228,7 +3228,7 @@
         <P_2B>1-16/10/2020</P_2B>
         <P_7>Informatyczne narzędzia edukacyjne</P_7>
         <P_8A>szt</P_8A>
-        <P_8B>1</P_8B>
+        <P_8B>1.0</P_8B>
         <P_9A>1268.29</P_9A>
         <P_9B>1560.00</P_9B>
         <P_11>1268.29</P_11>
@@ -3238,7 +3238,7 @@
         <P_2B>1-05/11/2020</P_2B>
         <P_7>NAJEM SERWERA ZA OKRES 10.2020 (SPECYFIKACJA ZGODNA Z UMOWĄ)   </P_7>
         <P_8A>szt</P_8A>
-        <P_8B>1</P_8B>
+        <P_8B>1.0</P_8B>
         <P_9A>13000.00</P_9A>
         <P_9B>15990.00</P_9B>
         <P_11>13000.00</P_11>
@@ -3248,7 +3248,7 @@
         <P_2B>2-05/11/2020</P_2B>
         <P_7>Zarządzanie infrastrukturą serwerową oraz usługami dla projektu Innovative- ZGODNIE Z RAPORTEM</P_7>
         <P_8A>szt</P_8A>
-        <P_8B>1</P_8B>
+        <P_8B>1.0</P_8B>
         <P_9A>3909.38</P_9A>
         <P_9B>4808.54</P_9B>
         <P_11>3909.38</P_11>
@@ -3258,7 +3258,7 @@
         <P_2B>3-05/11/2020</P_2B>
         <P_7>Urządzenia GPS – terminale/montaż – październik 2020 zgodnie z załącznikiem </P_7>
         <P_8A>szt</P_8A>
-        <P_8B>63</P_8B>
+        <P_8B>63.0</P_8B>
         <P_9A>280.00</P_9A>
         <P_9B>344.40</P_9B>
         <P_11>17640.00</P_11>
@@ -3278,7 +3278,7 @@
         <P_2B>1-09/11/2020</P_2B>
         <P_7>Zarządzanie infrastrukturą serwerową oraz usługami dla projektu Firma3 – Premium</P_7>
         <P_8A>szt</P_8A>
-        <P_8B>1</P_8B>
+        <P_8B>1.0</P_8B>
         <P_9A>7840.00</P_9A>
         <P_9B>9643.20</P_9B>
         <P_11>7840.00</P_11>
@@ -3288,7 +3288,7 @@
         <P_2B>1-09/11/2020</P_2B>
         <P_7>Firma3 - prace projektowe oraz programistyczne związane z utrzymaniem i poprawą błędów oraz bieżącymi działaniami,  zgodne z załącznikiem</P_7>
         <P_8A>szt</P_8A>
-        <P_8B>4</P_8B>
+        <P_8B>4.0</P_8B>
         <P_9A>1250.00</P_9A>
         <P_9B>1537.50</P_9B>
         <P_11>5000.00</P_11>
@@ -3298,7 +3298,7 @@
         <P_2B>2-09/11/2020</P_2B>
         <P_7>Innovative - prace projektowe oraz programistyczne związane z rozwojem, zgodnie z załącznikiem</P_7>
         <P_8A>szt</P_8A>
-        <P_8B>12.18750</P_8B>
+        <P_8B>12.1875</P_8B>
         <P_9A>1250.00</P_9A>
         <P_9B>1537.50</P_9B>
         <P_11>15234.38</P_11>
@@ -3308,7 +3308,7 @@
         <P_2B>2-09/11/2020</P_2B>
         <P_7>Innovative - prace projektowe oraz programistyczne związane z utrzymaniem i poprawą błędów oraz bieżącymi działaniami,  zgodnie z załącznikiem</P_7>
         <P_8A>szt</P_8A>
-        <P_8B>6.50000</P_8B>
+        <P_8B>6.5</P_8B>
         <P_9A>1250.00</P_9A>
         <P_9B>1537.50</P_9B>
         <P_11>8125.00</P_11>
@@ -3318,7 +3318,7 @@
         <P_2B>1-12/11/2020</P_2B>
         <P_7>Faktura korygująca, korekta dotyczy fv nr 2-09/11/2020 przyczyna korkty błędna kwota w pozycji nr 2 – Różnica do zwrotu - Innovative - prace projektowe oraz programistyczne związane z rozwojem, zgodnie z załącznikiem</P_7>
         <P_8A>szt</P_8A>
-        <P_8B>0.81250</P_8B>
+        <P_8B>0.8125</P_8B>
         <P_9A>1250.00</P_9A>
         <P_9B>1537.50</P_9B>
         <P_11>1015.62</P_11>
@@ -3328,7 +3328,7 @@
         <P_2B>1-10/11/2020</P_2B>
         <P_7>Firma8 - prace projektowe oraz programistyczne, zgodnie z załącznikiem</P_7>
         <P_8A>szt</P_8A>
-        <P_8B>26.47500</P_8B>
+        <P_8B>26.475</P_8B>
         <P_9A>1250.00</P_9A>
         <P_9B>1537.50</P_9B>
         <P_11>33093.75</P_11>
@@ -3338,7 +3338,7 @@
         <P_2B>2-10/11/2020</P_2B>
         <P_7>Czynsz z tytułu najmu powierzchni w budynku przy ul. Radwańskiego 15 w Krakowie za Listopad 2020</P_7>
         <P_8A>szt</P_8A>
-        <P_8B>1</P_8B>
+        <P_8B>1.0</P_8B>
         <P_9A>3000.00</P_9A>
         <P_9B>3690.00</P_9B>
         <P_11>3000.00</P_11>
@@ -3348,7 +3348,7 @@
         <P_2B>3-10/11/2020</P_2B>
         <P_7>Czynsz z tytułu najmu powierzchni w budynku przy ul. Radwańskiego 15 w Krakowie za Listopad 2020</P_7>
         <P_8A>szt</P_8A>
-        <P_8B>1</P_8B>
+        <P_8B>1.0</P_8B>
         <P_9A>7000.00</P_9A>
         <P_9B>8610.00</P_9B>
         <P_11>7000.00</P_11>
@@ -3368,7 +3368,7 @@
         <P_2B>1-17/11/2020</P_2B>
         <P_7>Informatyczne narzędzia edukacyjne</P_7>
         <P_8A>szt</P_8A>
-        <P_8B>1</P_8B>
+        <P_8B>1.0</P_8B>
         <P_9A>1593.50</P_9A>
         <P_9B>1960.00</P_9B>
         <P_11>1593.50</P_11>
@@ -3388,7 +3388,7 @@
         <P_2B>1-25/11/2020</P_2B>
         <P_7>Prace związane z utrzymaniem aplikacji Sellcar w październiku 2020, zgodnie z załącznikiem</P_7>
         <P_8A>szt</P_8A>
-        <P_8B>3.41750</P_8B>
+        <P_8B>3.4175</P_8B>
         <P_9A>1000.00</P_9A>
         <P_9B>1230.00</P_9B>
         <P_11>3417.50</P_11>
@@ -3398,7 +3398,7 @@
         <P_2B>1-25/11/2020</P_2B>
         <P_7>Prace związane z utrzymaniem systemu Aplikacja GPS w październiku 2020, zgodnie z załącznikiem</P_7>
         <P_8A>szt</P_8A>
-        <P_8B>14.56250</P_8B>
+        <P_8B>14.5625</P_8B>
         <P_9A>1000.00</P_9A>
         <P_9B>1230.00</P_9B>
         <P_11>14562.50</P_11>
@@ -3408,7 +3408,7 @@
         <P_2B>1-25/11/2020</P_2B>
         <P_7>Prace związane z utrzymaniem systemu Aplikacja ubezpieczeniowa w październiku 2020, zgodnie z załącznikiem</P_7>
         <P_8A>szt</P_8A>
-        <P_8B>1.81250</P_8B>
+        <P_8B>1.8125</P_8B>
         <P_9A>1000.00</P_9A>
         <P_9B>1230.00</P_9B>
         <P_11>1812.50</P_11>
@@ -3418,7 +3418,7 @@
         <P_2B>1-25/11/2020</P_2B>
         <P_7>Prace związane z utrzymaniem systemu Aplikacja windykacyjna w październiku 2020, zgodnie z załącznikiem</P_7>
         <P_8A>szt</P_8A>
-        <P_8B>0.56250</P_8B>
+        <P_8B>0.5625</P_8B>
         <P_9A>1000.00</P_9A>
         <P_9B>1230.00</P_9B>
         <P_11>562.50</P_11>
@@ -3458,7 +3458,7 @@
         <P_2B>2-25/11/2020</P_2B>
         <P_7>Prace związane z utrzymaniem infrastruktury w październiku 2020, zgodnie z załącznikiem</P_7>
         <P_8A>szt</P_8A>
-        <P_8B>12.77500</P_8B>
+        <P_8B>12.775</P_8B>
         <P_9A>1000.00</P_9A>
         <P_9B>1230.00</P_9B>
         <P_11>12775.00</P_11>
@@ -3488,7 +3488,7 @@
         <P_2B>3-25/11/2020</P_2B>
         <P_7>Prace rozwojowe - #69169 :Podział ruchu na iframe/zalogowany/anonimowy </P_7>
         <P_8A>szt</P_8A>
-        <P_8B>3</P_8B>
+        <P_8B>3.0</P_8B>
         <P_9A>1000.00</P_9A>
         <P_9B>1230.00</P_9B>
         <P_11>3000.00</P_11>
@@ -3500,7 +3500,7 @@
 
 </P_7>
         <P_8A>szt</P_8A>
-        <P_8B>2</P_8B>
+        <P_8B>2.0</P_8B>
         <P_9A>1000.00</P_9A>
         <P_9B>1230.00</P_9B>
         <P_11>2000.00</P_11>
@@ -3530,7 +3530,7 @@
         <P_2B>1-07/12/2020</P_2B>
         <P_7>NAJEM SERWERA ZA OKRES 11.2020 (SPECYFIKACJA ZGODNA Z UMOWĄ)   </P_7>
         <P_8A>szt</P_8A>
-        <P_8B>1</P_8B>
+        <P_8B>1.0</P_8B>
         <P_9A>13000.00</P_9A>
         <P_9B>15990.00</P_9B>
         <P_11>13000.00</P_11>
@@ -3550,7 +3550,7 @@
         <P_2B>3-07/12/2020</P_2B>
         <P_7>Abonament – aktywne karty SIM zgodnie z załącznikiem </P_7>
         <P_8A>szt</P_8A>
-        <P_8B>536.86620</P_8B>
+        <P_8B>536.8662</P_8B>
         <P_9A>7.50</P_9A>
         <P_9B>9.22</P_9B>
         <P_11>4026.50</P_11>
@@ -3560,7 +3560,7 @@
         <P_2B>4-07/12/2020</P_2B>
         <P_7>Urządzenia GPS – terminale/montaż – listopad 2020 zgodnie z załącznikiem </P_7>
         <P_8A>szt</P_8A>
-        <P_8B>52</P_8B>
+        <P_8B>52.0</P_8B>
         <P_9A>280.00</P_9A>
         <P_9B>344.40</P_9B>
         <P_11>14560.00</P_11>
@@ -3570,7 +3570,7 @@
         <P_2B>5-07/12/2020</P_2B>
         <P_7>Urządzenia GPS – terminale - uzupełnienie stocka urządzeń</P_7>
         <P_8A>szt</P_8A>
-        <P_8B>100</P_8B>
+        <P_8B>100.0</P_8B>
         <P_9A>280.00</P_9A>
         <P_9B>344.40</P_9B>
         <P_11>28000.00</P_11>
@@ -3580,7 +3580,7 @@
         <P_2B>6-07/12/2020</P_2B>
         <P_7>Zarządzanie infrastrukturą serwerową oraz usługami dla projektu Innovative- ZGODNIE Z RAPORTEM</P_7>
         <P_8A>szt</P_8A>
-        <P_8B>1</P_8B>
+        <P_8B>1.0</P_8B>
         <P_9A>3090.63</P_9A>
         <P_9B>3801.47</P_9B>
         <P_11>3090.63</P_11>
@@ -3590,7 +3590,7 @@
         <P_2B>1-09/12/2020</P_2B>
         <P_7>Firma3 - prace projektowe oraz programistyczne związane z rozwojem, zgodne z załącznikiem</P_7>
         <P_8A>szt</P_8A>
-        <P_8B>78.8000</P_8B>
+        <P_8B>78.8</P_8B>
         <P_9A>1250.00</P_9A>
         <P_9B>1537.50</P_9B>
         <P_11>93500.00</P_11>
@@ -3600,7 +3600,7 @@
         <P_2B>1-09/12/2020</P_2B>
         <P_7>Zarządzanie infrastrukturą serwerową oraz usługami dla projektu Firma3 – Premium</P_7>
         <P_8A>szt</P_8A>
-        <P_8B>1</P_8B>
+        <P_8B>1.0</P_8B>
         <P_9A>7840.00</P_9A>
         <P_9B>9643.20</P_9B>
         <P_11>7840.00</P_11>
@@ -3610,7 +3610,7 @@
         <P_2B>1-09/12/2020</P_2B>
         <P_7>Firma3 - prace projektowe oraz programistyczne związane z utrzymaniem i poprawą błędów oraz bieżącymi działaniami,  zgodne z załącznikiem</P_7>
         <P_8A>szt</P_8A>
-        <P_8B>4</P_8B>
+        <P_8B>4.0</P_8B>
         <P_9A>1250.00</P_9A>
         <P_9B>1537.50</P_9B>
         <P_11>5000.00</P_11>
@@ -3630,7 +3630,7 @@
         <P_2B>2-09/12/2020</P_2B>
         <P_7>Innovative - prace projektowe oraz programistyczne związane z utrzymaniem i poprawą błędów oraz bieżącymi działaniami,  zgodnie z załącznikiem</P_7>
         <P_8A>szt</P_8A>
-        <P_8B>0.93750</P_8B>
+        <P_8B>0.9375</P_8B>
         <P_9A>1250.00</P_9A>
         <P_9B>1537.50</P_9B>
         <P_11>1171.88</P_11>
@@ -3640,7 +3640,7 @@
         <P_2B>1-10/12/2020</P_2B>
         <P_7>Czynsz z tytułu najmu powierzchni w budynku przy ul. Radwańskiego 15 w Krakowie za Grudzień 2020</P_7>
         <P_8A>szt</P_8A>
-        <P_8B>1</P_8B>
+        <P_8B>1.0</P_8B>
         <P_9A>3000.00</P_9A>
         <P_9B>3690.00</P_9B>
         <P_11>3000.00</P_11>
@@ -3650,7 +3650,7 @@
         <P_2B>2-10/12/2020</P_2B>
         <P_7>Czynsz z tytułu najmu powierzchni w budynku przy ul. Radwańskiego 15 w Krakowie za Grudzień 2020</P_7>
         <P_8A>szt</P_8A>
-        <P_8B>1</P_8B>
+        <P_8B>1.0</P_8B>
         <P_9A>7000.00</P_9A>
         <P_9B>8610.00</P_9B>
         <P_11>7000.00</P_11>
@@ -3660,7 +3660,7 @@
         <P_2B>1-14/12/2020</P_2B>
         <P_7>Prace związane z utrzymaniem aplikacji Aplikacja sprzedażowa w listopadzie 2020, zgodnie z załącznikiem</P_7>
         <P_8A>szt</P_8A>
-        <P_8B>3.97500</P_8B>
+        <P_8B>3.975</P_8B>
         <P_9A>1000.00</P_9A>
         <P_9B>1230.00</P_9B>
         <P_11>3975.00</P_11>
@@ -3690,7 +3690,7 @@
         <P_2B>1-14/12/2020</P_2B>
         <P_7>Prace związane z utrzymaniem systemu Aplikacja ubezpieczeniowa w listopadzie 2020, zgodnie z załącznikiem</P_7>
         <P_8A>szt</P_8A>
-        <P_8B>0.50000</P_8B>
+        <P_8B>0.5</P_8B>
         <P_9A>1000.00</P_9A>
         <P_9B>1230.00</P_9B>
         <P_11>500.00</P_11>
@@ -3700,7 +3700,7 @@
         <P_2B>1-14/12/2020</P_2B>
         <P_7>Prace związane z utrzymaniem systemu Aplikacja windykacyjna w listopadzie 2020, zgodnie z załącznikiem</P_7>
         <P_8A>szt</P_8A>
-        <P_8B>0.43750</P_8B>
+        <P_8B>0.4375</P_8B>
         <P_9A>1000.00</P_9A>
         <P_9B>1230.00</P_9B>
         <P_11>437.50</P_11>
@@ -3730,7 +3730,7 @@
         <P_2B>1-14/12/2020</P_2B>
         <P_7>Prace związane z utrzymaniem systemu Seyo (Portal Klienta) w listopadzie 2020, zgodnie z załącznikiem</P_7>
         <P_8A>szt</P_8A>
-        <P_8B>0.12500</P_8B>
+        <P_8B>0.125</P_8B>
         <P_9A>1000.00</P_9A>
         <P_9B>1230.00</P_9B>
         <P_11>125.00</P_11>
@@ -3740,7 +3740,7 @@
         <P_2B>1-14/12/2020</P_2B>
         <P_7>Prace związane z utrzymaniem – wyceny w listopadzie 2020, zgodnie z załącznikiem</P_7>
         <P_8A>szt</P_8A>
-        <P_8B>1.56000</P_8B>
+        <P_8B>1.56</P_8B>
         <P_9A>1000.00</P_9A>
         <P_9B>1230.00</P_9B>
         <P_11>1560.00</P_11>
@@ -3760,7 +3760,7 @@
         <P_2B>3-14/12/2020</P_2B>
         <P_7>Prace rozwojowe - #70418: SSR</P_7>
         <P_8A>szt</P_8A>
-        <P_8B>19</P_8B>
+        <P_8B>19.0</P_8B>
         <P_9A>1000.00</P_9A>
         <P_9B>1230.00</P_9B>
         <P_11>19000.00</P_11>
@@ -3770,7 +3770,7 @@
         <P_2B>3-14/12/2020</P_2B>
         <P_7>Prace rozwojowe - #70713: Wszystkie samochody razem i wartość na kaflu (ograniczony zakres)</P_7>
         <P_8A>szt</P_8A>
-        <P_8B>15</P_8B>
+        <P_8B>15.0</P_8B>
         <P_9A>1000.00</P_9A>
         <P_9B>1230.00</P_9B>
         <P_11>15000.00</P_11>
@@ -3800,7 +3800,7 @@
         <P_2B>3-14/12/2020</P_2B>
         <P_7>Prace rozwojowe - #70916: Zmiana kwoty minimalnej w zalezności od przeznaczenia gotówki</P_7>
         <P_8A>szt</P_8A>
-        <P_8B>1</P_8B>
+        <P_8B>1.0</P_8B>
         <P_9A>1000.00</P_9A>
         <P_9B>1230.00</P_9B>
         <P_11>1000.00</P_11>
@@ -3820,7 +3820,7 @@
         <P_2B>4-14/12/2020</P_2B>
         <P_7>System „Tankuj korzyści” zgodnie ze ZLECENIEM NR 5 z dnia 15.01.2020 – rozliczenie rozszerzeń, zgodnie z załącznikiem</P_7>
         <P_8A>szt</P_8A>
-        <P_8B>41.60</P_8B>
+        <P_8B>41.6</P_8B>
         <P_9A>1400.00</P_9A>
         <P_9B>1722.00</P_9B>
         <P_11>58240.00</P_11>
@@ -3840,7 +3840,7 @@
         <P_2B>1-04/01/2021</P_2B>
         <P_7>Innovative - prace projektowe oraz programistyczne związane z utrzymaniem i poprawą błędów oraz bieżącymi działaniami,  zgodnie z załącznikiem</P_7>
         <P_8A>szt</P_8A>
-        <P_8B>0.87500</P_8B>
+        <P_8B>0.875</P_8B>
         <P_9A>1250.00</P_9A>
         <P_9B>1537.50</P_9B>
         <P_11>1093.75</P_11>
@@ -3850,7 +3850,7 @@
         <P_2B>2-04/01/2021</P_2B>
         <P_7>Zarządzanie infrastrukturą serwerową oraz usługami dla projektu Innovative- ZGODNIE Z RAPORTEM</P_7>
         <P_8A>szt</P_8A>
-        <P_8B>1</P_8B>
+        <P_8B>1.0</P_8B>
         <P_9A>6200.00</P_9A>
         <P_9B>7626.00</P_9B>
         <P_11>6200.00</P_11>
@@ -3860,7 +3860,7 @@
         <P_2B>3-04/01/2021</P_2B>
         <P_7>Firma3 - prace projektowe oraz programistyczne związane z rozwojem, zgodne z załącznikiem</P_7>
         <P_8A>szt</P_8A>
-        <P_8B>95.26250</P_8B>
+        <P_8B>95.2625</P_8B>
         <P_9A>1250.00</P_9A>
         <P_9B>1537.50</P_9B>
         <P_11>114078.13</P_11>
@@ -3870,7 +3870,7 @@
         <P_2B>3-04/01/2021</P_2B>
         <P_7>Zarządzanie infrastrukturą serwerową oraz usługami dla projektu Firma3 – Premium</P_7>
         <P_8A>szt</P_8A>
-        <P_8B>1</P_8B>
+        <P_8B>1.0</P_8B>
         <P_9A>7840.00</P_9A>
         <P_9B>9643.20</P_9B>
         <P_11>7840.00</P_11>
@@ -3880,7 +3880,7 @@
         <P_2B>3-04/01/2021</P_2B>
         <P_7>Firma3 - prace projektowe oraz programistyczne związane z utrzymaniem i poprawą błędów oraz bieżącymi działaniami,  zgodne z załącznikiem</P_7>
         <P_8A>szt</P_8A>
-        <P_8B>4</P_8B>
+        <P_8B>4.0</P_8B>
         <P_9A>1250.00</P_9A>
         <P_9B>1537.50</P_9B>
         <P_11>5000.00</P_11>
@@ -3900,7 +3900,7 @@
         <P_2B>5-04/01/2021</P_2B>
         <P_7>NAJEM SERWERA ZA OKRES 12.2020 (SPECYFIKACJA ZGODNA Z UMOWĄ)   </P_7>
         <P_8A>szt</P_8A>
-        <P_8B>1</P_8B>
+        <P_8B>1.0</P_8B>
         <P_9A>13000.00</P_9A>
         <P_9B>15990.00</P_9B>
         <P_11>13000.00</P_11>
@@ -3920,7 +3920,7 @@
         <P_2B>2-12/01/2021</P_2B>
         <P_7>Urządzenia GPS – terminale/montaż – listopad 2020 zgodnie z załącznikiem </P_7>
         <P_8A>szt</P_8A>
-        <P_8B>65</P_8B>
+        <P_8B>65.0</P_8B>
         <P_9A>280.00</P_9A>
         <P_9B>344.40</P_9B>
         <P_11>18200.00</P_11>
@@ -3930,7 +3930,7 @@
         <P_2B>1-19/01/2021</P_2B>
         <P_7>Prace związane z utrzymaniem aplikacji Aplikacja sprzedażowa w grudniu 2020, zgodnie z załącznikiem</P_7>
         <P_8A>szt</P_8A>
-        <P_8B>8.68750</P_8B>
+        <P_8B>8.6875</P_8B>
         <P_9A>1000.00</P_9A>
         <P_9B>1230.00</P_9B>
         <P_11>8687.50</P_11>
@@ -3940,7 +3940,7 @@
         <P_2B>1-19/01/2021</P_2B>
         <P_7>Prace związane z utrzymaniem aplikacji Sellcar w grudniu 2020, zgodnie z załącznikiem</P_7>
         <P_8A>szt</P_8A>
-        <P_8B>10.27750</P_8B>
+        <P_8B>10.2775</P_8B>
         <P_9A>1000.00</P_9A>
         <P_9B>1230.00</P_9B>
         <P_11>10277.50</P_11>
@@ -3950,7 +3950,7 @@
         <P_2B>1-19/01/2021</P_2B>
         <P_7>Prace związane z utrzymaniem systemu Aplikacja GPS w grudniu 2020, zgodnie z załącznikiem</P_7>
         <P_8A>szt</P_8A>
-        <P_8B>4.50000</P_8B>
+        <P_8B>4.5</P_8B>
         <P_9A>1000.00</P_9A>
         <P_9B>1230.00</P_9B>
         <P_11>4500.00</P_11>
@@ -3960,7 +3960,7 @@
         <P_2B>1-19/01/2021</P_2B>
         <P_7>Prace związane z utrzymaniem systemu Aplikacja ubezpieczeniowa w grudniu 2020, zgodnie z załącznikiem</P_7>
         <P_8A>szt</P_8A>
-        <P_8B>0.68750</P_8B>
+        <P_8B>0.6875</P_8B>
         <P_9A>1000.00</P_9A>
         <P_9B>1230.00</P_9B>
         <P_11>687.50</P_11>
@@ -3970,7 +3970,7 @@
         <P_2B>1-19/01/2021</P_2B>
         <P_7>Prace związane z utrzymaniem systemu Aplikacja windykacyjna w grudniu 2020, zgodnie z załącznikiem</P_7>
         <P_8A>szt</P_8A>
-        <P_8B>2.31250</P_8B>
+        <P_8B>2.3125</P_8B>
         <P_9A>1000.00</P_9A>
         <P_9B>1230.00</P_9B>
         <P_11>2312.50</P_11>
@@ -3980,7 +3980,7 @@
         <P_2B>1-19/01/2021</P_2B>
         <P_7>Prace związane z utrzymaniem systemu Ces w grudniu 2020, zgodnie z załącznikiem</P_7>
         <P_8A>szt</P_8A>
-        <P_8B>0.31250</P_8B>
+        <P_8B>0.3125</P_8B>
         <P_9A>1000.00</P_9A>
         <P_9B>1230.00</P_9B>
         <P_11>312.50</P_11>
@@ -3990,7 +3990,7 @@
         <P_2B>1-19/01/2021</P_2B>
         <P_7>Prace związane z utrzymaniem usługi eFaktura w grudniu 2020, zgodnie z załącznikiem</P_7>
         <P_8A>szt</P_8A>
-        <P_8B>0.12500</P_8B>
+        <P_8B>0.125</P_8B>
         <P_9A>1000.00</P_9A>
         <P_9B>1230.00</P_9B>
         <P_11>125.00</P_11>
@@ -4000,7 +4000,7 @@
         <P_2B>1-19/01/2021</P_2B>
         <P_7>Prace związane z utrzymaniem systemu Seyo (Portal Klienta) w grudniu 2020, zgodnie z załącznikiem</P_7>
         <P_8A>szt</P_8A>
-        <P_8B>0.18750</P_8B>
+        <P_8B>0.1875</P_8B>
         <P_9A>1000.00</P_9A>
         <P_9B>1230.00</P_9B>
         <P_11>187.50</P_11>
