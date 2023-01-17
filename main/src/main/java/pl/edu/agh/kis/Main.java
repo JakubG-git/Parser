@@ -1,12 +1,7 @@
 package pl.edu.agh.kis;
 
-import jakarta.xml.bind.JAXBContext;
 import jakarta.xml.bind.JAXBException;
-import jakarta.xml.bind.Marshaller;
-import org.apache.commons.math3.util.Pair;
-import pl.edu.agh.kis.generated.JPK;
 
-import java.io.File;
 import java.io.IOException;
 /**
  * Main class of the program
@@ -19,25 +14,29 @@ public class Main {
      * @throws JAXBException if there is a problem with JAXB
      */
     public static void main(String[] args) throws IOException, JAXBException {
-        Parser parser = new Parser("C:\\Users\\Jakub\\IdeaProjects\\Parser\\main\\src\\main\\resources\\test.csv", '\t', true);
-        Pair<Invoice, JPK> pair = parser.saveToXML();
-        Invoice invoice = pair.getKey();
-        parser.resetParser("C:\\Users\\Jakub\\IdeaProjects\\Parser\\main\\src\\main\\resources\\test.xlsx", '\t', false);
-        Pair<Invoice, JPK> pair2 = parser.saveToXML();
-        Invoice invoice2 = pair2.getKey();
-        JPK jpk = pair.getValue();
-        JPK jpk2 = pair2.getValue();
-        JAXBContext context = JAXBContext.newInstance(Invoice.class);
-        JAXBContext context2 = JAXBContext.newInstance(JPK.class);
-        Marshaller marshaller = context.createMarshaller();
-        Marshaller marshaller2 = context2.createMarshaller();
-        marshaller.setProperty(Marshaller.JAXB_FORMATTED_OUTPUT, Boolean.TRUE);
-        marshaller2.setProperty(Marshaller.JAXB_FORMATTED_OUTPUT, Boolean.TRUE);
-        marshaller.setProperty(Marshaller.JAXB_ENCODING, "UTF-8");
-        marshaller2.setProperty(Marshaller.JAXB_ENCODING, "UTF-8");
-        marshaller2.marshal(jpk, new File("C:\\Users\\Jakub\\IdeaProjects\\Parser\\main\\target\\testJPK.xml"));
-        marshaller2.marshal(jpk2, new File("C:\\Users\\Jakub\\IdeaProjects\\Parser\\main\\target\\testJPK2.xml"));
-        marshaller.marshal(invoice, new File("C:\\Users\\Jakub\\IdeaProjects\\Parser\\main\\target\\test.xml"));
-        marshaller.marshal(invoice2, new File("C:\\Users\\Jakub\\IdeaProjects\\Parser\\main\\target\\test2.xml"));
+        Logging logger = new Logging(Main.class.getName());
+        String path = "C:\\Users\\Jakub\\IdeaProjects\\Parser\\main\\src\\main\\resources\\test.csv";
+        String path2 = "C:\\Users\\Jakub\\IdeaProjects\\Parser\\main\\src\\main\\resources\\test.xml";
+        if (args.length == 2) {
+            path = args[0];
+            path2 = args[1];
+        }
+        else {
+            logger.info("Usage: java -jar <jar file> <input file> <output file> \n");
+        }
+        Parser parser;
+
+        if(path.endsWith(".csv")){
+            parser = new Parser(path, '\t', true);
+        }
+        else if (path.endsWith(".xlsx")){
+            parser = new Parser(path, '\t', false);
+        }
+        else {
+            logger.error("Wrong file extension");
+            return;
+        }
+        MarshalXML marshalXML = new MarshalXML(parser.saveToXML(), path2);
+        marshalXML.marshalXML();
     }
 }

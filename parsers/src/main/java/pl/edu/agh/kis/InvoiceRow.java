@@ -60,7 +60,7 @@ public class InvoiceRow {
                 invoiceDescription = value;
                 break;
             case 7:
-                amountOfGoods = convertStringToBigDecimal(value);;
+                amountOfGoods = convertStringToBigDecimal(value);
                 break;
             case 8:
                 pricePerGood = convertStringToBigDecimal(value);
