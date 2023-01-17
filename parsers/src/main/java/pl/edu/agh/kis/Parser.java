@@ -172,7 +172,7 @@ public class Parser {
      * @param invoiceNum - different invoice companies
      * @param invoiceSummary - invoice summary
      * @param invoiceSummary2 - invoice summary
-     * @return - Pair of ArrayList<Company> and ArrayList<InvoiceRow>
+     * @return - Pair of ArrayList of Company and ArrayList of InvoiceRow
      */
     private Pair<ArrayList<Company>, ArrayList<InvoiceRow>> parseCSV(HashSet<String> invoiceNum,
                                                                      InvoiceSummary invoiceSummary,
@@ -209,7 +209,7 @@ public class Parser {
      * @param invoiceNum - different invoice companies
      * @param invoiceSummary - invoice summary
      * @param invoiceSummary2 - invoice summary
-     * @return - Pair of ArrayList<Company> and ArrayList<InvoiceRow>
+     * @return - Pair of ArrayList of Company and ArrayList of InvoiceRow
      */
     private Pair<ArrayList<Company>, ArrayList<InvoiceRow>> parseXLSX(HashSet<String> invoiceNum,
                                                                      InvoiceSummary invoiceSummary,
