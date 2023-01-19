@@ -83,18 +83,18 @@ public class WrapJpk {
     private void initSubject() {
         JPK.Podmiot1 subject = this.jpk.getPodmiot1();
         TIdentyfikatorOsobyNiefizycznej1 id = new TIdentyfikatorOsobyNiefizycznej1();
-        id.setNIP("21374202137");
-        id.setPelnaNazwa("Radio Maryja");
+        id.setNIP("6762484560");
+        id.setPelnaNazwa("\"CORE LOGIC\" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ");
         subject.setIdentyfikatorPodmiotu(id);
         TAdresPolski1 adress = new TAdresPolski1();
         adress.setKodKraju(TKodKraju.fromValue("PL"));
-        adress.setWojewodztwo("Kujawsko-Pomorskie");
+        adress.setWojewodztwo("małopolskie");
         adress.setMiejscowosc("Toruń");
-        adress.setKodPocztowy("87-100");
-        adress.setGmina("Toruń");
-        adress.setPowiat("m. Toruń");
-        adress.setUlica("ul. Żwirki i Wigury 80");
-        adress.setNrDomu("80");
+        adress.setKodPocztowy("30-065");
+        adress.setGmina("Kraków");
+        adress.setPowiat("m. Kraków");
+        adress.setUlica("ul. Feliksa Radwańskiego");
+        adress.setNrDomu("15");
         adress.setNrLokalu("1");
         subject.setAdresPodmiotu(adress);
         this.jpk.setPodmiot1(subject);
@@ -143,7 +143,8 @@ public class WrapJpk {
         for(InvoiceRow row : invoiceRows) {
             JPK.FakturaWiersz fkRow = new JPK.FakturaWiersz();
             fkRow.setP2B(row.getInvoiceNumber());
-            fkRow.setP7(row.getInvoiceDescription());
+            //fkRow.setP7(row.getInvoiceDescription());
+            fkRow.setP7("Sprzedaż usług krajowych");
             fkRow.setP8A("szt");
             fkRow.setP8B(row.getAmountOfGoods());
             fkRow.setP9A(row.getPricePerGood());

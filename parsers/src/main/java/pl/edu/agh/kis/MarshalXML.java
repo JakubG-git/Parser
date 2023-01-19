@@ -7,17 +7,30 @@ import org.apache.commons.math3.util.Pair;
 import pl.edu.agh.kis.generated.JPK;
 
 import java.io.File;
+
+/**
+ * Class responsible for savin xml
+ */
 public class MarshalXML {
     Invoice invoice;
     JPK jpk;
     String path;
 
-
+    /**
+     * Construktor for marshal class
+     * @param pair - pair of Invoice, Jpk
+     * @param path - path to file(to save)
+     */
     public MarshalXML(Pair<Invoice, JPK> pair, String path) {
         this.invoice = pair.getKey();
         this.jpk = pair.getValue();
         this.path = path;
     }
+
+    /**
+     * Marshaller
+     * @throws JAXBException - when contex can't be created
+     */
     public void marshalXML() throws JAXBException {
         JAXBContext jaxbContext1 = JAXBContext.newInstance(JPK.class);
 

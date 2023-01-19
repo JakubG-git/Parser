@@ -4,24 +4,24 @@
         <KodFormularza kodSystemowy="JPK_FA (3)" wersjaSchemy="1-0">JPK_FA</KodFormularza>
         <WariantFormularza>3</WariantFormularza>
         <CelZlozenia>1</CelZlozenia>
-        <DataWytworzeniaJPK>2023-01-17T14:38:00.138+01:00</DataWytworzeniaJPK>
+        <DataWytworzeniaJPK>2023-01-18T09:43:33.239+01:00</DataWytworzeniaJPK>
         <KodUrzedu>2137</KodUrzedu>
     </Naglowek>
     <Podmiot1>
         <IdentyfikatorPodmiotu>
-            <ns2:NIP>21374202137</ns2:NIP>
-            <ns2:PelnaNazwa>Radio Maryja</ns2:PelnaNazwa>
+            <ns2:NIP>6762484560</ns2:NIP>
+            <ns2:PelnaNazwa>"CORE LOGIC" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ</ns2:PelnaNazwa>
         </IdentyfikatorPodmiotu>
         <AdresPodmiotu>
             <ns2:KodKraju>PL</ns2:KodKraju>
-            <ns2:Wojewodztwo>Kujawsko-Pomorskie</ns2:Wojewodztwo>
-            <ns2:Powiat>m. Toruń</ns2:Powiat>
-            <ns2:Gmina>Toruń</ns2:Gmina>
-            <ns2:Ulica>ul. Żwirki i Wigury 80</ns2:Ulica>
-            <ns2:NrDomu>80</ns2:NrDomu>
+            <ns2:Wojewodztwo>małopolskie</ns2:Wojewodztwo>
+            <ns2:Powiat>m. Kraków</ns2:Powiat>
+            <ns2:Gmina>Kraków</ns2:Gmina>
+            <ns2:Ulica>ul. Feliksa Radwańskiego</ns2:Ulica>
+            <ns2:NrDomu>15</ns2:NrDomu>
             <ns2:NrLokalu>1</ns2:NrLokalu>
             <ns2:Miejscowosc>Toruń</ns2:Miejscowosc>
-            <ns2:KodPocztowy>87-100</ns2:KodPocztowy>
+            <ns2:KodPocztowy>30-065</ns2:KodPocztowy>
         </AdresPodmiotu>
     </Podmiot1>
     <Faktura>
@@ -30,10 +30,10 @@
         <P_2A>3-09/10/2020</P_2A>
         <P_3A>Firma5 SP. Z O.O.</P_3A>
         <P_3B>Firma5 SP. Z O.O.-ADDRESS</P_3B>
-        <P_3C>Radio Maryja</P_3C>
+        <P_3C>"CORE LOGIC" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ</P_3C>
         <P_3D>UL. FELIKSA RADWAŃSKIEGO 15/1, 30-065 KRAKÓW</P_3D>
         <P_4A>PL</P_4A>
-        <P_4B>21374202137</P_4B>
+        <P_4B>6762484560</P_4B>
         <P_5B>634-27-26-447</P_5B>
         <P_6>2020-10-09</P_6>
         <P_13_1>3000.00</P_13_1>
@@ -57,10 +57,10 @@
         <P_2A>4-09/10/2020</P_2A>
         <P_3A>Firma6 SP. Z O.O.</P_3A>
         <P_3B>Firma6 SP. Z O.O.-ADDRESS</P_3B>
-        <P_3C>Radio Maryja</P_3C>
+        <P_3C>"CORE LOGIC" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ</P_3C>
         <P_3D>UL. FELIKSA RADWAŃSKIEGO 15/1, 30-065 KRAKÓW</P_3D>
         <P_4A>PL</P_4A>
-        <P_4B>21374202137</P_4B>
+        <P_4B>6762484560</P_4B>
         <P_5B>676-247-94-12</P_5B>
         <P_6>2020-10-09</P_6>
         <P_13_1>7000.00</P_13_1>
@@ -84,10 +84,10 @@
         <P_2A>1-13/10/2020</P_2A>
         <P_3A>Firma10 Sp. z o.o.</P_3A>
         <P_3B>Firma10 Sp. z o.o.-ADDRESS</P_3B>
-        <P_3C>Radio Maryja</P_3C>
+        <P_3C>"CORE LOGIC" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ</P_3C>
         <P_3D>UL. PODGÓRKI TYNIECKIE 91, 30-398 KRAKÓW</P_3D>
         <P_4A>PL</P_4A>
-        <P_4B>21374202137</P_4B>
+        <P_4B>6762484560</P_4B>
         <P_5B>676-256-68-84</P_5B>
         <P_6>2020-10-13</P_6>
         <P_13_1>3774.00</P_13_1>
@@ -111,10 +111,10 @@
         <P_2A>3-14/10/2020</P_2A>
         <P_3A>Firma1 Sp. z o.o</P_3A>
         <P_3B>Firma1 Sp. z o.o-ADDRESS</P_3B>
-        <P_3C>Radio Maryja</P_3C>
+        <P_3C>"CORE LOGIC" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ</P_3C>
         <P_3D>AL. A. Mickiewicza 141, 31-127 Kraków</P_3D>
         <P_4A>PL</P_4A>
-        <P_4B>21374202137</P_4B>
+        <P_4B>6762484560</P_4B>
         <P_5B>113-29-95-753 </P_5B>
         <P_6>2020-10-14</P_6>
         <P_13_1>1000.00</P_13_1>
@@ -138,10 +138,10 @@
         <P_2A>3-14/10/2020</P_2A>
         <P_3A>Firma1 Sp. z o.o</P_3A>
         <P_3B>Firma1 Sp. z o.o-ADDRESS</P_3B>
-        <P_3C>Radio Maryja</P_3C>
+        <P_3C>"CORE LOGIC" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ</P_3C>
         <P_3D>AL. A. Mickiewicza 141, 31-127 Kraków</P_3D>
         <P_4A>PL</P_4A>
-        <P_4B>21374202137</P_4B>
+        <P_4B>6762484560</P_4B>
         <P_5B>113-29-95-753 </P_5B>
         <P_6>2020-10-14</P_6>
         <P_13_1>1000.00</P_13_1>
@@ -165,10 +165,10 @@
         <P_2A>3-14/10/2020</P_2A>
         <P_3A>Firma1 Sp. z o.o</P_3A>
         <P_3B>Firma1 Sp. z o.o-ADDRESS</P_3B>
-        <P_3C>Radio Maryja</P_3C>
+        <P_3C>"CORE LOGIC" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ</P_3C>
         <P_3D>AL. A. Mickiewicza 141, 31-127 Kraków</P_3D>
         <P_4A>PL</P_4A>
-        <P_4B>21374202137</P_4B>
+        <P_4B>6762484560</P_4B>
         <P_5B>113-29-95-753 </P_5B>
         <P_6>2020-10-14</P_6>
         <P_13_1>1000.00</P_13_1>
@@ -192,10 +192,10 @@
         <P_2A>3-14/10/2020</P_2A>
         <P_3A>Firma1 Sp. z o.o</P_3A>
         <P_3B>Firma1 Sp. z o.o-ADDRESS</P_3B>
-        <P_3C>Radio Maryja</P_3C>
+        <P_3C>"CORE LOGIC" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ</P_3C>
         <P_3D>AL. A. Mickiewicza 141, 31-127 Kraków</P_3D>
         <P_4A>PL</P_4A>
-        <P_4B>21374202137</P_4B>
+        <P_4B>6762484560</P_4B>
         <P_5B>113-29-95-753 </P_5B>
         <P_6>2020-10-14</P_6>
         <P_13_1>1000.00</P_13_1>
@@ -219,10 +219,10 @@
         <P_2A>3-14/10/2020</P_2A>
         <P_3A>Firma1 Sp. z o.o</P_3A>
         <P_3B>Firma1 Sp. z o.o-ADDRESS</P_3B>
-        <P_3C>Radio Maryja</P_3C>
+        <P_3C>"CORE LOGIC" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ</P_3C>
         <P_3D>AL. A. Mickiewicza 141, 31-127 Kraków</P_3D>
         <P_4A>PL</P_4A>
-        <P_4B>21374202137</P_4B>
+        <P_4B>6762484560</P_4B>
         <P_5B>113-29-95-753 </P_5B>
         <P_6>2020-10-14</P_6>
         <P_13_1>1000.00</P_13_1>
@@ -246,10 +246,10 @@
         <P_2A>3-14/10/2020</P_2A>
         <P_3A>Firma1 Sp. z o.o</P_3A>
         <P_3B>Firma1 Sp. z o.o-ADDRESS</P_3B>
-        <P_3C>Radio Maryja</P_3C>
+        <P_3C>"CORE LOGIC" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ</P_3C>
         <P_3D>AL. A. Mickiewicza 141, 31-127 Kraków</P_3D>
         <P_4A>PL</P_4A>
-        <P_4B>21374202137</P_4B>
+        <P_4B>6762484560</P_4B>
         <P_5B>113-29-95-753 </P_5B>
         <P_6>2020-10-14</P_6>
         <P_13_1>1000.00</P_13_1>
@@ -273,10 +273,10 @@
         <P_2A>3-14/10/2020</P_2A>
         <P_3A>Firma1 Sp. z o.o</P_3A>
         <P_3B>Firma1 Sp. z o.o-ADDRESS</P_3B>
-        <P_3C>Radio Maryja</P_3C>
+        <P_3C>"CORE LOGIC" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ</P_3C>
         <P_3D>AL. A. Mickiewicza 141, 31-127 Kraków</P_3D>
         <P_4A>PL</P_4A>
-        <P_4B>21374202137</P_4B>
+        <P_4B>6762484560</P_4B>
         <P_5B>113-29-95-753 </P_5B>
         <P_6>2020-10-14</P_6>
         <P_13_1>1000.00</P_13_1>
@@ -300,10 +300,10 @@
         <P_2A>1-15/10/2020</P_2A>
         <P_3A>Firma2</P_3A>
         <P_3B>Firma2-ADDRESS</P_3B>
-        <P_3C>Radio Maryja</P_3C>
+        <P_3C>"CORE LOGIC" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ</P_3C>
         <P_3D>Ul. Zamkowa 1, 31 – 200 Kraków </P_3D>
         <P_4A>PL</P_4A>
-        <P_4B>21374202137</P_4B>
+        <P_4B>6762484560</P_4B>
         <P_5B>552-151-68-49</P_5B>
         <P_6>2020-10-15</P_6>
         <P_13_1>33739.84</P_13_1>
@@ -327,10 +327,10 @@
         <P_2A>1-15/10/2020</P_2A>
         <P_3A>Firma2</P_3A>
         <P_3B>Firma2-ADDRESS</P_3B>
-        <P_3C>Radio Maryja</P_3C>
+        <P_3C>"CORE LOGIC" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ</P_3C>
         <P_3D>Ul. Zamkowa 1, 31 – 200 Kraków </P_3D>
         <P_4A>PL</P_4A>
-        <P_4B>21374202137</P_4B>
+        <P_4B>6762484560</P_4B>
         <P_5B>552-151-68-49</P_5B>
         <P_6>2020-10-15</P_6>
         <P_13_1>21951.22</P_13_1>
@@ -354,10 +354,10 @@
         <P_2A>1-15/10/2020</P_2A>
         <P_3A>Firma2</P_3A>
         <P_3B>Firma2-ADDRESS</P_3B>
-        <P_3C>Radio Maryja</P_3C>
+        <P_3C>"CORE LOGIC" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ</P_3C>
         <P_3D>Ul. Zamkowa 1, 31 – 200 Kraków </P_3D>
         <P_4A>PL</P_4A>
-        <P_4B>21374202137</P_4B>
+        <P_4B>6762484560</P_4B>
         <P_5B>552-151-68-49</P_5B>
         <P_6>2020-10-15</P_6>
         <P_13_1>22764.23</P_13_1>
@@ -381,10 +381,10 @@
         <P_2A>1-15/10/2020</P_2A>
         <P_3A>Firma2</P_3A>
         <P_3B>Firma2-ADDRESS</P_3B>
-        <P_3C>Radio Maryja</P_3C>
+        <P_3C>"CORE LOGIC" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ</P_3C>
         <P_3D>Ul. Zamkowa 1, 31 – 200 Kraków </P_3D>
         <P_4A>PL</P_4A>
-        <P_4B>21374202137</P_4B>
+        <P_4B>6762484560</P_4B>
         <P_5B>552-151-68-49</P_5B>
         <P_6>2020-10-15</P_6>
         <P_13_1>26829.27</P_13_1>
@@ -408,10 +408,10 @@
         <P_2A>1-15/10/2020</P_2A>
         <P_3A>Firma2</P_3A>
         <P_3B>Firma2-ADDRESS</P_3B>
-        <P_3C>Radio Maryja</P_3C>
+        <P_3C>"CORE LOGIC" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ</P_3C>
         <P_3D>Ul. Zamkowa 1, 31 – 200 Kraków </P_3D>
         <P_4A>PL</P_4A>
-        <P_4B>21374202137</P_4B>
+        <P_4B>6762484560</P_4B>
         <P_5B>552-151-68-49</P_5B>
         <P_6>2020-10-15</P_6>
         <P_13_1>17886.18</P_13_1>
@@ -435,10 +435,10 @@
         <P_2A>1-15/10/2020</P_2A>
         <P_3A>Firma2</P_3A>
         <P_3B>Firma2-ADDRESS</P_3B>
-        <P_3C>Radio Maryja</P_3C>
+        <P_3C>"CORE LOGIC" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ</P_3C>
         <P_3D>Ul. Zamkowa 1, 31 – 200 Kraków </P_3D>
         <P_4A>PL</P_4A>
-        <P_4B>21374202137</P_4B>
+        <P_4B>6762484560</P_4B>
         <P_5B>552-151-68-49</P_5B>
         <P_6>2020-10-15</P_6>
         <P_13_1>23577.24</P_13_1>
@@ -462,10 +462,10 @@
         <P_2A>1-15/10/2020</P_2A>
         <P_3A>Firma2</P_3A>
         <P_3B>Firma2-ADDRESS</P_3B>
-        <P_3C>Radio Maryja</P_3C>
+        <P_3C>"CORE LOGIC" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ</P_3C>
         <P_3D>Ul. Zamkowa 1, 31 – 200 Kraków </P_3D>
         <P_4A>PL</P_4A>
-        <P_4B>21374202137</P_4B>
+        <P_4B>6762484560</P_4B>
         <P_5B>552-151-68-49</P_5B>
         <P_6>2020-10-15</P_6>
         <P_13_1>14634.15</P_13_1>
@@ -489,10 +489,10 @@
         <P_2A>2-15/10/2020</P_2A>
         <P_3A>Firma2</P_3A>
         <P_3B>Firma2-ADDRESS</P_3B>
-        <P_3C>Radio Maryja</P_3C>
+        <P_3C>"CORE LOGIC" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ</P_3C>
         <P_3D>Ul. Zamkowa 1, 31 – 200 Kraków </P_3D>
         <P_4A>PL</P_4A>
-        <P_4B>21374202137</P_4B>
+        <P_4B>6762484560</P_4B>
         <P_5B>552-151-68-49</P_5B>
         <P_6>2020-10-15</P_6>
         <P_13_1>31707.32</P_13_1>
@@ -516,10 +516,10 @@
         <P_2A>2-15/10/2020</P_2A>
         <P_3A>Firma2</P_3A>
         <P_3B>Firma2-ADDRESS</P_3B>
-        <P_3C>Radio Maryja</P_3C>
+        <P_3C>"CORE LOGIC" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ</P_3C>
         <P_3D>Ul. Zamkowa 1, 31 – 200 Kraków </P_3D>
         <P_4A>PL</P_4A>
-        <P_4B>21374202137</P_4B>
+        <P_4B>6762484560</P_4B>
         <P_5B>552-151-68-49</P_5B>
         <P_6>2020-10-15</P_6>
         <P_13_1>10000.00</P_13_1>
@@ -543,10 +543,10 @@
         <P_2A>2-15/10/2020</P_2A>
         <P_3A>Firma2</P_3A>
         <P_3B>Firma2-ADDRESS</P_3B>
-        <P_3C>Radio Maryja</P_3C>
+        <P_3C>"CORE LOGIC" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ</P_3C>
         <P_3D>Ul. Zamkowa 1, 31 – 200 Kraków </P_3D>
         <P_4A>PL</P_4A>
-        <P_4B>21374202137</P_4B>
+        <P_4B>6762484560</P_4B>
         <P_5B>552-151-68-49</P_5B>
         <P_6>2020-10-15</P_6>
         <P_13_1>2032.52</P_13_1>
@@ -570,10 +570,10 @@
         <P_2A>2-15/10/2020</P_2A>
         <P_3A>Firma2</P_3A>
         <P_3B>Firma2-ADDRESS</P_3B>
-        <P_3C>Radio Maryja</P_3C>
+        <P_3C>"CORE LOGIC" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ</P_3C>
         <P_3D>Ul. Zamkowa 1, 31 – 200 Kraków </P_3D>
         <P_4A>PL</P_4A>
-        <P_4B>21374202137</P_4B>
+        <P_4B>6762484560</P_4B>
         <P_5B>552-151-68-49</P_5B>
         <P_6>2020-10-15</P_6>
         <P_13_1>5000.00</P_13_1>
@@ -597,10 +597,10 @@
         <P_2A>3-15/10/2020</P_2A>
         <P_3A>Firma2</P_3A>
         <P_3B>Firma2-ADDRESS</P_3B>
-        <P_3C>Radio Maryja</P_3C>
+        <P_3C>"CORE LOGIC" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ</P_3C>
         <P_3D>Ul. Zamkowa 1, 31 – 200 Kraków </P_3D>
         <P_4A>PL</P_4A>
-        <P_4B>21374202137</P_4B>
+        <P_4B>6762484560</P_4B>
         <P_5B>552-151-68-49</P_5B>
         <P_6>2020-10-15</P_6>
         <P_13_1>6351.63</P_13_1>
@@ -624,10 +624,10 @@
         <P_2A>3-15/10/2020</P_2A>
         <P_3A>Firma2</P_3A>
         <P_3B>Firma2-ADDRESS</P_3B>
-        <P_3C>Radio Maryja</P_3C>
+        <P_3C>"CORE LOGIC" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ</P_3C>
         <P_3D>Ul. Zamkowa 1, 31 – 200 Kraków </P_3D>
         <P_4A>PL</P_4A>
-        <P_4B>21374202137</P_4B>
+        <P_4B>6762484560</P_4B>
         <P_5B>552-151-68-49</P_5B>
         <P_6>2020-10-15</P_6>
         <P_13_1>406.50</P_13_1>
@@ -651,10 +651,10 @@
         <P_2A>3-15/10/2020</P_2A>
         <P_3A>Firma2</P_3A>
         <P_3B>Firma2-ADDRESS</P_3B>
-        <P_3C>Radio Maryja</P_3C>
+        <P_3C>"CORE LOGIC" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ</P_3C>
         <P_3D>Ul. Zamkowa 1, 31 – 200 Kraków </P_3D>
         <P_4A>PL</P_4A>
-        <P_4B>21374202137</P_4B>
+        <P_4B>6762484560</P_4B>
         <P_5B>552-151-68-49</P_5B>
         <P_6>2020-10-15</P_6>
         <P_13_1>406.50</P_13_1>
@@ -678,10 +678,10 @@
         <P_2A>3-15/10/2020</P_2A>
         <P_3A>Firma2</P_3A>
         <P_3B>Firma2-ADDRESS</P_3B>
-        <P_3C>Radio Maryja</P_3C>
+        <P_3C>"CORE LOGIC" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ</P_3C>
         <P_3D>Ul. Zamkowa 1, 31 – 200 Kraków </P_3D>
         <P_4A>PL</P_4A>
-        <P_4B>21374202137</P_4B>
+        <P_4B>6762484560</P_4B>
         <P_5B>552-151-68-49</P_5B>
         <P_6>2020-10-15</P_6>
         <P_13_1>406.51</P_13_1>
@@ -705,10 +705,10 @@
         <P_2A>3-15/10/2020</P_2A>
         <P_3A>Firma2</P_3A>
         <P_3B>Firma2-ADDRESS</P_3B>
-        <P_3C>Radio Maryja</P_3C>
+        <P_3C>"CORE LOGIC" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ</P_3C>
         <P_3D>Ul. Zamkowa 1, 31 – 200 Kraków </P_3D>
         <P_4A>PL</P_4A>
-        <P_4B>21374202137</P_4B>
+        <P_4B>6762484560</P_4B>
         <P_5B>552-151-68-49</P_5B>
         <P_6>2020-10-15</P_6>
         <P_13_1>528.46</P_13_1>
@@ -732,10 +732,10 @@
         <P_2A>3-15/10/2020</P_2A>
         <P_3A>Firma2</P_3A>
         <P_3B>Firma2-ADDRESS</P_3B>
-        <P_3C>Radio Maryja</P_3C>
+        <P_3C>"CORE LOGIC" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ</P_3C>
         <P_3D>Ul. Zamkowa 1, 31 – 200 Kraków </P_3D>
         <P_4A>PL</P_4A>
-        <P_4B>21374202137</P_4B>
+        <P_4B>6762484560</P_4B>
         <P_5B>552-151-68-49</P_5B>
         <P_6>2020-10-15</P_6>
         <P_13_1>2.90</P_13_1>
@@ -759,10 +759,10 @@
         <P_2A>3-15/10/2020</P_2A>
         <P_3A>Firma2</P_3A>
         <P_3B>Firma2-ADDRESS</P_3B>
-        <P_3C>Radio Maryja</P_3C>
+        <P_3C>"CORE LOGIC" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ</P_3C>
         <P_3D>Ul. Zamkowa 1, 31 – 200 Kraków </P_3D>
         <P_4A>PL</P_4A>
-        <P_4B>21374202137</P_4B>
+        <P_4B>6762484560</P_4B>
         <P_5B>552-151-68-49</P_5B>
         <P_6>2020-10-15</P_6>
         <P_13_1>3.39</P_13_1>
@@ -786,10 +786,10 @@
         <P_2A>1-16/10/2020</P_2A>
         <P_3A>Firma2</P_3A>
         <P_3B>Firma2-ADDRESS</P_3B>
-        <P_3C>Radio Maryja</P_3C>
+        <P_3C>"CORE LOGIC" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ</P_3C>
         <P_3D>Ul. Zamkowa 1, 31 – 200 Kraków </P_3D>
         <P_4A>PL</P_4A>
-        <P_4B>21374202137</P_4B>
+        <P_4B>6762484560</P_4B>
         <P_5B>552-151-68-49</P_5B>
         <P_6>2020-10-16</P_6>
         <P_13_1>1268.29</P_13_1>
@@ -813,10 +813,10 @@
         <P_2A>1-05/11/2020</P_2A>
         <P_3A>Firma9 SP. Z O.O.</P_3A>
         <P_3B>Firma9 SP. Z O.O.-ADDRESS</P_3B>
-        <P_3C>Radio Maryja</P_3C>
+        <P_3C>"CORE LOGIC" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ</P_3C>
         <P_3D>ul. Dobra 28, 00-344 Warszawa</P_3D>
         <P_4A>PL</P_4A>
-        <P_4B>21374202137</P_4B>
+        <P_4B>6762484560</P_4B>
         <P_5B>118-16-48-603</P_5B>
         <P_6>2020-10-30</P_6>
         <P_13_1>13000.00</P_13_1>
@@ -840,10 +840,10 @@
         <P_2A>2-05/11/2020</P_2A>
         <P_3A>Firma3 sp. z o.o.</P_3A>
         <P_3B>Firma3 sp. z o.o.-ADDRESS</P_3B>
-        <P_3C>Radio Maryja</P_3C>
+        <P_3C>"CORE LOGIC" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ</P_3C>
         <P_3D>ul. Krkusowa 12, 30-123 Kraków</P_3D>
         <P_4A>PL</P_4A>
-        <P_4B>21374202137</P_4B>
+        <P_4B>6762484560</P_4B>
         <P_5B>675-152-93-71</P_5B>
         <P_6>2020-10-30</P_6>
         <P_13_1>3909.38</P_13_1>
@@ -867,10 +867,10 @@
         <P_2A>3-05/11/2020</P_2A>
         <P_3A>Firma4</P_3A>
         <P_3B>Firma4-ADDRESS</P_3B>
-        <P_3C>Radio Maryja</P_3C>
+        <P_3C>"CORE LOGIC" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ</P_3C>
         <P_3D>ul. MICKIEWICZA 1/5, 33-100 TARNÓW</P_3D>
         <P_4A>PL</P_4A>
-        <P_4B>21374202137</P_4B>
+        <P_4B>6762484560</P_4B>
         <P_5B>873-171-75-73</P_5B>
         <P_6>2020-10-30</P_6>
         <P_13_1>280.00</P_13_1>
@@ -894,10 +894,10 @@
         <P_2A>1-09/11/2020</P_2A>
         <P_3A>Firma3 sp. z o.o.</P_3A>
         <P_3B>Firma3 sp. z o.o.-ADDRESS</P_3B>
-        <P_3C>Radio Maryja</P_3C>
+        <P_3C>"CORE LOGIC" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ</P_3C>
         <P_3D>ul. Krkusowa 12, 30-123 Kraków</P_3D>
         <P_4A>PL</P_4A>
-        <P_4B>21374202137</P_4B>
+        <P_4B>6762484560</P_4B>
         <P_5B>675-152-93-71</P_5B>
         <P_6>2020-10-30</P_6>
         <P_13_1>1250.00</P_13_1>
@@ -921,10 +921,10 @@
         <P_2A>1-09/11/2020</P_2A>
         <P_3A>Firma3 sp. z o.o.</P_3A>
         <P_3B>Firma3 sp. z o.o.-ADDRESS</P_3B>
-        <P_3C>Radio Maryja</P_3C>
+        <P_3C>"CORE LOGIC" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ</P_3C>
         <P_3D>ul. Krkusowa 12, 30-123 Kraków</P_3D>
         <P_4A>PL</P_4A>
-        <P_4B>21374202137</P_4B>
+        <P_4B>6762484560</P_4B>
         <P_5B>675-152-93-71</P_5B>
         <P_6>2020-10-30</P_6>
         <P_13_1>7840.00</P_13_1>
@@ -948,10 +948,10 @@
         <P_2A>1-09/11/2020</P_2A>
         <P_3A>Firma3 sp. z o.o.</P_3A>
         <P_3B>Firma3 sp. z o.o.-ADDRESS</P_3B>
-        <P_3C>Radio Maryja</P_3C>
+        <P_3C>"CORE LOGIC" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ</P_3C>
         <P_3D>ul. Krkusowa 12, 30-123 Kraków</P_3D>
         <P_4A>PL</P_4A>
-        <P_4B>21374202137</P_4B>
+        <P_4B>6762484560</P_4B>
         <P_5B>675-152-93-71</P_5B>
         <P_6>2020-10-30</P_6>
         <P_13_1>1250.00</P_13_1>
@@ -975,10 +975,10 @@
         <P_2A>2-09/11/2020</P_2A>
         <P_3A>Firma3 sp. z o.o.</P_3A>
         <P_3B>Firma3 sp. z o.o.-ADDRESS</P_3B>
-        <P_3C>Radio Maryja</P_3C>
+        <P_3C>"CORE LOGIC" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ</P_3C>
         <P_3D>ul. Krkusowa 12, 30-123 Kraków</P_3D>
         <P_4A>PL</P_4A>
-        <P_4B>21374202137</P_4B>
+        <P_4B>6762484560</P_4B>
         <P_5B>675-152-93-71</P_5B>
         <P_6>2020-10-30</P_6>
         <P_13_1>1250.00</P_13_1>
@@ -1002,10 +1002,10 @@
         <P_2A>2-09/11/2020</P_2A>
         <P_3A>Firma3 sp. z o.o.</P_3A>
         <P_3B>Firma3 sp. z o.o.-ADDRESS</P_3B>
-        <P_3C>Radio Maryja</P_3C>
+        <P_3C>"CORE LOGIC" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ</P_3C>
         <P_3D>ul. Krkusowa 12, 30-123 Kraków</P_3D>
         <P_4A>PL</P_4A>
-        <P_4B>21374202137</P_4B>
+        <P_4B>6762484560</P_4B>
         <P_5B>675-152-93-71</P_5B>
         <P_6>2020-10-30</P_6>
         <P_13_1>1250.00</P_13_1>
@@ -1025,41 +1025,14 @@
     </Faktura>
     <Faktura>
         <KodWaluty>PLN</KodWaluty>
-        <P_1>2020-11-12</P_1>
-        <P_2A>1-12/11/2020</P_2A>
-        <P_3A>Firma3 sp. z o.o.</P_3A>
-        <P_3B>Firma3 sp. z o.o.-ADDRESS</P_3B>
-        <P_3C>Radio Maryja</P_3C>
-        <P_3D>ul. Krkusowa 12, 30-123 Kraków</P_3D>
-        <P_4A>PL</P_4A>
-        <P_4B>21374202137</P_4B>
-        <P_5B>675-152-93-71</P_5B>
-        <P_6>2020-11-12</P_6>
-        <P_13_1>1250.00</P_13_1>
-        <P_14_1>233.59</P_14_1>
-        <P_15>1249.21</P_15>
-        <P_16>false</P_16>
-        <P_17>false</P_17>
-        <P_18>false</P_18>
-        <P_18A>false</P_18A>
-        <P_19>false</P_19>
-        <P_20>false</P_20>
-        <P_21>false</P_21>
-        <P_22>false</P_22>
-        <P_23>false</P_23>
-        <P_106E_2>false</P_106E_2>
-        <P_106E_3>false</P_106E_3>
-    </Faktura>
-    <Faktura>
-        <KodWaluty>PLN</KodWaluty>
         <P_1>2020-11-10</P_1>
         <P_2A>1-10/11/2020</P_2A>
         <P_3A>Firma8 Sp. z o.o. sp.k.</P_3A>
         <P_3B>Firma8 Sp. z o.o. sp.k.-ADDRESS</P_3B>
-        <P_3C>Radio Maryja</P_3C>
+        <P_3C>"CORE LOGIC" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ</P_3C>
         <P_3D>ul. Krkusowa 12, 30-123 Kraków</P_3D>
         <P_4A>PL</P_4A>
-        <P_4B>21374202137</P_4B>
+        <P_4B>6762484560</P_4B>
         <P_5B>677-00-46-633</P_5B>
         <P_6>2020-10-30</P_6>
         <P_13_1>1250.00</P_13_1>
@@ -1083,10 +1056,10 @@
         <P_2A>2-10/11/2020</P_2A>
         <P_3A>Firma5 SP. Z O.O.</P_3A>
         <P_3B>Firma5 SP. Z O.O.-ADDRESS</P_3B>
-        <P_3C>Radio Maryja</P_3C>
+        <P_3C>"CORE LOGIC" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ</P_3C>
         <P_3D>UL. FELIKSA RADWAŃSKIEGO 15/1, 30-065 KRAKÓW</P_3D>
         <P_4A>PL</P_4A>
-        <P_4B>21374202137</P_4B>
+        <P_4B>6762484560</P_4B>
         <P_5B>634-27-26-447</P_5B>
         <P_6>2020-11-10</P_6>
         <P_13_1>3000.00</P_13_1>
@@ -1110,10 +1083,10 @@
         <P_2A>3-10/11/2020</P_2A>
         <P_3A>Firma6 SP. Z O.O.</P_3A>
         <P_3B>Firma6 SP. Z O.O.-ADDRESS</P_3B>
-        <P_3C>Radio Maryja</P_3C>
+        <P_3C>"CORE LOGIC" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ</P_3C>
         <P_3D>UL. FELIKSA RADWAŃSKIEGO 15/1, 30-065 KRAKÓW</P_3D>
         <P_4A>PL</P_4A>
-        <P_4B>21374202137</P_4B>
+        <P_4B>6762484560</P_4B>
         <P_5B>676-247-94-12</P_5B>
         <P_6>2020-11-10</P_6>
         <P_13_1>7000.00</P_13_1>
@@ -1137,10 +1110,10 @@
         <P_2A>1-13/11/2020</P_2A>
         <P_3A>Firma4</P_3A>
         <P_3B>Firma4-ADDRESS</P_3B>
-        <P_3C>Radio Maryja</P_3C>
+        <P_3C>"CORE LOGIC" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ</P_3C>
         <P_3D>ul. MICKIEWICZA 1/5, 33-100 TARNÓW</P_3D>
         <P_4A>PL</P_4A>
-        <P_4B>21374202137</P_4B>
+        <P_4B>6762484560</P_4B>
         <P_5B>873-171-75-73</P_5B>
         <P_6>2020-10-30</P_6>
         <P_13_1>7.50</P_13_1>
@@ -1164,10 +1137,10 @@
         <P_2A>1-17/11/2020</P_2A>
         <P_3A>Firma2</P_3A>
         <P_3B>Firma2-ADDRESS</P_3B>
-        <P_3C>Radio Maryja</P_3C>
+        <P_3C>"CORE LOGIC" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ</P_3C>
         <P_3D>Ul. Zamkowa 1, 31 – 200 Kraków </P_3D>
         <P_4A>PL</P_4A>
-        <P_4B>21374202137</P_4B>
+        <P_4B>6762484560</P_4B>
         <P_5B>552-151-68-49</P_5B>
         <P_6>2020-11-17</P_6>
         <P_13_1>1593.50</P_13_1>
@@ -1191,10 +1164,10 @@
         <P_2A>1-25/11/2020</P_2A>
         <P_3A>Firma1 Sp. z o.o</P_3A>
         <P_3B>Firma1 Sp. z o.o-ADDRESS</P_3B>
-        <P_3C>Radio Maryja</P_3C>
+        <P_3C>"CORE LOGIC" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ</P_3C>
         <P_3D>AL. A. Mickiewicza 141, 31-127 Kraków</P_3D>
         <P_4A>PL</P_4A>
-        <P_4B>21374202137</P_4B>
+        <P_4B>6762484560</P_4B>
         <P_5B>113-29-95-753 </P_5B>
         <P_6>2020-10-30</P_6>
         <P_13_1>1000.00</P_13_1>
@@ -1218,10 +1191,10 @@
         <P_2A>1-25/11/2020</P_2A>
         <P_3A>Firma1 Sp. z o.o</P_3A>
         <P_3B>Firma1 Sp. z o.o-ADDRESS</P_3B>
-        <P_3C>Radio Maryja</P_3C>
+        <P_3C>"CORE LOGIC" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ</P_3C>
         <P_3D>AL. A. Mickiewicza 141, 31-127 Kraków</P_3D>
         <P_4A>PL</P_4A>
-        <P_4B>21374202137</P_4B>
+        <P_4B>6762484560</P_4B>
         <P_5B>113-29-95-753 </P_5B>
         <P_6>2020-10-30</P_6>
         <P_13_1>1000.00</P_13_1>
@@ -1245,10 +1218,10 @@
         <P_2A>1-25/11/2020</P_2A>
         <P_3A>Firma1 Sp. z o.o</P_3A>
         <P_3B>Firma1 Sp. z o.o-ADDRESS</P_3B>
-        <P_3C>Radio Maryja</P_3C>
+        <P_3C>"CORE LOGIC" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ</P_3C>
         <P_3D>AL. A. Mickiewicza 141, 31-127 Kraków</P_3D>
         <P_4A>PL</P_4A>
-        <P_4B>21374202137</P_4B>
+        <P_4B>6762484560</P_4B>
         <P_5B>113-29-95-753 </P_5B>
         <P_6>2020-10-30</P_6>
         <P_13_1>1000.00</P_13_1>
@@ -1272,10 +1245,10 @@
         <P_2A>1-25/11/2020</P_2A>
         <P_3A>Firma1 Sp. z o.o</P_3A>
         <P_3B>Firma1 Sp. z o.o-ADDRESS</P_3B>
-        <P_3C>Radio Maryja</P_3C>
+        <P_3C>"CORE LOGIC" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ</P_3C>
         <P_3D>AL. A. Mickiewicza 141, 31-127 Kraków</P_3D>
         <P_4A>PL</P_4A>
-        <P_4B>21374202137</P_4B>
+        <P_4B>6762484560</P_4B>
         <P_5B>113-29-95-753 </P_5B>
         <P_6>2020-10-30</P_6>
         <P_13_1>1000.00</P_13_1>
@@ -1299,10 +1272,10 @@
         <P_2A>1-25/11/2020</P_2A>
         <P_3A>Firma1 Sp. z o.o</P_3A>
         <P_3B>Firma1 Sp. z o.o-ADDRESS</P_3B>
-        <P_3C>Radio Maryja</P_3C>
+        <P_3C>"CORE LOGIC" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ</P_3C>
         <P_3D>AL. A. Mickiewicza 141, 31-127 Kraków</P_3D>
         <P_4A>PL</P_4A>
-        <P_4B>21374202137</P_4B>
+        <P_4B>6762484560</P_4B>
         <P_5B>113-29-95-753 </P_5B>
         <P_6>2020-10-30</P_6>
         <P_13_1>1000.00</P_13_1>
@@ -1326,10 +1299,10 @@
         <P_2A>1-25/11/2020</P_2A>
         <P_3A>Firma1 Sp. z o.o</P_3A>
         <P_3B>Firma1 Sp. z o.o-ADDRESS</P_3B>
-        <P_3C>Radio Maryja</P_3C>
+        <P_3C>"CORE LOGIC" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ</P_3C>
         <P_3D>AL. A. Mickiewicza 141, 31-127 Kraków</P_3D>
         <P_4A>PL</P_4A>
-        <P_4B>21374202137</P_4B>
+        <P_4B>6762484560</P_4B>
         <P_5B>113-29-95-753 </P_5B>
         <P_6>2020-10-30</P_6>
         <P_13_1>1000.00</P_13_1>
@@ -1353,10 +1326,10 @@
         <P_2A>1-25/11/2020</P_2A>
         <P_3A>Firma1 Sp. z o.o</P_3A>
         <P_3B>Firma1 Sp. z o.o-ADDRESS</P_3B>
-        <P_3C>Radio Maryja</P_3C>
+        <P_3C>"CORE LOGIC" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ</P_3C>
         <P_3D>AL. A. Mickiewicza 141, 31-127 Kraków</P_3D>
         <P_4A>PL</P_4A>
-        <P_4B>21374202137</P_4B>
+        <P_4B>6762484560</P_4B>
         <P_5B>113-29-95-753 </P_5B>
         <P_6>2020-10-30</P_6>
         <P_13_1>1000.00</P_13_1>
@@ -1380,10 +1353,10 @@
         <P_2A>1-25/11/2020</P_2A>
         <P_3A>Firma1 Sp. z o.o</P_3A>
         <P_3B>Firma1 Sp. z o.o-ADDRESS</P_3B>
-        <P_3C>Radio Maryja</P_3C>
+        <P_3C>"CORE LOGIC" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ</P_3C>
         <P_3D>AL. A. Mickiewicza 141, 31-127 Kraków</P_3D>
         <P_4A>PL</P_4A>
-        <P_4B>21374202137</P_4B>
+        <P_4B>6762484560</P_4B>
         <P_5B>113-29-95-753 </P_5B>
         <P_6>2020-10-30</P_6>
         <P_13_1>1000.00</P_13_1>
@@ -1407,10 +1380,10 @@
         <P_2A>2-25/11/2020</P_2A>
         <P_3A>Firma1 Sp. z o.o</P_3A>
         <P_3B>Firma1 Sp. z o.o-ADDRESS</P_3B>
-        <P_3C>Radio Maryja</P_3C>
+        <P_3C>"CORE LOGIC" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ</P_3C>
         <P_3D>AL. A. Mickiewicza 141, 31-127 Kraków</P_3D>
         <P_4A>PL</P_4A>
-        <P_4B>21374202137</P_4B>
+        <P_4B>6762484560</P_4B>
         <P_5B>113-29-95-753 </P_5B>
         <P_6>2020-10-30</P_6>
         <P_13_1>1000.00</P_13_1>
@@ -1434,10 +1407,10 @@
         <P_2A>3-25/11/2020</P_2A>
         <P_3A>Firma1 Sp. z o.o</P_3A>
         <P_3B>Firma1 Sp. z o.o-ADDRESS</P_3B>
-        <P_3C>Radio Maryja</P_3C>
+        <P_3C>"CORE LOGIC" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ</P_3C>
         <P_3D>AL. A. Mickiewicza 141, 31-127 Kraków</P_3D>
         <P_4A>PL</P_4A>
-        <P_4B>21374202137</P_4B>
+        <P_4B>6762484560</P_4B>
         <P_5B>113-29-95-753 </P_5B>
         <P_6>2020-11-25</P_6>
         <P_13_1>1000.00</P_13_1>
@@ -1461,10 +1434,10 @@
         <P_2A>3-25/11/2020</P_2A>
         <P_3A>Firma1 Sp. z o.o</P_3A>
         <P_3B>Firma1 Sp. z o.o-ADDRESS</P_3B>
-        <P_3C>Radio Maryja</P_3C>
+        <P_3C>"CORE LOGIC" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ</P_3C>
         <P_3D>AL. A. Mickiewicza 141, 31-127 Kraków</P_3D>
         <P_4A>PL</P_4A>
-        <P_4B>21374202137</P_4B>
+        <P_4B>6762484560</P_4B>
         <P_5B>113-29-95-753 </P_5B>
         <P_6>2020-11-25</P_6>
         <P_13_1>1000.00</P_13_1>
@@ -1488,10 +1461,10 @@
         <P_2A>3-25/11/2020</P_2A>
         <P_3A>Firma1 Sp. z o.o</P_3A>
         <P_3B>Firma1 Sp. z o.o-ADDRESS</P_3B>
-        <P_3C>Radio Maryja</P_3C>
+        <P_3C>"CORE LOGIC" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ</P_3C>
         <P_3D>AL. A. Mickiewicza 141, 31-127 Kraków</P_3D>
         <P_4A>PL</P_4A>
-        <P_4B>21374202137</P_4B>
+        <P_4B>6762484560</P_4B>
         <P_5B>113-29-95-753 </P_5B>
         <P_6>2020-11-25</P_6>
         <P_13_1>1000.00</P_13_1>
@@ -1515,10 +1488,10 @@
         <P_2A>3-25/11/2020</P_2A>
         <P_3A>Firma1 Sp. z o.o</P_3A>
         <P_3B>Firma1 Sp. z o.o-ADDRESS</P_3B>
-        <P_3C>Radio Maryja</P_3C>
+        <P_3C>"CORE LOGIC" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ</P_3C>
         <P_3D>AL. A. Mickiewicza 141, 31-127 Kraków</P_3D>
         <P_4A>PL</P_4A>
-        <P_4B>21374202137</P_4B>
+        <P_4B>6762484560</P_4B>
         <P_5B>113-29-95-753 </P_5B>
         <P_6>2020-11-25</P_6>
         <P_13_1>1000.00</P_13_1>
@@ -1542,10 +1515,10 @@
         <P_2A>3-25/11/2020</P_2A>
         <P_3A>Firma1 Sp. z o.o</P_3A>
         <P_3B>Firma1 Sp. z o.o-ADDRESS</P_3B>
-        <P_3C>Radio Maryja</P_3C>
+        <P_3C>"CORE LOGIC" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ</P_3C>
         <P_3D>AL. A. Mickiewicza 141, 31-127 Kraków</P_3D>
         <P_4A>PL</P_4A>
-        <P_4B>21374202137</P_4B>
+        <P_4B>6762484560</P_4B>
         <P_5B>113-29-95-753 </P_5B>
         <P_6>2020-11-25</P_6>
         <P_13_1>1000.00</P_13_1>
@@ -1569,10 +1542,10 @@
         <P_2A>3-25/11/2020</P_2A>
         <P_3A>Firma1 Sp. z o.o</P_3A>
         <P_3B>Firma1 Sp. z o.o-ADDRESS</P_3B>
-        <P_3C>Radio Maryja</P_3C>
+        <P_3C>"CORE LOGIC" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ</P_3C>
         <P_3D>AL. A. Mickiewicza 141, 31-127 Kraków</P_3D>
         <P_4A>PL</P_4A>
-        <P_4B>21374202137</P_4B>
+        <P_4B>6762484560</P_4B>
         <P_5B>113-29-95-753 </P_5B>
         <P_6>2020-11-25</P_6>
         <P_13_1>1000.00</P_13_1>
@@ -1596,10 +1569,10 @@
         <P_2A>1-07/12/2020</P_2A>
         <P_3A>Firma9 SP. Z O.O.</P_3A>
         <P_3B>Firma9 SP. Z O.O.-ADDRESS</P_3B>
-        <P_3C>Radio Maryja</P_3C>
+        <P_3C>"CORE LOGIC" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ</P_3C>
         <P_3D>ul. Dobra 28, 00-344 Warszawa</P_3D>
         <P_4A>PL</P_4A>
-        <P_4B>21374202137</P_4B>
+        <P_4B>6762484560</P_4B>
         <P_5B>118-16-48-603</P_5B>
         <P_6>2020-11-30</P_6>
         <P_13_1>13000.00</P_13_1>
@@ -1623,10 +1596,10 @@
         <P_2A>2-07/12/2020</P_2A>
         <P_3A>Firma8 Sp. z o.o. sp.k.</P_3A>
         <P_3B>Firma8 Sp. z o.o. sp.k.-ADDRESS</P_3B>
-        <P_3C>Radio Maryja</P_3C>
+        <P_3C>"CORE LOGIC" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ</P_3C>
         <P_3D>ul. Krkusowa 12, 30-123 Kraków</P_3D>
         <P_4A>PL</P_4A>
-        <P_4B>21374202137</P_4B>
+        <P_4B>6762484560</P_4B>
         <P_5B>677-00-46-633</P_5B>
         <P_6>2020-11-30</P_6>
         <P_13_1>1250.00</P_13_1>
@@ -1650,10 +1623,10 @@
         <P_2A>3-07/12/2020</P_2A>
         <P_3A>Firma4</P_3A>
         <P_3B>Firma4-ADDRESS</P_3B>
-        <P_3C>Radio Maryja</P_3C>
+        <P_3C>"CORE LOGIC" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ</P_3C>
         <P_3D>ul. MICKIEWICZA 1/5, 33-100 TARNÓW</P_3D>
         <P_4A>PL</P_4A>
-        <P_4B>21374202137</P_4B>
+        <P_4B>6762484560</P_4B>
         <P_5B>873-171-75-73</P_5B>
         <P_6>2020-11-30</P_6>
         <P_13_1>7.50</P_13_1>
@@ -1677,10 +1650,10 @@
         <P_2A>4-07/12/2020</P_2A>
         <P_3A>Firma4</P_3A>
         <P_3B>Firma4-ADDRESS</P_3B>
-        <P_3C>Radio Maryja</P_3C>
+        <P_3C>"CORE LOGIC" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ</P_3C>
         <P_3D>ul. MICKIEWICZA 1/5, 33-100 TARNÓW</P_3D>
         <P_4A>PL</P_4A>
-        <P_4B>21374202137</P_4B>
+        <P_4B>6762484560</P_4B>
         <P_5B>873-171-75-73</P_5B>
         <P_6>2020-11-30</P_6>
         <P_13_1>280.00</P_13_1>
@@ -1704,10 +1677,10 @@
         <P_2A>5-07/12/2020</P_2A>
         <P_3A>Firma4</P_3A>
         <P_3B>Firma4-ADDRESS</P_3B>
-        <P_3C>Radio Maryja</P_3C>
+        <P_3C>"CORE LOGIC" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ</P_3C>
         <P_3D>ul. MICKIEWICZA 1/5, 33-100 TARNÓW</P_3D>
         <P_4A>PL</P_4A>
-        <P_4B>21374202137</P_4B>
+        <P_4B>6762484560</P_4B>
         <P_5B>873-171-75-73</P_5B>
         <P_6>2020-11-30</P_6>
         <P_13_1>280.00</P_13_1>
@@ -1731,10 +1704,10 @@
         <P_2A>6-07/12/2020</P_2A>
         <P_3A>Firma3 sp. z o.o.</P_3A>
         <P_3B>Firma3 sp. z o.o.-ADDRESS</P_3B>
-        <P_3C>Radio Maryja</P_3C>
+        <P_3C>"CORE LOGIC" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ</P_3C>
         <P_3D>ul. Krkusowa 12, 30-123 Kraków</P_3D>
         <P_4A>PL</P_4A>
-        <P_4B>21374202137</P_4B>
+        <P_4B>6762484560</P_4B>
         <P_5B>675-152-93-71</P_5B>
         <P_6>2020-11-30</P_6>
         <P_13_1>3090.63</P_13_1>
@@ -1758,10 +1731,10 @@
         <P_2A>1-09/12/2020</P_2A>
         <P_3A>Firma3 sp. z o.o.</P_3A>
         <P_3B>Firma3 sp. z o.o.-ADDRESS</P_3B>
-        <P_3C>Radio Maryja</P_3C>
+        <P_3C>"CORE LOGIC" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ</P_3C>
         <P_3D>ul. Krkusowa 12, 30-123 Kraków</P_3D>
         <P_4A>PL</P_4A>
-        <P_4B>21374202137</P_4B>
+        <P_4B>6762484560</P_4B>
         <P_5B>675-152-93-71</P_5B>
         <P_6>2020-11-30</P_6>
         <P_13_1>1250.00</P_13_1>
@@ -1785,10 +1758,10 @@
         <P_2A>1-09/12/2020</P_2A>
         <P_3A>Firma3 sp. z o.o.</P_3A>
         <P_3B>Firma3 sp. z o.o.-ADDRESS</P_3B>
-        <P_3C>Radio Maryja</P_3C>
+        <P_3C>"CORE LOGIC" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ</P_3C>
         <P_3D>ul. Krkusowa 12, 30-123 Kraków</P_3D>
         <P_4A>PL</P_4A>
-        <P_4B>21374202137</P_4B>
+        <P_4B>6762484560</P_4B>
         <P_5B>675-152-93-71</P_5B>
         <P_6>2020-11-30</P_6>
         <P_13_1>7840.00</P_13_1>
@@ -1812,10 +1785,10 @@
         <P_2A>1-09/12/2020</P_2A>
         <P_3A>Firma3 sp. z o.o.</P_3A>
         <P_3B>Firma3 sp. z o.o.-ADDRESS</P_3B>
-        <P_3C>Radio Maryja</P_3C>
+        <P_3C>"CORE LOGIC" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ</P_3C>
         <P_3D>ul. Krkusowa 12, 30-123 Kraków</P_3D>
         <P_4A>PL</P_4A>
-        <P_4B>21374202137</P_4B>
+        <P_4B>6762484560</P_4B>
         <P_5B>675-152-93-71</P_5B>
         <P_6>2020-11-30</P_6>
         <P_13_1>1250.00</P_13_1>
@@ -1839,10 +1812,10 @@
         <P_2A>2-09/12/2020</P_2A>
         <P_3A>Firma3 sp. z o.o.</P_3A>
         <P_3B>Firma3 sp. z o.o.-ADDRESS</P_3B>
-        <P_3C>Radio Maryja</P_3C>
+        <P_3C>"CORE LOGIC" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ</P_3C>
         <P_3D>ul. Krkusowa 12, 30-123 Kraków</P_3D>
         <P_4A>PL</P_4A>
-        <P_4B>21374202137</P_4B>
+        <P_4B>6762484560</P_4B>
         <P_5B>675-152-93-71</P_5B>
         <P_6>2020-11-30</P_6>
         <P_13_1>1250.00</P_13_1>
@@ -1866,10 +1839,10 @@
         <P_2A>2-09/12/2020</P_2A>
         <P_3A>Firma3 sp. z o.o.</P_3A>
         <P_3B>Firma3 sp. z o.o.-ADDRESS</P_3B>
-        <P_3C>Radio Maryja</P_3C>
+        <P_3C>"CORE LOGIC" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ</P_3C>
         <P_3D>ul. Krkusowa 12, 30-123 Kraków</P_3D>
         <P_4A>PL</P_4A>
-        <P_4B>21374202137</P_4B>
+        <P_4B>6762484560</P_4B>
         <P_5B>675-152-93-71</P_5B>
         <P_6>2020-11-30</P_6>
         <P_13_1>1250.00</P_13_1>
@@ -1893,10 +1866,10 @@
         <P_2A>1-10/12/2020</P_2A>
         <P_3A>Firma5 SP. Z O.O.</P_3A>
         <P_3B>Firma5 SP. Z O.O.-ADDRESS</P_3B>
-        <P_3C>Radio Maryja</P_3C>
+        <P_3C>"CORE LOGIC" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ</P_3C>
         <P_3D>UL. FELIKSA RADWAŃSKIEGO 15/1, 30-065 KRAKÓW</P_3D>
         <P_4A>PL</P_4A>
-        <P_4B>21374202137</P_4B>
+        <P_4B>6762484560</P_4B>
         <P_5B>634-27-26-447</P_5B>
         <P_6>2020-12-10</P_6>
         <P_13_1>3000.00</P_13_1>
@@ -1920,10 +1893,10 @@
         <P_2A>2-10/12/2020</P_2A>
         <P_3A>Firma6 SP. Z O.O.</P_3A>
         <P_3B>Firma6 SP. Z O.O.-ADDRESS</P_3B>
-        <P_3C>Radio Maryja</P_3C>
+        <P_3C>"CORE LOGIC" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ</P_3C>
         <P_3D>UL. FELIKSA RADWAŃSKIEGO 15/1, 30-065 KRAKÓW</P_3D>
         <P_4A>PL</P_4A>
-        <P_4B>21374202137</P_4B>
+        <P_4B>6762484560</P_4B>
         <P_5B>676-247-94-12</P_5B>
         <P_6>2020-12-10</P_6>
         <P_13_1>7000.00</P_13_1>
@@ -1947,10 +1920,10 @@
         <P_2A>1-14/12/2020</P_2A>
         <P_3A>Firma1 Sp. z o.o</P_3A>
         <P_3B>Firma1 Sp. z o.o-ADDRESS</P_3B>
-        <P_3C>Radio Maryja</P_3C>
+        <P_3C>"CORE LOGIC" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ</P_3C>
         <P_3D>AL. A. Mickiewicza 141, 31-127 Kraków</P_3D>
         <P_4A>PL</P_4A>
-        <P_4B>21374202137</P_4B>
+        <P_4B>6762484560</P_4B>
         <P_5B>113-29-95-753 </P_5B>
         <P_6>2020-11-30</P_6>
         <P_13_1>1000.00</P_13_1>
@@ -1974,10 +1947,10 @@
         <P_2A>1-14/12/2020</P_2A>
         <P_3A>Firma1 Sp. z o.o</P_3A>
         <P_3B>Firma1 Sp. z o.o-ADDRESS</P_3B>
-        <P_3C>Radio Maryja</P_3C>
+        <P_3C>"CORE LOGIC" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ</P_3C>
         <P_3D>AL. A. Mickiewicza 141, 31-127 Kraków</P_3D>
         <P_4A>PL</P_4A>
-        <P_4B>21374202137</P_4B>
+        <P_4B>6762484560</P_4B>
         <P_5B>113-29-95-753 </P_5B>
         <P_6>2020-11-30</P_6>
         <P_13_1>1000.00</P_13_1>
@@ -2001,10 +1974,10 @@
         <P_2A>1-14/12/2020</P_2A>
         <P_3A>Firma1 Sp. z o.o</P_3A>
         <P_3B>Firma1 Sp. z o.o-ADDRESS</P_3B>
-        <P_3C>Radio Maryja</P_3C>
+        <P_3C>"CORE LOGIC" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ</P_3C>
         <P_3D>AL. A. Mickiewicza 141, 31-127 Kraków</P_3D>
         <P_4A>PL</P_4A>
-        <P_4B>21374202137</P_4B>
+        <P_4B>6762484560</P_4B>
         <P_5B>113-29-95-753 </P_5B>
         <P_6>2020-11-30</P_6>
         <P_13_1>1000.00</P_13_1>
@@ -2028,10 +2001,10 @@
         <P_2A>1-14/12/2020</P_2A>
         <P_3A>Firma1 Sp. z o.o</P_3A>
         <P_3B>Firma1 Sp. z o.o-ADDRESS</P_3B>
-        <P_3C>Radio Maryja</P_3C>
+        <P_3C>"CORE LOGIC" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ</P_3C>
         <P_3D>AL. A. Mickiewicza 141, 31-127 Kraków</P_3D>
         <P_4A>PL</P_4A>
-        <P_4B>21374202137</P_4B>
+        <P_4B>6762484560</P_4B>
         <P_5B>113-29-95-753 </P_5B>
         <P_6>2020-11-30</P_6>
         <P_13_1>1000.00</P_13_1>
@@ -2055,10 +2028,10 @@
         <P_2A>1-14/12/2020</P_2A>
         <P_3A>Firma1 Sp. z o.o</P_3A>
         <P_3B>Firma1 Sp. z o.o-ADDRESS</P_3B>
-        <P_3C>Radio Maryja</P_3C>
+        <P_3C>"CORE LOGIC" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ</P_3C>
         <P_3D>AL. A. Mickiewicza 141, 31-127 Kraków</P_3D>
         <P_4A>PL</P_4A>
-        <P_4B>21374202137</P_4B>
+        <P_4B>6762484560</P_4B>
         <P_5B>113-29-95-753 </P_5B>
         <P_6>2020-11-30</P_6>
         <P_13_1>1000.00</P_13_1>
@@ -2082,10 +2055,10 @@
         <P_2A>1-14/12/2020</P_2A>
         <P_3A>Firma1 Sp. z o.o</P_3A>
         <P_3B>Firma1 Sp. z o.o-ADDRESS</P_3B>
-        <P_3C>Radio Maryja</P_3C>
+        <P_3C>"CORE LOGIC" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ</P_3C>
         <P_3D>AL. A. Mickiewicza 141, 31-127 Kraków</P_3D>
         <P_4A>PL</P_4A>
-        <P_4B>21374202137</P_4B>
+        <P_4B>6762484560</P_4B>
         <P_5B>113-29-95-753 </P_5B>
         <P_6>2020-11-30</P_6>
         <P_13_1>1000.00</P_13_1>
@@ -2109,10 +2082,10 @@
         <P_2A>1-14/12/2020</P_2A>
         <P_3A>Firma1 Sp. z o.o</P_3A>
         <P_3B>Firma1 Sp. z o.o-ADDRESS</P_3B>
-        <P_3C>Radio Maryja</P_3C>
+        <P_3C>"CORE LOGIC" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ</P_3C>
         <P_3D>AL. A. Mickiewicza 141, 31-127 Kraków</P_3D>
         <P_4A>PL</P_4A>
-        <P_4B>21374202137</P_4B>
+        <P_4B>6762484560</P_4B>
         <P_5B>113-29-95-753 </P_5B>
         <P_6>2020-11-30</P_6>
         <P_13_1>1000.00</P_13_1>
@@ -2136,10 +2109,10 @@
         <P_2A>1-14/12/2020</P_2A>
         <P_3A>Firma1 Sp. z o.o</P_3A>
         <P_3B>Firma1 Sp. z o.o-ADDRESS</P_3B>
-        <P_3C>Radio Maryja</P_3C>
+        <P_3C>"CORE LOGIC" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ</P_3C>
         <P_3D>AL. A. Mickiewicza 141, 31-127 Kraków</P_3D>
         <P_4A>PL</P_4A>
-        <P_4B>21374202137</P_4B>
+        <P_4B>6762484560</P_4B>
         <P_5B>113-29-95-753 </P_5B>
         <P_6>2020-11-30</P_6>
         <P_13_1>1000.00</P_13_1>
@@ -2163,10 +2136,10 @@
         <P_2A>1-14/12/2020</P_2A>
         <P_3A>Firma1 Sp. z o.o</P_3A>
         <P_3B>Firma1 Sp. z o.o-ADDRESS</P_3B>
-        <P_3C>Radio Maryja</P_3C>
+        <P_3C>"CORE LOGIC" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ</P_3C>
         <P_3D>AL. A. Mickiewicza 141, 31-127 Kraków</P_3D>
         <P_4A>PL</P_4A>
-        <P_4B>21374202137</P_4B>
+        <P_4B>6762484560</P_4B>
         <P_5B>113-29-95-753 </P_5B>
         <P_6>2020-11-30</P_6>
         <P_13_1>1000.00</P_13_1>
@@ -2190,10 +2163,10 @@
         <P_2A>2-14/12/2020</P_2A>
         <P_3A>Firma1 Sp. z o.o</P_3A>
         <P_3B>Firma1 Sp. z o.o-ADDRESS</P_3B>
-        <P_3C>Radio Maryja</P_3C>
+        <P_3C>"CORE LOGIC" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ</P_3C>
         <P_3D>AL. A. Mickiewicza 141, 31-127 Kraków</P_3D>
         <P_4A>PL</P_4A>
-        <P_4B>21374202137</P_4B>
+        <P_4B>6762484560</P_4B>
         <P_5B>113-29-95-753 </P_5B>
         <P_6>2020-11-30</P_6>
         <P_13_1>1000.00</P_13_1>
@@ -2217,10 +2190,10 @@
         <P_2A>3-14/12/2020</P_2A>
         <P_3A>Firma1 Sp. z o.o</P_3A>
         <P_3B>Firma1 Sp. z o.o-ADDRESS</P_3B>
-        <P_3C>Radio Maryja</P_3C>
+        <P_3C>"CORE LOGIC" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ</P_3C>
         <P_3D>AL. A. Mickiewicza 141, 31-127 Kraków</P_3D>
         <P_4A>PL</P_4A>
-        <P_4B>21374202137</P_4B>
+        <P_4B>6762484560</P_4B>
         <P_5B>113-29-95-753 </P_5B>
         <P_6>2020-12-14</P_6>
         <P_13_1>1000.00</P_13_1>
@@ -2244,10 +2217,10 @@
         <P_2A>3-14/12/2020</P_2A>
         <P_3A>Firma1 Sp. z o.o</P_3A>
         <P_3B>Firma1 Sp. z o.o-ADDRESS</P_3B>
-        <P_3C>Radio Maryja</P_3C>
+        <P_3C>"CORE LOGIC" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ</P_3C>
         <P_3D>AL. A. Mickiewicza 141, 31-127 Kraków</P_3D>
         <P_4A>PL</P_4A>
-        <P_4B>21374202137</P_4B>
+        <P_4B>6762484560</P_4B>
         <P_5B>113-29-95-753 </P_5B>
         <P_6>2020-12-14</P_6>
         <P_13_1>1000.00</P_13_1>
@@ -2271,10 +2244,10 @@
         <P_2A>3-14/12/2020</P_2A>
         <P_3A>Firma1 Sp. z o.o</P_3A>
         <P_3B>Firma1 Sp. z o.o-ADDRESS</P_3B>
-        <P_3C>Radio Maryja</P_3C>
+        <P_3C>"CORE LOGIC" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ</P_3C>
         <P_3D>AL. A. Mickiewicza 141, 31-127 Kraków</P_3D>
         <P_4A>PL</P_4A>
-        <P_4B>21374202137</P_4B>
+        <P_4B>6762484560</P_4B>
         <P_5B>113-29-95-753 </P_5B>
         <P_6>2020-12-14</P_6>
         <P_13_1>1000.00</P_13_1>
@@ -2298,10 +2271,10 @@
         <P_2A>3-14/12/2020</P_2A>
         <P_3A>Firma1 Sp. z o.o</P_3A>
         <P_3B>Firma1 Sp. z o.o-ADDRESS</P_3B>
-        <P_3C>Radio Maryja</P_3C>
+        <P_3C>"CORE LOGIC" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ</P_3C>
         <P_3D>AL. A. Mickiewicza 141, 31-127 Kraków</P_3D>
         <P_4A>PL</P_4A>
-        <P_4B>21374202137</P_4B>
+        <P_4B>6762484560</P_4B>
         <P_5B>113-29-95-753 </P_5B>
         <P_6>2020-12-14</P_6>
         <P_13_1>1000.00</P_13_1>
@@ -2325,10 +2298,10 @@
         <P_2A>3-14/12/2020</P_2A>
         <P_3A>Firma1 Sp. z o.o</P_3A>
         <P_3B>Firma1 Sp. z o.o-ADDRESS</P_3B>
-        <P_3C>Radio Maryja</P_3C>
+        <P_3C>"CORE LOGIC" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ</P_3C>
         <P_3D>AL. A. Mickiewicza 141, 31-127 Kraków</P_3D>
         <P_4A>PL</P_4A>
-        <P_4B>21374202137</P_4B>
+        <P_4B>6762484560</P_4B>
         <P_5B>113-29-95-753 </P_5B>
         <P_6>2020-12-14</P_6>
         <P_13_1>1000.00</P_13_1>
@@ -2352,10 +2325,10 @@
         <P_2A>3-14/12/2020</P_2A>
         <P_3A>Firma1 Sp. z o.o</P_3A>
         <P_3B>Firma1 Sp. z o.o-ADDRESS</P_3B>
-        <P_3C>Radio Maryja</P_3C>
+        <P_3C>"CORE LOGIC" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ</P_3C>
         <P_3D>AL. A. Mickiewicza 141, 31-127 Kraków</P_3D>
         <P_4A>PL</P_4A>
-        <P_4B>21374202137</P_4B>
+        <P_4B>6762484560</P_4B>
         <P_5B>113-29-95-753 </P_5B>
         <P_6>2020-12-14</P_6>
         <P_13_1>1000.00</P_13_1>
@@ -2379,10 +2352,10 @@
         <P_2A>4-14/12/2020</P_2A>
         <P_3A>Firma7 S.A.</P_3A>
         <P_3B>Firma7 S.A.-ADDRESS</P_3B>
-        <P_3C>Radio Maryja</P_3C>
+        <P_3C>"CORE LOGIC" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ</P_3C>
         <P_3D>ul. Postępu 18B, 02- 676 Warszawa</P_3D>
         <P_4A>PL</P_4A>
-        <P_4B>21374202137</P_4B>
+        <P_4B>6762484560</P_4B>
         <P_5B> 531 30 92 922</P_5B>
         <P_6>2020-12-14</P_6>
         <P_13_1>1400.00</P_13_1>
@@ -2406,10 +2379,10 @@
         <P_2A>1-04/01/2021</P_2A>
         <P_3A>Firma3 sp. z o.o.</P_3A>
         <P_3B>Firma3 sp. z o.o.-ADDRESS</P_3B>
-        <P_3C>Radio Maryja</P_3C>
+        <P_3C>"CORE LOGIC" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ</P_3C>
         <P_3D>ul. Krkusowa 12, 30-123 Kraków</P_3D>
         <P_4A>PL</P_4A>
-        <P_4B>21374202137</P_4B>
+        <P_4B>6762484560</P_4B>
         <P_5B>675-152-93-71</P_5B>
         <P_6>2020-12-30</P_6>
         <P_13_1>1250.00</P_13_1>
@@ -2433,10 +2406,10 @@
         <P_2A>1-04/01/2021</P_2A>
         <P_3A>Firma3 sp. z o.o.</P_3A>
         <P_3B>Firma3 sp. z o.o.-ADDRESS</P_3B>
-        <P_3C>Radio Maryja</P_3C>
+        <P_3C>"CORE LOGIC" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ</P_3C>
         <P_3D>ul. Krkusowa 12, 30-123 Kraków</P_3D>
         <P_4A>PL</P_4A>
-        <P_4B>21374202137</P_4B>
+        <P_4B>6762484560</P_4B>
         <P_5B>675-152-93-71</P_5B>
         <P_6>2020-12-30</P_6>
         <P_13_1>1250.00</P_13_1>
@@ -2460,10 +2433,10 @@
         <P_2A>2-04/01/2021</P_2A>
         <P_3A>Firma3 sp. z o.o.</P_3A>
         <P_3B>Firma3 sp. z o.o.-ADDRESS</P_3B>
-        <P_3C>Radio Maryja</P_3C>
+        <P_3C>"CORE LOGIC" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ</P_3C>
         <P_3D>ul. Krkusowa 12, 30-123 Kraków</P_3D>
         <P_4A>PL</P_4A>
-        <P_4B>21374202137</P_4B>
+        <P_4B>6762484560</P_4B>
         <P_5B>675-152-93-71</P_5B>
         <P_6>2020-12-30</P_6>
         <P_13_1>6200.00</P_13_1>
@@ -2487,10 +2460,10 @@
         <P_2A>3-04/01/2021</P_2A>
         <P_3A>Firma3 sp. z o.o.</P_3A>
         <P_3B>Firma3 sp. z o.o.-ADDRESS</P_3B>
-        <P_3C>Radio Maryja</P_3C>
+        <P_3C>"CORE LOGIC" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ</P_3C>
         <P_3D>ul. Krkusowa 12, 30-123 Kraków</P_3D>
         <P_4A>PL</P_4A>
-        <P_4B>21374202137</P_4B>
+        <P_4B>6762484560</P_4B>
         <P_5B>675-152-93-71</P_5B>
         <P_6>2020-12-30</P_6>
         <P_13_1>1250.00</P_13_1>
@@ -2514,10 +2487,10 @@
         <P_2A>3-04/01/2021</P_2A>
         <P_3A>Firma3 sp. z o.o.</P_3A>
         <P_3B>Firma3 sp. z o.o.-ADDRESS</P_3B>
-        <P_3C>Radio Maryja</P_3C>
+        <P_3C>"CORE LOGIC" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ</P_3C>
         <P_3D>ul. Krkusowa 12, 30-123 Kraków</P_3D>
         <P_4A>PL</P_4A>
-        <P_4B>21374202137</P_4B>
+        <P_4B>6762484560</P_4B>
         <P_5B>675-152-93-71</P_5B>
         <P_6>2020-12-30</P_6>
         <P_13_1>7840.00</P_13_1>
@@ -2541,10 +2514,10 @@
         <P_2A>3-04/01/2021</P_2A>
         <P_3A>Firma3 sp. z o.o.</P_3A>
         <P_3B>Firma3 sp. z o.o.-ADDRESS</P_3B>
-        <P_3C>Radio Maryja</P_3C>
+        <P_3C>"CORE LOGIC" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ</P_3C>
         <P_3D>ul. Krkusowa 12, 30-123 Kraków</P_3D>
         <P_4A>PL</P_4A>
-        <P_4B>21374202137</P_4B>
+        <P_4B>6762484560</P_4B>
         <P_5B>675-152-93-71</P_5B>
         <P_6>2020-12-30</P_6>
         <P_13_1>1250.00</P_13_1>
@@ -2568,10 +2541,10 @@
         <P_2A>4-04/01/2021</P_2A>
         <P_3A>Firma8 Sp. z o.o. sp.k.</P_3A>
         <P_3B>Firma8 Sp. z o.o. sp.k.-ADDRESS</P_3B>
-        <P_3C>Radio Maryja</P_3C>
+        <P_3C>"CORE LOGIC" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ</P_3C>
         <P_3D>ul. Krkusowa 12, 30-123 Kraków</P_3D>
         <P_4A>PL</P_4A>
-        <P_4B>21374202137</P_4B>
+        <P_4B>6762484560</P_4B>
         <P_5B>677-00-46-633</P_5B>
         <P_6>2020-12-30</P_6>
         <P_13_1>1250.00</P_13_1>
@@ -2595,10 +2568,10 @@
         <P_2A>5-04/01/2021</P_2A>
         <P_3A>Firma9 SP. Z O.O.</P_3A>
         <P_3B>Firma9 SP. Z O.O.-ADDRESS</P_3B>
-        <P_3C>Radio Maryja</P_3C>
+        <P_3C>"CORE LOGIC" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ</P_3C>
         <P_3D>ul. Dobra 28, 00-344 Warszawa</P_3D>
         <P_4A>PL</P_4A>
-        <P_4B>21374202137</P_4B>
+        <P_4B>6762484560</P_4B>
         <P_5B>118-16-48-603</P_5B>
         <P_6>2020-12-30</P_6>
         <P_13_1>13000.00</P_13_1>
@@ -2622,10 +2595,10 @@
         <P_2A>1-12/01/2021</P_2A>
         <P_3A>Firma4</P_3A>
         <P_3B>Firma4-ADDRESS</P_3B>
-        <P_3C>Radio Maryja</P_3C>
+        <P_3C>"CORE LOGIC" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ</P_3C>
         <P_3D>ul. MICKIEWICZA 1/5, 33-100 TARNÓW</P_3D>
         <P_4A>PL</P_4A>
-        <P_4B>21374202137</P_4B>
+        <P_4B>6762484560</P_4B>
         <P_5B>873-171-75-73</P_5B>
         <P_6>2020-12-30</P_6>
         <P_13_1>7.50</P_13_1>
@@ -2649,10 +2622,10 @@
         <P_2A>2-12/01/2021</P_2A>
         <P_3A>Firma4</P_3A>
         <P_3B>Firma4-ADDRESS</P_3B>
-        <P_3C>Radio Maryja</P_3C>
+        <P_3C>"CORE LOGIC" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ</P_3C>
         <P_3D>ul. MICKIEWICZA 1/5, 33-100 TARNÓW</P_3D>
         <P_4A>PL</P_4A>
-        <P_4B>21374202137</P_4B>
+        <P_4B>6762484560</P_4B>
         <P_5B>873-171-75-73</P_5B>
         <P_6>2020-12-30</P_6>
         <P_13_1>280.00</P_13_1>
@@ -2676,10 +2649,10 @@
         <P_2A>1-19/01/2021</P_2A>
         <P_3A>Firma1 Sp. z o.o</P_3A>
         <P_3B>Firma1 Sp. z o.o-ADDRESS</P_3B>
-        <P_3C>Radio Maryja</P_3C>
+        <P_3C>"CORE LOGIC" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ</P_3C>
         <P_3D>AL. A. Mickiewicza 141, 31-127 Kraków</P_3D>
         <P_4A>PL</P_4A>
-        <P_4B>21374202137</P_4B>
+        <P_4B>6762484560</P_4B>
         <P_5B>113-29-95-753 </P_5B>
         <P_6>2020-12-30</P_6>
         <P_13_1>1000.00</P_13_1>
@@ -2703,10 +2676,10 @@
         <P_2A>1-19/01/2021</P_2A>
         <P_3A>Firma1 Sp. z o.o</P_3A>
         <P_3B>Firma1 Sp. z o.o-ADDRESS</P_3B>
-        <P_3C>Radio Maryja</P_3C>
+        <P_3C>"CORE LOGIC" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ</P_3C>
         <P_3D>AL. A. Mickiewicza 141, 31-127 Kraków</P_3D>
         <P_4A>PL</P_4A>
-        <P_4B>21374202137</P_4B>
+        <P_4B>6762484560</P_4B>
         <P_5B>113-29-95-753 </P_5B>
         <P_6>2020-12-30</P_6>
         <P_13_1>1000.00</P_13_1>
@@ -2730,10 +2703,10 @@
         <P_2A>1-19/01/2021</P_2A>
         <P_3A>Firma1 Sp. z o.o</P_3A>
         <P_3B>Firma1 Sp. z o.o-ADDRESS</P_3B>
-        <P_3C>Radio Maryja</P_3C>
+        <P_3C>"CORE LOGIC" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ</P_3C>
         <P_3D>AL. A. Mickiewicza 141, 31-127 Kraków</P_3D>
         <P_4A>PL</P_4A>
-        <P_4B>21374202137</P_4B>
+        <P_4B>6762484560</P_4B>
         <P_5B>113-29-95-753 </P_5B>
         <P_6>2020-12-30</P_6>
         <P_13_1>1000.00</P_13_1>
@@ -2757,10 +2730,10 @@
         <P_2A>1-19/01/2021</P_2A>
         <P_3A>Firma1 Sp. z o.o</P_3A>
         <P_3B>Firma1 Sp. z o.o-ADDRESS</P_3B>
-        <P_3C>Radio Maryja</P_3C>
+        <P_3C>"CORE LOGIC" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ</P_3C>
         <P_3D>AL. A. Mickiewicza 141, 31-127 Kraków</P_3D>
         <P_4A>PL</P_4A>
-        <P_4B>21374202137</P_4B>
+        <P_4B>6762484560</P_4B>
         <P_5B>113-29-95-753 </P_5B>
         <P_6>2020-12-30</P_6>
         <P_13_1>1000.00</P_13_1>
@@ -2784,10 +2757,10 @@
         <P_2A>1-19/01/2021</P_2A>
         <P_3A>Firma1 Sp. z o.o</P_3A>
         <P_3B>Firma1 Sp. z o.o-ADDRESS</P_3B>
-        <P_3C>Radio Maryja</P_3C>
+        <P_3C>"CORE LOGIC" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ</P_3C>
         <P_3D>AL. A. Mickiewicza 141, 31-127 Kraków</P_3D>
         <P_4A>PL</P_4A>
-        <P_4B>21374202137</P_4B>
+        <P_4B>6762484560</P_4B>
         <P_5B>113-29-95-753 </P_5B>
         <P_6>2020-12-30</P_6>
         <P_13_1>1000.00</P_13_1>
@@ -2811,10 +2784,10 @@
         <P_2A>1-19/01/2021</P_2A>
         <P_3A>Firma1 Sp. z o.o</P_3A>
         <P_3B>Firma1 Sp. z o.o-ADDRESS</P_3B>
-        <P_3C>Radio Maryja</P_3C>
+        <P_3C>"CORE LOGIC" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ</P_3C>
         <P_3D>AL. A. Mickiewicza 141, 31-127 Kraków</P_3D>
         <P_4A>PL</P_4A>
-        <P_4B>21374202137</P_4B>
+        <P_4B>6762484560</P_4B>
         <P_5B>113-29-95-753 </P_5B>
         <P_6>2020-12-30</P_6>
         <P_13_1>1000.00</P_13_1>
@@ -2838,10 +2811,10 @@
         <P_2A>1-19/01/2021</P_2A>
         <P_3A>Firma1 Sp. z o.o</P_3A>
         <P_3B>Firma1 Sp. z o.o-ADDRESS</P_3B>
-        <P_3C>Radio Maryja</P_3C>
+        <P_3C>"CORE LOGIC" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ</P_3C>
         <P_3D>AL. A. Mickiewicza 141, 31-127 Kraków</P_3D>
         <P_4A>PL</P_4A>
-        <P_4B>21374202137</P_4B>
+        <P_4B>6762484560</P_4B>
         <P_5B>113-29-95-753 </P_5B>
         <P_6>2020-12-30</P_6>
         <P_13_1>1000.00</P_13_1>
@@ -2865,10 +2838,10 @@
         <P_2A>1-19/01/2021</P_2A>
         <P_3A>Firma1 Sp. z o.o</P_3A>
         <P_3B>Firma1 Sp. z o.o-ADDRESS</P_3B>
-        <P_3C>Radio Maryja</P_3C>
+        <P_3C>"CORE LOGIC" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ</P_3C>
         <P_3D>AL. A. Mickiewicza 141, 31-127 Kraków</P_3D>
         <P_4A>PL</P_4A>
-        <P_4B>21374202137</P_4B>
+        <P_4B>6762484560</P_4B>
         <P_5B>113-29-95-753 </P_5B>
         <P_6>2020-12-30</P_6>
         <P_13_1>1000.00</P_13_1>
@@ -2892,10 +2865,10 @@
         <P_2A>1-19/01/2021</P_2A>
         <P_3A>Firma1 Sp. z o.o</P_3A>
         <P_3B>Firma1 Sp. z o.o-ADDRESS</P_3B>
-        <P_3C>Radio Maryja</P_3C>
+        <P_3C>"CORE LOGIC" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ</P_3C>
         <P_3D>AL. A. Mickiewicza 141, 31-127 Kraków</P_3D>
         <P_4A>PL</P_4A>
-        <P_4B>21374202137</P_4B>
+        <P_4B>6762484560</P_4B>
         <P_5B>113-29-95-753 </P_5B>
         <P_6>2020-12-30</P_6>
         <P_13_1>1000.00</P_13_1>
@@ -2919,10 +2892,10 @@
         <P_2A>2-19/01/2021</P_2A>
         <P_3A>Firma1 Sp. z o.o</P_3A>
         <P_3B>Firma1 Sp. z o.o-ADDRESS</P_3B>
-        <P_3C>Radio Maryja</P_3C>
+        <P_3C>"CORE LOGIC" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ</P_3C>
         <P_3D>AL. A. Mickiewicza 141, 31-127 Kraków</P_3D>
         <P_4A>PL</P_4A>
-        <P_4B>21374202137</P_4B>
+        <P_4B>6762484560</P_4B>
         <P_5B>113-29-95-753 </P_5B>
         <P_6>2020-12-30</P_6>
         <P_13_1>1000.00</P_13_1>
@@ -2941,12 +2914,12 @@
         <P_106E_3>false</P_106E_3>
     </Faktura>
     <FakturaCtrl>
-        <LiczbaFaktur>45</LiczbaFaktur>
-        <WartoscFaktur>1763566.69</WartoscFaktur>
+        <LiczbaFaktur>44</LiczbaFaktur>
+        <WartoscFaktur>1762317.48</WartoscFaktur>
     </FakturaCtrl>
     <FakturaWiersz>
         <P_2B>3-09/10/2020</P_2B>
-        <P_7>Czynsz z tytułu najmu powierzchni w budynku przy ul. Radwańskiego 15 w Krakowie za Październik 2020</P_7>
+        <P_7>Sprzedaż usług krajowych</P_7>
         <P_8A>szt</P_8A>
         <P_8B>1</P_8B>
         <P_9A>3000.00</P_9A>
@@ -2956,7 +2929,7 @@
     </FakturaWiersz>
     <FakturaWiersz>
         <P_2B>4-09/10/2020</P_2B>
-        <P_7>Czynsz z tytułu najmu powierzchni w budynku przy ul. Radwańskiego 15 w Krakowie za Październik 2020</P_7>
+        <P_7>Sprzedaż usług krajowych</P_7>
         <P_8A>szt</P_8A>
         <P_8B>1</P_8B>
         <P_9A>7000.00</P_9A>
@@ -2966,7 +2939,7 @@
     </FakturaWiersz>
     <FakturaWiersz>
         <P_2B>1-13/10/2020</P_2B>
-        <P_7>Najem pomieszczeń biurowych, Radwańskiego 15, 1 piętro, 2 miesiące.</P_7>
+        <P_7>Sprzedaż usług krajowych</P_7>
         <P_8A>szt</P_8A>
         <P_8B>1</P_8B>
         <P_9A>3774.00</P_9A>
@@ -2976,7 +2949,7 @@
     </FakturaWiersz>
     <FakturaWiersz>
         <P_2B>3-14/10/2020</P_2B>
-        <P_7>1. Prace rozwojowe - #68074 : Lista endpointów</P_7>
+        <P_7>Sprzedaż usług krajowych</P_7>
         <P_8A>szt</P_8A>
         <P_8B>4.75</P_8B>
         <P_9A>1000.00</P_9A>
@@ -2986,7 +2959,7 @@
     </FakturaWiersz>
     <FakturaWiersz>
         <P_2B>3-14/10/2020</P_2B>
-        <P_7>2. Prace rozwojowe - #67995 : Zlecenie UX - sprint 2</P_7>
+        <P_7>Sprzedaż usług krajowych</P_7>
         <P_8A>szt</P_8A>
         <P_8B>55</P_8B>
         <P_9A>1000.00</P_9A>
@@ -2996,7 +2969,7 @@
     </FakturaWiersz>
     <FakturaWiersz>
         <P_2B>3-14/10/2020</P_2B>
-        <P_7>3. Prace rozwojowe - #67996 : Wyszukiwarka z podpowiedziami i Dodatkowa informacja</P_7>
+        <P_7>Sprzedaż usług krajowych</P_7>
         <P_8A>szt</P_8A>
         <P_8B>10</P_8B>
         <P_9A>1000.00</P_9A>
@@ -3006,7 +2979,7 @@
     </FakturaWiersz>
     <FakturaWiersz>
         <P_2B>3-14/10/2020</P_2B>
-        <P_7>4. Prace rozwojowe - #67810 : Wysyłka maila do handlowca po wykonaniu zadania weryfikacji dowodu rejestracyjnego</P_7>
+        <P_7>Sprzedaż usług krajowych</P_7>
         <P_8A>szt</P_8A>
         <P_8B>0.75</P_8B>
         <P_9A>1000.00</P_9A>
@@ -3016,7 +2989,7 @@
     </FakturaWiersz>
     <FakturaWiersz>
         <P_2B>3-14/10/2020</P_2B>
-        <P_7>5. Prace rozwojowe - #68291 : Modyfikacja parametru obsługi marży</P_7>
+        <P_7>Sprzedaż usług krajowych</P_7>
         <P_8A>szt</P_8A>
         <P_8B>2</P_8B>
         <P_9A>1000.00</P_9A>
@@ -3026,7 +2999,7 @@
     </FakturaWiersz>
     <FakturaWiersz>
         <P_2B>3-14/10/2020</P_2B>
-        <P_7>6. Prace rozwojowe - #68331 : Dołącz do nas - projekt graficzny</P_7>
+        <P_7>Sprzedaż usług krajowych</P_7>
         <P_8A>szt</P_8A>
         <P_8B>1.5</P_8B>
         <P_9A>1000.00</P_9A>
@@ -3036,7 +3009,7 @@
     </FakturaWiersz>
     <FakturaWiersz>
         <P_2B>3-14/10/2020</P_2B>
-        <P_7>7. Prace rozwojowe - #68685 : Zmiany w procesie logistycznym (zagadnienia 1-3)</P_7>
+        <P_7>Sprzedaż usług krajowych</P_7>
         <P_8A>szt</P_8A>
         <P_8B>2.25</P_8B>
         <P_9A>1000.00</P_9A>
@@ -3046,7 +3019,7 @@
     </FakturaWiersz>
     <FakturaWiersz>
         <P_2B>1-15/10/2020</P_2B>
-        <P_7>Zakup serwerów oraz komputerów – jednostek centralnych (klienckich), zgodnie z umową nr  1/UD/2020 </P_7>
+        <P_7>Sprzedaż usług krajowych</P_7>
         <P_8A>szt</P_8A>
         <P_8B>1</P_8B>
         <P_9A>33739.84</P_9A>
@@ -3056,7 +3029,7 @@
     </FakturaWiersz>
     <FakturaWiersz>
         <P_2B>1-15/10/2020</P_2B>
-        <P_7>Zakup drukarki do elektronicznych legitymacji, zgodnie z umową nr  1/UD/2020 </P_7>
+        <P_7>Sprzedaż usług krajowych</P_7>
         <P_8A>szt</P_8A>
         <P_8B>1</P_8B>
         <P_9A>21951.22</P_9A>
@@ -3066,7 +3039,7 @@
     </FakturaWiersz>
     <FakturaWiersz>
         <P_2B>1-15/10/2020</P_2B>
-        <P_7>Wdrożenie poszczególnych modułów wraz zakupem oprogramowania, zgodnie z umową nr  1/UD/2020 </P_7>
+        <P_7>Sprzedaż usług krajowych</P_7>
         <P_8A>szt</P_8A>
         <P_8B>1</P_8B>
         <P_9A>22764.23</P_9A>
@@ -3076,7 +3049,7 @@
     </FakturaWiersz>
     <FakturaWiersz>
         <P_2B>1-15/10/2020</P_2B>
-        <P_7>Migracja danych do nowego systemu, zgodnie z umową nr  1/UD/2020 </P_7>
+        <P_7>Sprzedaż usług krajowych</P_7>
         <P_8A>szt</P_8A>
         <P_8B>1</P_8B>
         <P_9A>26829.27</P_9A>
@@ -3086,7 +3059,7 @@
     </FakturaWiersz>
     <FakturaWiersz>
         <P_2B>1-15/10/2020</P_2B>
-        <P_7>Wdrożenie systemu – oprogramowanie do obsługi systemów, zgodnie z umową nr  1/UD/2020 </P_7>
+        <P_7>Sprzedaż usług krajowych</P_7>
         <P_8A>szt</P_8A>
         <P_8B>1</P_8B>
         <P_9A>17886.18</P_9A>
@@ -3096,7 +3069,7 @@
     </FakturaWiersz>
     <FakturaWiersz>
         <P_2B>1-15/10/2020</P_2B>
-        <P_7>Szkolenia dla kadry i pracowników wdrażanych komponentów Systemu USOS, zgodnie z umową nr  1/UD/2020 </P_7>
+        <P_7>Sprzedaż usług krajowych</P_7>
         <P_8A>szt</P_8A>
         <P_8B>1</P_8B>
         <P_9A>23577.24</P_9A>
@@ -3106,7 +3079,7 @@
     </FakturaWiersz>
     <FakturaWiersz>
         <P_2B>1-15/10/2020</P_2B>
-        <P_7>Obsługa administracyjna, zgodnie z umową nr  1/UD/2020 </P_7>
+        <P_7>Sprzedaż usług krajowych</P_7>
         <P_8A>szt</P_8A>
         <P_8B>1</P_8B>
         <P_9A>14634.15</P_9A>
@@ -3116,7 +3089,7 @@
     </FakturaWiersz>
     <FakturaWiersz>
         <P_2B>2-15/10/2020</P_2B>
-        <P_7>Wdrożenie systemu kształcenia na odległość - unowocześnienie platformy e-learningowej, zgodnie z umową nr 4/UD/2020</P_7>
+        <P_7>Sprzedaż usług krajowych</P_7>
         <P_8A>szt</P_8A>
         <P_8B>1</P_8B>
         <P_9A>31707.32</P_9A>
@@ -3126,7 +3099,7 @@
     </FakturaWiersz>
     <FakturaWiersz>
         <P_2B>2-15/10/2020</P_2B>
-        <P_7>Wdrożenie systemu kształcenia na odległość – e-learning - szkolenia dla pracowników, zgodnie z umową nr 4/UD/2020</P_7>
+        <P_7>Sprzedaż usług krajowych</P_7>
         <P_8A>szt</P_8A>
         <P_8B>1</P_8B>
         <P_9A>10000.00</P_9A>
@@ -3136,7 +3109,7 @@
     </FakturaWiersz>
     <FakturaWiersz>
         <P_2B>2-15/10/2020</P_2B>
-        <P_7>Wdrożenie systemu kształcenia na odległość - e-learning – serwer wirtualny, zgodnie z umową nr 4/UD/2020</P_7>
+        <P_7>Sprzedaż usług krajowych</P_7>
         <P_8A>szt</P_8A>
         <P_8B>1</P_8B>
         <P_9A>2032.52</P_9A>
@@ -3146,7 +3119,7 @@
     </FakturaWiersz>
     <FakturaWiersz>
         <P_2B>2-15/10/2020</P_2B>
-        <P_7>Wdrożenie systemu kształcenia na odległość - e-learning  - implementacja kursów na platformę, zgodnie z umową nr 4/UD/2020</P_7>
+        <P_7>Sprzedaż usług krajowych</P_7>
         <P_8A>szt</P_8A>
         <P_8B>1</P_8B>
         <P_9A>5000.00</P_9A>
@@ -3156,7 +3129,7 @@
     </FakturaWiersz>
     <FakturaWiersz>
         <P_2B>3-15/10/2020</P_2B>
-        <P_7>Komputer wraz z systemem operacyjnym, zgodnie z umową nr 1/PK/2020</P_7>
+        <P_7>Sprzedaż usług krajowych</P_7>
         <P_8A>szt</P_8A>
         <P_8B>24</P_8B>
         <P_9A>6351.63</P_9A>
@@ -3166,7 +3139,7 @@
     </FakturaWiersz>
     <FakturaWiersz>
         <P_2B>3-15/10/2020</P_2B>
-        <P_7>Oprogramowanie sprzedażowe, zgodnie z umową nr 1/PK/2020</P_7>
+        <P_7>Sprzedaż usług krajowych</P_7>
         <P_8A>szt</P_8A>
         <P_8B>24</P_8B>
         <P_9A>406.50</P_9A>
@@ -3176,7 +3149,7 @@
     </FakturaWiersz>
     <FakturaWiersz>
         <P_2B>3-15/10/2020</P_2B>
-        <P_7>Oprogramowanie finansowo – księgowe, zgodnie z umową nr 1/PK/2020</P_7>
+        <P_7>Sprzedaż usług krajowych</P_7>
         <P_8A>szt</P_8A>
         <P_8B>24</P_8B>
         <P_9A>406.50</P_9A>
@@ -3186,7 +3159,7 @@
     </FakturaWiersz>
     <FakturaWiersz>
         <P_2B>3-15/10/2020</P_2B>
-        <P_7>Router, zgodnie z umową nr 1/PK/2020</P_7>
+        <P_7>Sprzedaż usług krajowych</P_7>
         <P_8A>szt</P_8A>
         <P_8B>2</P_8B>
         <P_9A>406.51</P_9A>
@@ -3196,7 +3169,7 @@
     </FakturaWiersz>
     <FakturaWiersz>
         <P_2B>3-15/10/2020</P_2B>
-        <P_7>Switch, zgodnie z umową nr 1/PK/2020</P_7>
+        <P_7>Sprzedaż usług krajowych</P_7>
         <P_8A>szt</P_8A>
         <P_8B>2</P_8B>
         <P_9A>528.46</P_9A>
@@ -3206,7 +3179,7 @@
     </FakturaWiersz>
     <FakturaWiersz>
         <P_2B>3-15/10/2020</P_2B>
-        <P_7>Okablowanie (2m), zgodnie z umową nr 1/PK/2020</P_7>
+        <P_7>Sprzedaż usług krajowych</P_7>
         <P_8A>szt</P_8A>
         <P_8B>28</P_8B>
         <P_9A>2.90</P_9A>
@@ -3216,7 +3189,7 @@
     </FakturaWiersz>
     <FakturaWiersz>
         <P_2B>3-15/10/2020</P_2B>
-        <P_7>Okablowanie (1,5m), zgodnie z umową nr 1/PK/2020</P_7>
+        <P_7>Sprzedaż usług krajowych</P_7>
         <P_8A>szt</P_8A>
         <P_8B>24</P_8B>
         <P_9A>3.39</P_9A>
@@ -3226,7 +3199,7 @@
     </FakturaWiersz>
     <FakturaWiersz>
         <P_2B>1-16/10/2020</P_2B>
-        <P_7>Informatyczne narzędzia edukacyjne</P_7>
+        <P_7>Sprzedaż usług krajowych</P_7>
         <P_8A>szt</P_8A>
         <P_8B>1</P_8B>
         <P_9A>1268.29</P_9A>
@@ -3236,7 +3209,7 @@
     </FakturaWiersz>
     <FakturaWiersz>
         <P_2B>1-05/11/2020</P_2B>
-        <P_7>NAJEM SERWERA ZA OKRES 10.2020 (SPECYFIKACJA ZGODNA Z UMOWĄ)   </P_7>
+        <P_7>Sprzedaż usług krajowych</P_7>
         <P_8A>szt</P_8A>
         <P_8B>1</P_8B>
         <P_9A>13000.00</P_9A>
@@ -3246,7 +3219,7 @@
     </FakturaWiersz>
     <FakturaWiersz>
         <P_2B>2-05/11/2020</P_2B>
-        <P_7>Zarządzanie infrastrukturą serwerową oraz usługami dla projektu Innovative- ZGODNIE Z RAPORTEM</P_7>
+        <P_7>Sprzedaż usług krajowych</P_7>
         <P_8A>szt</P_8A>
         <P_8B>1</P_8B>
         <P_9A>3909.38</P_9A>
@@ -3256,7 +3229,7 @@
     </FakturaWiersz>
     <FakturaWiersz>
         <P_2B>3-05/11/2020</P_2B>
-        <P_7>Urządzenia GPS – terminale/montaż – październik 2020 zgodnie z załącznikiem </P_7>
+        <P_7>Sprzedaż usług krajowych</P_7>
         <P_8A>szt</P_8A>
         <P_8B>63</P_8B>
         <P_9A>280.00</P_9A>
@@ -3266,7 +3239,7 @@
     </FakturaWiersz>
     <FakturaWiersz>
         <P_2B>1-09/11/2020</P_2B>
-        <P_7>Firma3 - prace projektowe oraz programistyczne związane z rozwojem, zgodne z załącznikiem</P_7>
+        <P_7>Sprzedaż usług krajowych</P_7>
         <P_8A>szt</P_8A>
         <P_8B>83.6375</P_8B>
         <P_9A>1250.00</P_9A>
@@ -3276,7 +3249,7 @@
     </FakturaWiersz>
     <FakturaWiersz>
         <P_2B>1-09/11/2020</P_2B>
-        <P_7>Zarządzanie infrastrukturą serwerową oraz usługami dla projektu Firma3 – Premium</P_7>
+        <P_7>Sprzedaż usług krajowych</P_7>
         <P_8A>szt</P_8A>
         <P_8B>1</P_8B>
         <P_9A>7840.00</P_9A>
@@ -3286,7 +3259,7 @@
     </FakturaWiersz>
     <FakturaWiersz>
         <P_2B>1-09/11/2020</P_2B>
-        <P_7>Firma3 - prace projektowe oraz programistyczne związane z utrzymaniem i poprawą błędów oraz bieżącymi działaniami,  zgodne z załącznikiem</P_7>
+        <P_7>Sprzedaż usług krajowych</P_7>
         <P_8A>szt</P_8A>
         <P_8B>4</P_8B>
         <P_9A>1250.00</P_9A>
@@ -3296,7 +3269,7 @@
     </FakturaWiersz>
     <FakturaWiersz>
         <P_2B>2-09/11/2020</P_2B>
-        <P_7>Innovative - prace projektowe oraz programistyczne związane z rozwojem, zgodnie z załącznikiem</P_7>
+        <P_7>Sprzedaż usług krajowych</P_7>
         <P_8A>szt</P_8A>
         <P_8B>12.18750</P_8B>
         <P_9A>1250.00</P_9A>
@@ -3306,7 +3279,7 @@
     </FakturaWiersz>
     <FakturaWiersz>
         <P_2B>2-09/11/2020</P_2B>
-        <P_7>Innovative - prace projektowe oraz programistyczne związane z utrzymaniem i poprawą błędów oraz bieżącymi działaniami,  zgodnie z załącznikiem</P_7>
+        <P_7>Sprzedaż usług krajowych</P_7>
         <P_8A>szt</P_8A>
         <P_8B>6.50000</P_8B>
         <P_9A>1250.00</P_9A>
@@ -3315,18 +3288,8 @@
         <P_12>23</P_12>
     </FakturaWiersz>
     <FakturaWiersz>
-        <P_2B>1-12/11/2020</P_2B>
-        <P_7>Faktura korygująca, korekta dotyczy fv nr 2-09/11/2020 przyczyna korkty błędna kwota w pozycji nr 2 – Różnica do zwrotu - Innovative - prace projektowe oraz programistyczne związane z rozwojem, zgodnie z załącznikiem</P_7>
-        <P_8A>szt</P_8A>
-        <P_8B>0.81250</P_8B>
-        <P_9A>1250.00</P_9A>
-        <P_9B>1537.50</P_9B>
-        <P_11>1015.62</P_11>
-        <P_12>23</P_12>
-    </FakturaWiersz>
-    <FakturaWiersz>
         <P_2B>1-10/11/2020</P_2B>
-        <P_7>Firma8 - prace projektowe oraz programistyczne, zgodnie z załącznikiem</P_7>
+        <P_7>Sprzedaż usług krajowych</P_7>
         <P_8A>szt</P_8A>
         <P_8B>26.47500</P_8B>
         <P_9A>1250.00</P_9A>
@@ -3336,7 +3299,7 @@
     </FakturaWiersz>
     <FakturaWiersz>
         <P_2B>2-10/11/2020</P_2B>
-        <P_7>Czynsz z tytułu najmu powierzchni w budynku przy ul. Radwańskiego 15 w Krakowie za Listopad 2020</P_7>
+        <P_7>Sprzedaż usług krajowych</P_7>
         <P_8A>szt</P_8A>
         <P_8B>1</P_8B>
         <P_9A>3000.00</P_9A>
@@ -3346,7 +3309,7 @@
     </FakturaWiersz>
     <FakturaWiersz>
         <P_2B>3-10/11/2020</P_2B>
-        <P_7>Czynsz z tytułu najmu powierzchni w budynku przy ul. Radwańskiego 15 w Krakowie za Listopad 2020</P_7>
+        <P_7>Sprzedaż usług krajowych</P_7>
         <P_8A>szt</P_8A>
         <P_8B>1</P_8B>
         <P_9A>7000.00</P_9A>
@@ -3356,7 +3319,7 @@
     </FakturaWiersz>
     <FakturaWiersz>
         <P_2B>1-13/11/2020</P_2B>
-        <P_7>Abonament – aktywne karty SIM zgodnie z załącznikiem </P_7>
+        <P_7>Sprzedaż usług krajowych</P_7>
         <P_8A>szt</P_8A>
         <P_8B>472.9337</P_8B>
         <P_9A>7.50</P_9A>
@@ -3366,7 +3329,7 @@
     </FakturaWiersz>
     <FakturaWiersz>
         <P_2B>1-17/11/2020</P_2B>
-        <P_7>Informatyczne narzędzia edukacyjne</P_7>
+        <P_7>Sprzedaż usług krajowych</P_7>
         <P_8A>szt</P_8A>
         <P_8B>1</P_8B>
         <P_9A>1593.50</P_9A>
@@ -3376,7 +3339,7 @@
     </FakturaWiersz>
     <FakturaWiersz>
         <P_2B>1-25/11/2020</P_2B>
-        <P_7>Prace związane z utrzymaniem aplikacji Aplikacja sprzedażowa w październiku 2020, zgodnie z załącznikiem</P_7>
+        <P_7>Sprzedaż usług krajowych</P_7>
         <P_8A>szt</P_8A>
         <P_8B>8.95125</P_8B>
         <P_9A>1000.00</P_9A>
@@ -3386,7 +3349,7 @@
     </FakturaWiersz>
     <FakturaWiersz>
         <P_2B>1-25/11/2020</P_2B>
-        <P_7>Prace związane z utrzymaniem aplikacji Sellcar w październiku 2020, zgodnie z załącznikiem</P_7>
+        <P_7>Sprzedaż usług krajowych</P_7>
         <P_8A>szt</P_8A>
         <P_8B>3.41750</P_8B>
         <P_9A>1000.00</P_9A>
@@ -3396,7 +3359,7 @@
     </FakturaWiersz>
     <FakturaWiersz>
         <P_2B>1-25/11/2020</P_2B>
-        <P_7>Prace związane z utrzymaniem systemu Aplikacja GPS w październiku 2020, zgodnie z załącznikiem</P_7>
+        <P_7>Sprzedaż usług krajowych</P_7>
         <P_8A>szt</P_8A>
         <P_8B>14.56250</P_8B>
         <P_9A>1000.00</P_9A>
@@ -3406,7 +3369,7 @@
     </FakturaWiersz>
     <FakturaWiersz>
         <P_2B>1-25/11/2020</P_2B>
-        <P_7>Prace związane z utrzymaniem systemu Aplikacja ubezpieczeniowa w październiku 2020, zgodnie z załącznikiem</P_7>
+        <P_7>Sprzedaż usług krajowych</P_7>
         <P_8A>szt</P_8A>
         <P_8B>1.81250</P_8B>
         <P_9A>1000.00</P_9A>
@@ -3416,7 +3379,7 @@
     </FakturaWiersz>
     <FakturaWiersz>
         <P_2B>1-25/11/2020</P_2B>
-        <P_7>Prace związane z utrzymaniem systemu Aplikacja windykacyjna w październiku 2020, zgodnie z załącznikiem</P_7>
+        <P_7>Sprzedaż usług krajowych</P_7>
         <P_8A>szt</P_8A>
         <P_8B>0.56250</P_8B>
         <P_9A>1000.00</P_9A>
@@ -3426,7 +3389,7 @@
     </FakturaWiersz>
     <FakturaWiersz>
         <P_2B>1-25/11/2020</P_2B>
-        <P_7>Prace związane z utrzymaniem systemu Ces w październiku 2020, zgodnie z załącznikiem</P_7>
+        <P_7>Sprzedaż usług krajowych</P_7>
         <P_8A>szt</P_8A>
         <P_8B>1.21875</P_8B>
         <P_9A>1000.00</P_9A>
@@ -3436,7 +3399,7 @@
     </FakturaWiersz>
     <FakturaWiersz>
         <P_2B>1-25/11/2020</P_2B>
-        <P_7>Prace związane z utrzymaniem usługi eFaktura w październiku 2020, zgodnie z załącznikiem</P_7>
+        <P_7>Sprzedaż usług krajowych</P_7>
         <P_8A>szt</P_8A>
         <P_8B>0.20625</P_8B>
         <P_9A>1000.00</P_9A>
@@ -3446,7 +3409,7 @@
     </FakturaWiersz>
     <FakturaWiersz>
         <P_2B>1-25/11/2020</P_2B>
-        <P_7>Prace związane z utrzymaniem – wyceny w październiku 2020, zgodnie z załącznikiem</P_7>
+        <P_7>Sprzedaż usług krajowych</P_7>
         <P_8A>szt</P_8A>
         <P_8B>3.29875</P_8B>
         <P_9A>1000.00</P_9A>
@@ -3456,7 +3419,7 @@
     </FakturaWiersz>
     <FakturaWiersz>
         <P_2B>2-25/11/2020</P_2B>
-        <P_7>Prace związane z utrzymaniem infrastruktury w październiku 2020, zgodnie z załącznikiem</P_7>
+        <P_7>Sprzedaż usług krajowych</P_7>
         <P_8A>szt</P_8A>
         <P_8B>12.77500</P_8B>
         <P_9A>1000.00</P_9A>
@@ -3466,7 +3429,7 @@
     </FakturaWiersz>
     <FakturaWiersz>
         <P_2B>3-25/11/2020</P_2B>
-        <P_7>Prace rozwojowe - #68697 : Filtry</P_7>
+        <P_7>Sprzedaż usług krajowych</P_7>
         <P_8A>szt</P_8A>
         <P_8B>18.25</P_8B>
         <P_9A>1000.00</P_9A>
@@ -3476,7 +3439,7 @@
     </FakturaWiersz>
     <FakturaWiersz>
         <P_2B>3-25/11/2020</P_2B>
-        <P_7>Prace rozwojowe - #69084 :Nowe pop-upy i frame w górnej belce Selltoll</P_7>
+        <P_7>Sprzedaż usług krajowych</P_7>
         <P_8A>szt</P_8A>
         <P_8B>2.5</P_8B>
         <P_9A>1000.00</P_9A>
@@ -3486,7 +3449,7 @@
     </FakturaWiersz>
     <FakturaWiersz>
         <P_2B>3-25/11/2020</P_2B>
-        <P_7>Prace rozwojowe - #69169 :Podział ruchu na iframe/zalogowany/anonimowy </P_7>
+        <P_7>Sprzedaż usług krajowych</P_7>
         <P_8A>szt</P_8A>
         <P_8B>3</P_8B>
         <P_9A>1000.00</P_9A>
@@ -3496,9 +3459,7 @@
     </FakturaWiersz>
     <FakturaWiersz>
         <P_2B>3-25/11/2020</P_2B>
-        <P_7>Prace rozwojowe - #69401 : Dodatki po audycie UX
-
-</P_7>
+        <P_7>Sprzedaż usług krajowych</P_7>
         <P_8A>szt</P_8A>
         <P_8B>2</P_8B>
         <P_9A>1000.00</P_9A>
@@ -3508,7 +3469,7 @@
     </FakturaWiersz>
     <FakturaWiersz>
         <P_2B>3-25/11/2020</P_2B>
-        <P_7>Prace rozwojowe - #50956 : Grupowanie pojazdów - rozliczenie część 2</P_7>
+        <P_7>Sprzedaż usług krajowych</P_7>
         <P_8A>szt</P_8A>
         <P_8B>29.2125</P_8B>
         <P_9A>1000.00</P_9A>
@@ -3518,7 +3479,7 @@
     </FakturaWiersz>
     <FakturaWiersz>
         <P_2B>3-25/11/2020</P_2B>
-        <P_7>Prace rozwojowe - #60386 : Obsługa pojazdów importowanych – rozliczenie część 2</P_7>
+        <P_7>Sprzedaż usług krajowych</P_7>
         <P_8A>szt</P_8A>
         <P_8B>30.87125</P_8B>
         <P_9A>1000.00</P_9A>
@@ -3528,7 +3489,7 @@
     </FakturaWiersz>
     <FakturaWiersz>
         <P_2B>1-07/12/2020</P_2B>
-        <P_7>NAJEM SERWERA ZA OKRES 11.2020 (SPECYFIKACJA ZGODNA Z UMOWĄ)   </P_7>
+        <P_7>Sprzedaż usług krajowych</P_7>
         <P_8A>szt</P_8A>
         <P_8B>1</P_8B>
         <P_9A>13000.00</P_9A>
@@ -3538,7 +3499,7 @@
     </FakturaWiersz>
     <FakturaWiersz>
         <P_2B>2-07/12/2020</P_2B>
-        <P_7>Firma8 - prace projektowe oraz programistyczne, zgodnie z załącznikiem</P_7>
+        <P_7>Sprzedaż usług krajowych</P_7>
         <P_8A>szt</P_8A>
         <P_8B>12.46875</P_8B>
         <P_9A>1250.00</P_9A>
@@ -3548,7 +3509,7 @@
     </FakturaWiersz>
     <FakturaWiersz>
         <P_2B>3-07/12/2020</P_2B>
-        <P_7>Abonament – aktywne karty SIM zgodnie z załącznikiem </P_7>
+        <P_7>Sprzedaż usług krajowych</P_7>
         <P_8A>szt</P_8A>
         <P_8B>536.86620</P_8B>
         <P_9A>7.50</P_9A>
@@ -3558,7 +3519,7 @@
     </FakturaWiersz>
     <FakturaWiersz>
         <P_2B>4-07/12/2020</P_2B>
-        <P_7>Urządzenia GPS – terminale/montaż – listopad 2020 zgodnie z załącznikiem </P_7>
+        <P_7>Sprzedaż usług krajowych</P_7>
         <P_8A>szt</P_8A>
         <P_8B>52</P_8B>
         <P_9A>280.00</P_9A>
@@ -3568,7 +3529,7 @@
     </FakturaWiersz>
     <FakturaWiersz>
         <P_2B>5-07/12/2020</P_2B>
-        <P_7>Urządzenia GPS – terminale - uzupełnienie stocka urządzeń</P_7>
+        <P_7>Sprzedaż usług krajowych</P_7>
         <P_8A>szt</P_8A>
         <P_8B>100</P_8B>
         <P_9A>280.00</P_9A>
@@ -3578,7 +3539,7 @@
     </FakturaWiersz>
     <FakturaWiersz>
         <P_2B>6-07/12/2020</P_2B>
-        <P_7>Zarządzanie infrastrukturą serwerową oraz usługami dla projektu Innovative- ZGODNIE Z RAPORTEM</P_7>
+        <P_7>Sprzedaż usług krajowych</P_7>
         <P_8A>szt</P_8A>
         <P_8B>1</P_8B>
         <P_9A>3090.63</P_9A>
@@ -3588,7 +3549,7 @@
     </FakturaWiersz>
     <FakturaWiersz>
         <P_2B>1-09/12/2020</P_2B>
-        <P_7>Firma3 - prace projektowe oraz programistyczne związane z rozwojem, zgodne z załącznikiem</P_7>
+        <P_7>Sprzedaż usług krajowych</P_7>
         <P_8A>szt</P_8A>
         <P_8B>78.8000</P_8B>
         <P_9A>1250.00</P_9A>
@@ -3598,7 +3559,7 @@
     </FakturaWiersz>
     <FakturaWiersz>
         <P_2B>1-09/12/2020</P_2B>
-        <P_7>Zarządzanie infrastrukturą serwerową oraz usługami dla projektu Firma3 – Premium</P_7>
+        <P_7>Sprzedaż usług krajowych</P_7>
         <P_8A>szt</P_8A>
         <P_8B>1</P_8B>
         <P_9A>7840.00</P_9A>
@@ -3608,7 +3569,7 @@
     </FakturaWiersz>
     <FakturaWiersz>
         <P_2B>1-09/12/2020</P_2B>
-        <P_7>Firma3 - prace projektowe oraz programistyczne związane z utrzymaniem i poprawą błędów oraz bieżącymi działaniami,  zgodne z załącznikiem</P_7>
+        <P_7>Sprzedaż usług krajowych</P_7>
         <P_8A>szt</P_8A>
         <P_8B>4</P_8B>
         <P_9A>1250.00</P_9A>
@@ -3618,7 +3579,7 @@
     </FakturaWiersz>
     <FakturaWiersz>
         <P_2B>2-09/12/2020</P_2B>
-        <P_7>Innovative - prace projektowe oraz programistyczne związane z rozwojem, zgodnie z załącznikiem</P_7>
+        <P_7>Sprzedaż usług krajowych</P_7>
         <P_8A>szt</P_8A>
         <P_8B>4.71875</P_8B>
         <P_9A>1250.00</P_9A>
@@ -3628,7 +3589,7 @@
     </FakturaWiersz>
     <FakturaWiersz>
         <P_2B>2-09/12/2020</P_2B>
-        <P_7>Innovative - prace projektowe oraz programistyczne związane z utrzymaniem i poprawą błędów oraz bieżącymi działaniami,  zgodnie z załącznikiem</P_7>
+        <P_7>Sprzedaż usług krajowych</P_7>
         <P_8A>szt</P_8A>
         <P_8B>0.93750</P_8B>
         <P_9A>1250.00</P_9A>
@@ -3638,7 +3599,7 @@
     </FakturaWiersz>
     <FakturaWiersz>
         <P_2B>1-10/12/2020</P_2B>
-        <P_7>Czynsz z tytułu najmu powierzchni w budynku przy ul. Radwańskiego 15 w Krakowie za Grudzień 2020</P_7>
+        <P_7>Sprzedaż usług krajowych</P_7>
         <P_8A>szt</P_8A>
         <P_8B>1</P_8B>
         <P_9A>3000.00</P_9A>
@@ -3648,7 +3609,7 @@
     </FakturaWiersz>
     <FakturaWiersz>
         <P_2B>2-10/12/2020</P_2B>
-        <P_7>Czynsz z tytułu najmu powierzchni w budynku przy ul. Radwańskiego 15 w Krakowie za Grudzień 2020</P_7>
+        <P_7>Sprzedaż usług krajowych</P_7>
         <P_8A>szt</P_8A>
         <P_8B>1</P_8B>
         <P_9A>7000.00</P_9A>
@@ -3658,7 +3619,7 @@
     </FakturaWiersz>
     <FakturaWiersz>
         <P_2B>1-14/12/2020</P_2B>
-        <P_7>Prace związane z utrzymaniem aplikacji Aplikacja sprzedażowa w listopadzie 2020, zgodnie z załącznikiem</P_7>
+        <P_7>Sprzedaż usług krajowych</P_7>
         <P_8A>szt</P_8A>
         <P_8B>3.97500</P_8B>
         <P_9A>1000.00</P_9A>
@@ -3668,7 +3629,7 @@
     </FakturaWiersz>
     <FakturaWiersz>
         <P_2B>1-14/12/2020</P_2B>
-        <P_7>Prace związane z utrzymaniem aplikacji Sellcar w listopadzie 2020, zgodnie z załącznikiem</P_7>
+        <P_7>Sprzedaż usług krajowych</P_7>
         <P_8A>szt</P_8A>
         <P_8B>16.06625</P_8B>
         <P_9A>1000.00</P_9A>
@@ -3678,7 +3639,7 @@
     </FakturaWiersz>
     <FakturaWiersz>
         <P_2B>1-14/12/2020</P_2B>
-        <P_7>Prace związane z utrzymaniem systemu Aplikacja GPS w listopadzie 2020, zgodnie z załącznikiem</P_7>
+        <P_7>Sprzedaż usług krajowych</P_7>
         <P_8A>szt</P_8A>
         <P_8B>5.69375</P_8B>
         <P_9A>1000.00</P_9A>
@@ -3688,7 +3649,7 @@
     </FakturaWiersz>
     <FakturaWiersz>
         <P_2B>1-14/12/2020</P_2B>
-        <P_7>Prace związane z utrzymaniem systemu Aplikacja ubezpieczeniowa w listopadzie 2020, zgodnie z załącznikiem</P_7>
+        <P_7>Sprzedaż usług krajowych</P_7>
         <P_8A>szt</P_8A>
         <P_8B>0.50000</P_8B>
         <P_9A>1000.00</P_9A>
@@ -3698,7 +3659,7 @@
     </FakturaWiersz>
     <FakturaWiersz>
         <P_2B>1-14/12/2020</P_2B>
-        <P_7>Prace związane z utrzymaniem systemu Aplikacja windykacyjna w listopadzie 2020, zgodnie z załącznikiem</P_7>
+        <P_7>Sprzedaż usług krajowych</P_7>
         <P_8A>szt</P_8A>
         <P_8B>0.43750</P_8B>
         <P_9A>1000.00</P_9A>
@@ -3708,7 +3669,7 @@
     </FakturaWiersz>
     <FakturaWiersz>
         <P_2B>1-14/12/2020</P_2B>
-        <P_7>Prace związane z utrzymaniem systemu Ces w listopadzie 2020, zgodnie z załącznikiem</P_7>
+        <P_7>Sprzedaż usług krajowych</P_7>
         <P_8A>szt</P_8A>
         <P_8B>0.53125</P_8B>
         <P_9A>1000.00</P_9A>
@@ -3718,7 +3679,7 @@
     </FakturaWiersz>
     <FakturaWiersz>
         <P_2B>1-14/12/2020</P_2B>
-        <P_7>Prace związane z utrzymaniem usługi eFaktura w listopadzie 2020, zgodnie z załącznikiem</P_7>
+        <P_7>Sprzedaż usług krajowych</P_7>
         <P_8A>szt</P_8A>
         <P_8B>0.03125</P_8B>
         <P_9A>1000.00</P_9A>
@@ -3728,7 +3689,7 @@
     </FakturaWiersz>
     <FakturaWiersz>
         <P_2B>1-14/12/2020</P_2B>
-        <P_7>Prace związane z utrzymaniem systemu Seyo (Portal Klienta) w listopadzie 2020, zgodnie z załącznikiem</P_7>
+        <P_7>Sprzedaż usług krajowych</P_7>
         <P_8A>szt</P_8A>
         <P_8B>0.12500</P_8B>
         <P_9A>1000.00</P_9A>
@@ -3738,7 +3699,7 @@
     </FakturaWiersz>
     <FakturaWiersz>
         <P_2B>1-14/12/2020</P_2B>
-        <P_7>Prace związane z utrzymaniem – wyceny w listopadzie 2020, zgodnie z załącznikiem</P_7>
+        <P_7>Sprzedaż usług krajowych</P_7>
         <P_8A>szt</P_8A>
         <P_8B>1.56000</P_8B>
         <P_9A>1000.00</P_9A>
@@ -3748,7 +3709,7 @@
     </FakturaWiersz>
     <FakturaWiersz>
         <P_2B>2-14/12/2020</P_2B>
-        <P_7>Prace związane z utrzymaniem infrastruktury w listopadzie 2020, zgodnie z załącznikiem</P_7>
+        <P_7>Sprzedaż usług krajowych</P_7>
         <P_8A>szt</P_8A>
         <P_8B>13.54375</P_8B>
         <P_9A>1000.00</P_9A>
@@ -3758,7 +3719,7 @@
     </FakturaWiersz>
     <FakturaWiersz>
         <P_2B>3-14/12/2020</P_2B>
-        <P_7>Prace rozwojowe - #70418: SSR</P_7>
+        <P_7>Sprzedaż usług krajowych</P_7>
         <P_8A>szt</P_8A>
         <P_8B>19</P_8B>
         <P_9A>1000.00</P_9A>
@@ -3768,7 +3729,7 @@
     </FakturaWiersz>
     <FakturaWiersz>
         <P_2B>3-14/12/2020</P_2B>
-        <P_7>Prace rozwojowe - #70713: Wszystkie samochody razem i wartość na kaflu (ograniczony zakres)</P_7>
+        <P_7>Sprzedaż usług krajowych</P_7>
         <P_8A>szt</P_8A>
         <P_8B>15</P_8B>
         <P_9A>1000.00</P_9A>
@@ -3778,7 +3739,7 @@
     </FakturaWiersz>
     <FakturaWiersz>
         <P_2B>3-14/12/2020</P_2B>
-        <P_7>Prace rozwojowe - #70991: Finansowanie obce</P_7>
+        <P_7>Sprzedaż usług krajowych</P_7>
         <P_8A>szt</P_8A>
         <P_8B>4.75</P_8B>
         <P_9A>1000.00</P_9A>
@@ -3788,7 +3749,7 @@
     </FakturaWiersz>
     <FakturaWiersz>
         <P_2B>3-14/12/2020</P_2B>
-        <P_7>Prace rozwojowe - #69512: Raport danych klienta na podstawie danych z BIK</P_7>
+        <P_7>Sprzedaż usług krajowych</P_7>
         <P_8A>szt</P_8A>
         <P_8B>3.46875</P_8B>
         <P_9A>1000.00</P_9A>
@@ -3798,7 +3759,7 @@
     </FakturaWiersz>
     <FakturaWiersz>
         <P_2B>3-14/12/2020</P_2B>
-        <P_7>Prace rozwojowe - #70916: Zmiana kwoty minimalnej w zalezności od przeznaczenia gotówki</P_7>
+        <P_7>Sprzedaż usług krajowych</P_7>
         <P_8A>szt</P_8A>
         <P_8B>1</P_8B>
         <P_9A>1000.00</P_9A>
@@ -3808,7 +3769,7 @@
     </FakturaWiersz>
     <FakturaWiersz>
         <P_2B>3-14/12/2020</P_2B>
-        <P_7>Prace rozwojowe - #71459: SME</P_7>
+        <P_7>Sprzedaż usług krajowych</P_7>
         <P_8A>szt</P_8A>
         <P_8B>1.875</P_8B>
         <P_9A>1000.00</P_9A>
@@ -3818,7 +3779,7 @@
     </FakturaWiersz>
     <FakturaWiersz>
         <P_2B>4-14/12/2020</P_2B>
-        <P_7>System „Tankuj korzyści” zgodnie ze ZLECENIEM NR 5 z dnia 15.01.2020 – rozliczenie rozszerzeń, zgodnie z załącznikiem</P_7>
+        <P_7>Sprzedaż usług krajowych</P_7>
         <P_8A>szt</P_8A>
         <P_8B>41.60</P_8B>
         <P_9A>1400.00</P_9A>
@@ -3828,7 +3789,7 @@
     </FakturaWiersz>
     <FakturaWiersz>
         <P_2B>1-04/01/2021</P_2B>
-        <P_7>Innovative - prace projektowe oraz programistyczne związane z rozwojem, zgodnie z załącznikiem</P_7>
+        <P_7>Sprzedaż usług krajowych</P_7>
         <P_8A>szt</P_8A>
         <P_8B>14.65625</P_8B>
         <P_9A>1250.00</P_9A>
@@ -3838,7 +3799,7 @@
     </FakturaWiersz>
     <FakturaWiersz>
         <P_2B>1-04/01/2021</P_2B>
-        <P_7>Innovative - prace projektowe oraz programistyczne związane z utrzymaniem i poprawą błędów oraz bieżącymi działaniami,  zgodnie z załącznikiem</P_7>
+        <P_7>Sprzedaż usług krajowych</P_7>
         <P_8A>szt</P_8A>
         <P_8B>0.87500</P_8B>
         <P_9A>1250.00</P_9A>
@@ -3848,7 +3809,7 @@
     </FakturaWiersz>
     <FakturaWiersz>
         <P_2B>2-04/01/2021</P_2B>
-        <P_7>Zarządzanie infrastrukturą serwerową oraz usługami dla projektu Innovative- ZGODNIE Z RAPORTEM</P_7>
+        <P_7>Sprzedaż usług krajowych</P_7>
         <P_8A>szt</P_8A>
         <P_8B>1</P_8B>
         <P_9A>6200.00</P_9A>
@@ -3858,7 +3819,7 @@
     </FakturaWiersz>
     <FakturaWiersz>
         <P_2B>3-04/01/2021</P_2B>
-        <P_7>Firma3 - prace projektowe oraz programistyczne związane z rozwojem, zgodne z załącznikiem</P_7>
+        <P_7>Sprzedaż usług krajowych</P_7>
         <P_8A>szt</P_8A>
         <P_8B>95.26250</P_8B>
         <P_9A>1250.00</P_9A>
@@ -3868,7 +3829,7 @@
     </FakturaWiersz>
     <FakturaWiersz>
         <P_2B>3-04/01/2021</P_2B>
-        <P_7>Zarządzanie infrastrukturą serwerową oraz usługami dla projektu Firma3 – Premium</P_7>
+        <P_7>Sprzedaż usług krajowych</P_7>
         <P_8A>szt</P_8A>
         <P_8B>1</P_8B>
         <P_9A>7840.00</P_9A>
@@ -3878,7 +3839,7 @@
     </FakturaWiersz>
     <FakturaWiersz>
         <P_2B>3-04/01/2021</P_2B>
-        <P_7>Firma3 - prace projektowe oraz programistyczne związane z utrzymaniem i poprawą błędów oraz bieżącymi działaniami,  zgodne z załącznikiem</P_7>
+        <P_7>Sprzedaż usług krajowych</P_7>
         <P_8A>szt</P_8A>
         <P_8B>4</P_8B>
         <P_9A>1250.00</P_9A>
@@ -3888,7 +3849,7 @@
     </FakturaWiersz>
     <FakturaWiersz>
         <P_2B>4-04/01/2021</P_2B>
-        <P_7>Firma8 - prace projektowe oraz programistyczne, zgodnie z załącznikiem</P_7>
+        <P_7>Sprzedaż usług krajowych</P_7>
         <P_8A>szt</P_8A>
         <P_8B>21.01875</P_8B>
         <P_9A>1250.00</P_9A>
@@ -3898,7 +3859,7 @@
     </FakturaWiersz>
     <FakturaWiersz>
         <P_2B>5-04/01/2021</P_2B>
-        <P_7>NAJEM SERWERA ZA OKRES 12.2020 (SPECYFIKACJA ZGODNA Z UMOWĄ)   </P_7>
+        <P_7>Sprzedaż usług krajowych</P_7>
         <P_8A>szt</P_8A>
         <P_8B>1</P_8B>
         <P_9A>13000.00</P_9A>
@@ -3908,7 +3869,7 @@
     </FakturaWiersz>
     <FakturaWiersz>
         <P_2B>1-12/01/2021</P_2B>
-        <P_7>Abonament – aktywne karty SIM zgodnie z załącznikiem </P_7>
+        <P_7>Sprzedaż usług krajowych</P_7>
         <P_8A>szt</P_8A>
         <P_8B>596.0335</P_8B>
         <P_9A>7.50</P_9A>
@@ -3918,7 +3879,7 @@
     </FakturaWiersz>
     <FakturaWiersz>
         <P_2B>2-12/01/2021</P_2B>
-        <P_7>Urządzenia GPS – terminale/montaż – listopad 2020 zgodnie z załącznikiem </P_7>
+        <P_7>Sprzedaż usług krajowych</P_7>
         <P_8A>szt</P_8A>
         <P_8B>65</P_8B>
         <P_9A>280.00</P_9A>
@@ -3928,7 +3889,7 @@
     </FakturaWiersz>
     <FakturaWiersz>
         <P_2B>1-19/01/2021</P_2B>
-        <P_7>Prace związane z utrzymaniem aplikacji Aplikacja sprzedażowa w grudniu 2020, zgodnie z załącznikiem</P_7>
+        <P_7>Sprzedaż usług krajowych</P_7>
         <P_8A>szt</P_8A>
         <P_8B>8.68750</P_8B>
         <P_9A>1000.00</P_9A>
@@ -3938,7 +3899,7 @@
     </FakturaWiersz>
     <FakturaWiersz>
         <P_2B>1-19/01/2021</P_2B>
-        <P_7>Prace związane z utrzymaniem aplikacji Sellcar w grudniu 2020, zgodnie z załącznikiem</P_7>
+        <P_7>Sprzedaż usług krajowych</P_7>
         <P_8A>szt</P_8A>
         <P_8B>10.27750</P_8B>
         <P_9A>1000.00</P_9A>
@@ -3948,7 +3909,7 @@
     </FakturaWiersz>
     <FakturaWiersz>
         <P_2B>1-19/01/2021</P_2B>
-        <P_7>Prace związane z utrzymaniem systemu Aplikacja GPS w grudniu 2020, zgodnie z załącznikiem</P_7>
+        <P_7>Sprzedaż usług krajowych</P_7>
         <P_8A>szt</P_8A>
         <P_8B>4.50000</P_8B>
         <P_9A>1000.00</P_9A>
@@ -3958,7 +3919,7 @@
     </FakturaWiersz>
     <FakturaWiersz>
         <P_2B>1-19/01/2021</P_2B>
-        <P_7>Prace związane z utrzymaniem systemu Aplikacja ubezpieczeniowa w grudniu 2020, zgodnie z załącznikiem</P_7>
+        <P_7>Sprzedaż usług krajowych</P_7>
         <P_8A>szt</P_8A>
         <P_8B>0.68750</P_8B>
         <P_9A>1000.00</P_9A>
@@ -3968,7 +3929,7 @@
     </FakturaWiersz>
     <FakturaWiersz>
         <P_2B>1-19/01/2021</P_2B>
-        <P_7>Prace związane z utrzymaniem systemu Aplikacja windykacyjna w grudniu 2020, zgodnie z załącznikiem</P_7>
+        <P_7>Sprzedaż usług krajowych</P_7>
         <P_8A>szt</P_8A>
         <P_8B>2.31250</P_8B>
         <P_9A>1000.00</P_9A>
@@ -3978,7 +3939,7 @@
     </FakturaWiersz>
     <FakturaWiersz>
         <P_2B>1-19/01/2021</P_2B>
-        <P_7>Prace związane z utrzymaniem systemu Ces w grudniu 2020, zgodnie z załącznikiem</P_7>
+        <P_7>Sprzedaż usług krajowych</P_7>
         <P_8A>szt</P_8A>
         <P_8B>0.31250</P_8B>
         <P_9A>1000.00</P_9A>
@@ -3988,7 +3949,7 @@
     </FakturaWiersz>
     <FakturaWiersz>
         <P_2B>1-19/01/2021</P_2B>
-        <P_7>Prace związane z utrzymaniem usługi eFaktura w grudniu 2020, zgodnie z załącznikiem</P_7>
+        <P_7>Sprzedaż usług krajowych</P_7>
         <P_8A>szt</P_8A>
         <P_8B>0.12500</P_8B>
         <P_9A>1000.00</P_9A>
@@ -3998,7 +3959,7 @@
     </FakturaWiersz>
     <FakturaWiersz>
         <P_2B>1-19/01/2021</P_2B>
-        <P_7>Prace związane z utrzymaniem systemu Seyo (Portal Klienta) w grudniu 2020, zgodnie z załącznikiem</P_7>
+        <P_7>Sprzedaż usług krajowych</P_7>
         <P_8A>szt</P_8A>
         <P_8B>0.18750</P_8B>
         <P_9A>1000.00</P_9A>
@@ -4008,7 +3969,7 @@
     </FakturaWiersz>
     <FakturaWiersz>
         <P_2B>1-19/01/2021</P_2B>
-        <P_7>Prace związane z utrzymaniem – wyceny w grudniu 2020, zgodnie z załącznikiem</P_7>
+        <P_7>Sprzedaż usług krajowych</P_7>
         <P_8A>szt</P_8A>
         <P_8B>3.74375</P_8B>
         <P_9A>1000.00</P_9A>
@@ -4018,7 +3979,7 @@
     </FakturaWiersz>
     <FakturaWiersz>
         <P_2B>2-19/01/2021</P_2B>
-        <P_7>Prace związane z utrzymaniem infrastruktury w grudniu 2020, zgodnie z załącznikiem</P_7>
+        <P_7>Sprzedaż usług krajowych</P_7>
         <P_8A>szt</P_8A>
         <P_8B>13.43125</P_8B>
         <P_9A>1000.00</P_9A>
@@ -4027,7 +3988,7 @@
         <P_12>23</P_12>
     </FakturaWiersz>
     <FakturaWierszCtrl>
-        <LiczbaWierszyFaktur>108</LiczbaWierszyFaktur>
-        <WartoscWierszyFaktur>1433794.03</WartoscWierszyFaktur>
+        <LiczbaWierszyFaktur>107</LiczbaWierszyFaktur>
+        <WartoscWierszyFaktur>1432778.41</WartoscWierszyFaktur>
     </FakturaWierszCtrl>
 </JPK>

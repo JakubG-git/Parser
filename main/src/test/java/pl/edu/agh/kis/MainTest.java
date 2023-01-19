@@ -23,6 +23,8 @@ public class MainTest {
 
         Main.main(new String[]{"..\\test.csv", "target\\test.xml"});
         Main.main(new String[]{"..\\test.xlsx", "target\\test2.xml"});
+        Main.main(new String[]{"..\\test2023.xlsx", "target\\test2023.xml"});
+        Main.main(new String[]{"..\\short.csv", "target\\short.xml"});
         Main.main(new String[]{"..\\test.2137", "target\\test3.xml"});
     }
 }
